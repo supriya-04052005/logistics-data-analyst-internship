@@ -1,0 +1,2001 @@
+Shipment_ID,Origin_Warehouse,Destination,Carrier,Shipment_Date,Delivery_Date,Weight_kg,Cost,Status,Distance_miles,Transit_Days,Invalid_Date
+SH10001,Mumbai_Warehouse,Hyderabad,DHL,2/2/2025,2/8/2025,8.1,979.63,Delivered,2202,6,FALSE
+SH10002,Delhi_Warehouse,Kolkata,Delhivery,10/10/2025,10/14/2025,6.9,186.22,Delivered,202,4,FALSE
+SH10003,Bengaluru_Warehouse,Ahmedabad,BlueDart,8/27/2025,8/30/2025,11.6,685.09,Delivered,1024,3,FALSE
+SH10004,Delhi_Warehouse,Kolkata,DHL,6/10/2025,6/14/2025,11.1,646.05,Delivered,1173,4,FALSE
+SH10005,Hyderabad_Warehouse,Delhi,Delhivery,6/8/2025,6/14/2025,15.1,1044.77,Delivered,2005,6,FALSE
+SH10006,Bengaluru_Warehouse,Chennai,Delhivery,11/10/2025,11/11/2025,24.5,449.7,Delivered,366,1,FALSE
+SH10007,Ahmedabad_Warehouse,Ahmedabad,Ecom Express,2/1/2025,2/6/2025,16.7,811.41,Delivered,1113,5,FALSE
+SH10008,Ahmedabad_Warehouse,Nashik,FedEx,9/12/2025,9/15/2025,29.6,509.75,Delivered,423,3,FALSE
+SH10009,Delhi_Warehouse,Nashik,Delhivery,3/15/2025,3/22/2025,14.3,1093.32,Delivered,1980,7,FALSE
+SH10010,Ahmedabad_Warehouse,Delhi,XpressBees,2/4/2025,2/10/2025,48.5,1130.93,Delivered,1599,6,FALSE
+SH10011,Delhi_Warehouse,Pune,FedEx,7/12/2025,7/17/2025,29.2,846.07,Delivered,1267,5,FALSE
+SH10012,Mumbai_Warehouse,Surat,XpressBees,12/23/2025,12/27/2025,20.6,681.25,Delivered,1013,4,FALSE
+SH10013,Pune_Warehouse,Nashik,Ecom Express,9/26/2025,9/28/2025,24.6,425.02,In Transit,425,2,FALSE
+SH10014,Delhi_Warehouse,Jaipur,BlueDart,10/5/2025,10/13/2025,11.8,1138.88,Delivered,2309,8,FALSE
+SH10015,Ahmedabad_Warehouse,Ahmedabad,XpressBees,9/19/2025,9/23/2025,14.9,943.03,Delivered,1637,4,FALSE
+SH10016,Hyderabad_Warehouse,Ahmedabad,XpressBees,10/14/2025,10/16/2025,14.5,508.67,Delivered,832,2,FALSE
+SH10017,Mumbai_Warehouse,Jaipur,FedEx,7/7/2025,7/11/2025,10,611.88,Delayed,1064,4,FALSE
+SH10018,Mumbai_Warehouse,Kolkata,XpressBees,2/16/2025,2/23/2025,6,938.16,Delayed,1829,7,FALSE
+SH10019,Bengaluru_Warehouse,Surat,DHL,11/3/2025,11/8/2025,25.4,1012.01,Delivered,1813,5,FALSE
+SH10020,Bengaluru_Warehouse,Kolkata,DHL,6/14/2025,6/19/2025,32.7,913.8,Delivered,1180,5,FALSE
+SH10021,Hyderabad_Warehouse,Hyderabad,DHL,7/2/2025,7/3/2025,23.1,613,Delivered,792,1,FALSE
+SH10022,Pune_Warehouse,Nagpur,BlueDart,5/16/2025,5/21/2025,16.7,913.01,Delivered,1667,5,FALSE
+SH10023,Hyderabad_Warehouse,Nashik,XpressBees,3/8/2025,3/11/2025,62.4,1198.41,Delivered,1663,3,FALSE
+SH10024,Delhi_Warehouse,Kolkata,Delhivery,12/5/2025,12/10/2025,10.9,790.08,Delivered,1519,5,FALSE
+SH10025,Delhi_Warehouse,Nashik,Delhivery,10/13/2025,10/14/2025,21.1,375.55,In Transit,228,1,FALSE
+SH10026,Delhi_Warehouse,Pune,DHL,8/24/2025,8/27/2025,35.7,986.8,Delayed,1208,3,FALSE
+SH10027,Ahmedabad_Warehouse,Chennai,Delhivery,5/27/2025,6/1/2025,7.5,827.66,Delivered,1554,5,FALSE
+SH10028,Delhi_Warehouse,Chennai,BlueDart,10/28/2025,11/4/2025,26.7,1367.65,In Transit,2378,7,FALSE
+SH10029,Bengaluru_Warehouse,Pune,BlueDart,7/19/2025,7/23/2025,50.5,1004.71,Delivered,1338,4,FALSE
+SH10030,Ahmedabad_Warehouse,Surat,FedEx,6/11/2025,6/15/2025,17.7,596.85,Delivered,889,4,FALSE
+SH10031,Mumbai_Warehouse,Pune,FedEx,6/14/2025,6/19/2025,19.8,908.48,Delayed,1412,5,FALSE
+SH10032,Bengaluru_Warehouse,Mumbai,XpressBees,3/24/2025,3/26/2025,10.9,327.1,Delivered,484,2,FALSE
+SH10033,Hyderabad_Warehouse,Surat,Delhivery,2/3/2025,2/4/2025,24.4,454.73,Delivered,272,1,FALSE
+SH10034,Ahmedabad_Warehouse,Nashik,BlueDart,7/22/2025,7/28/2025,9.8,922.67,Delivered,1712,6,FALSE
+SH10035,Mumbai_Warehouse,Nashik,DHL,11/21/2025,11/28/2025,17,1275.75,Delivered,2467,7,FALSE
+SH10036,Hyderabad_Warehouse,Chennai,Ecom Express,1/24/2025,1/31/2025,5.4,999.48,Delivered,2123,7,FALSE
+SH10037,Hyderabad_Warehouse,Jaipur,BlueDart,11/10/2025,11/15/2025,1.8,662.65,Delivered,1480,5,FALSE
+SH10038,Delhi_Warehouse,Ahmedabad,BlueDart,10/30/2025,10/31/2025,12.6,346.91,Delivered,148,1,FALSE
+SH10039,Hyderabad_Warehouse,Surat,Ecom Express,4/12/2025,4/19/2025,12.4,1257.97,Delivered,2471,7,FALSE
+SH10040,Delhi_Warehouse,Pune,DHL,8/19/2025,8/23/2025,13.4,696.47,Delivered,1152,4,FALSE
+SH10041,Bengaluru_Warehouse,Surat,Delhivery,3/2/2025,3/5/2025,28.6,619.17,Delivered,759,3,FALSE
+SH10042,Delhi_Warehouse,Delhi,XpressBees,10/4/2025,10/10/2025,33.3,1304.67,Delivered,2237,6,FALSE
+SH10043,Pune_Warehouse,Jaipur,BlueDart,9/13/2025,9/18/2025,21.7,1062.69,Delivered,1879,5,FALSE
+SH10044,Hyderabad_Warehouse,Delhi,DHL,5/10/2025,5/16/2025,27.3,1126.58,Delivered,1887,6,FALSE
+SH10045,Pune_Warehouse,Delhi,FedEx,1/25/2025,1/27/2025,10.1,512.84,Delivered,730,2,FALSE
+SH10046,Pune_Warehouse,Delhi,DHL,12/21/2025,12/27/2025,8.3,1149.11,Delivered,2480,6,FALSE
+SH10047,Ahmedabad_Warehouse,Ahmedabad,Delhivery,6/12/2025,6/16/2025,24.7,696.07,Delayed,1159,4,FALSE
+SH10048,Ahmedabad_Warehouse,Kolkata,BlueDart,11/22/2025,11/28/2025,7.4,715.38,Delivered,1352,6,FALSE
+SH10049,Bengaluru_Warehouse,Pune,DHL,9/5/2025,9/11/2025,6.8,835.5,Delivered,1890,6,FALSE
+SH10050,Bengaluru_Warehouse,Jaipur,Ecom Express,10/12/2025,10/16/2025,83.1,1468.69,Delivered,1667,4,FALSE
+SH10051,Delhi_Warehouse,Kolkata,FedEx,10/5/2025,10/9/2025,18.5,407.48,Delivered,472,4,FALSE
+SH10052,Bengaluru_Warehouse,Nagpur,BlueDart,3/13/2025,3/17/2025,12.4,544.67,Delivered,791,4,FALSE
+SH10053,Bengaluru_Warehouse,Surat,XpressBees,5/13/2025,5/16/2025,11.4,678.64,Delivered,935,3,FALSE
+SH10054,Bengaluru_Warehouse,Mumbai,DHL,6/20/2025,6/24/2025,5.5,1016.04,Delivered,2372,4,FALSE
+SH10055,Bengaluru_Warehouse,Bengaluru,FedEx,7/1/2025,7/6/2025,21.4,1143.4,In Transit,1801,5,FALSE
+SH10056,Bengaluru_Warehouse,Hyderabad,FedEx,1/16/2025,1/21/2025,14.3,586.47,Delivered,947,5,FALSE
+SH10057,Ahmedabad_Warehouse,Ahmedabad,Delhivery,7/19/2025,7/26/2025,32.7,1154.08,Delayed,1850,7,FALSE
+SH10058,Hyderabad_Warehouse,Delhi,FedEx,2/26/2025,3/3/2025,25.2,997.58,Delivered,1860,5,FALSE
+SH10059,Delhi_Warehouse,Delhi,XpressBees,9/29/2025,10/4/2025,13.9,679.7,Delayed,1016,5,FALSE
+SH10060,Bengaluru_Warehouse,Kolkata,DHL,9/7/2025,9/9/2025,3.3,546.29,In Transit,1038,2,FALSE
+SH10061,Pune_Warehouse,Nashik,XpressBees,12/3/2025,12/9/2025,18.5,1175.09,Delivered,2241,6,FALSE
+SH10062,Pune_Warehouse,Surat,Delhivery,9/29/2025,10/3/2025,17.4,720.68,Delivered,1427,4,FALSE
+SH10063,Hyderabad_Warehouse,Mumbai,DHL,5/14/2025,5/18/2025,2.8,282.58,Delivered,416,4,FALSE
+SH10064,Bengaluru_Warehouse,Hyderabad,DHL,12/20/2025,12/26/2025,23.3,1086.45,Delivered,1814,6,FALSE
+SH10065,Mumbai_Warehouse,Jaipur,DHL,5/30/2025,6/5/2025,7.2,756.1,Delivered,1495,6,FALSE
+SH10066,Delhi_Warehouse,Surat,FedEx,4/29/2025,5/2/2025,33.8,976.62,Delayed,1297,3,FALSE
+SH10067,Ahmedabad_Warehouse,Chennai,FedEx,11/27/2025,12/3/2025,16.7,1051.6,In Transit,1827,6,FALSE
+SH10068,Bengaluru_Warehouse,Mumbai,Delhivery,5/16/2025,5/23/2025,11.2,1094.6,Delivered,2273,7,FALSE
+SH10069,Ahmedabad_Warehouse,Nagpur,FedEx,1/28/2025,1/30/2025,20.3,701.06,Delivered,859,2,FALSE
+SH10070,Bengaluru_Warehouse,Delhi,Ecom Express,6/21/2025,6/23/2025,19.5,700.58,Delivered,1077,2,FALSE
+SH10071,Mumbai_Warehouse,Kolkata,FedEx,10/18/2025,10/22/2025,19,460.12,Delivered,514,4,FALSE
+SH10072,Pune_Warehouse,Chennai,FedEx,3/11/2025,3/16/2025,30.9,1034.79,Delivered,1635,5,FALSE
+SH10073,Mumbai_Warehouse,Nashik,FedEx,6/18/2025,6/21/2025,21.2,699.55,Delivered,1037,3,FALSE
+SH10074,Hyderabad_Warehouse,Bengaluru,FedEx,2/17/2025,2/20/2025,10.5,397.97,Delivered,889,3,FALSE
+SH10075,Hyderabad_Warehouse,Chennai,XpressBees,9/8/2025,9/14/2025,14.6,931.84,Delivered,1757,6,FALSE
+SH10076,Delhi_Warehouse,Surat,FedEx,6/23/2025,6/27/2025,41.6,799.58,Delivered,1050,4,FALSE
+SH10077,Hyderabad_Warehouse,Jaipur,FedEx,5/1/2025,5/4/2025,9.8,751.71,Delivered,1188,3,FALSE
+SH10078,Bengaluru_Warehouse,Nashik,XpressBees,3/24/2025,3/30/2025,23.1,837.34,Delivered,1128,6,FALSE
+SH10079,Hyderabad_Warehouse,Bengaluru,Delhivery,7/26/2025,7/30/2025,31.7,683.17,Delivered,683,4,FALSE
+SH10080,Hyderabad_Warehouse,Chennai,FedEx,9/2/2025,9/4/2025,24.6,426.34,In Transit,358,2,FALSE
+SH10081,Delhi_Warehouse,Jaipur,XpressBees,12/10/2025,12/16/2025,18.6,1055,Delayed,2077,6,FALSE
+SH10082,Bengaluru_Warehouse,Nashik,FedEx,6/9/2025,6/12/2025,20.6,334.01,Delivered,274,3,FALSE
+SH10083,Pune_Warehouse,Delhi,DHL,2/28/2025,3/2/2025,25.6,759.77,Delivered,846,2,FALSE
+SH10084,Hyderabad_Warehouse,Nashik,BlueDart,10/31/2025,11/5/2025,9.7,832.5,Delivered,1686,5,FALSE
+SH10085,Ahmedabad_Warehouse,Hyderabad,Ecom Express,8/18/2025,8/19/2025,17.5,255.01,Delivered,371,1,FALSE
+SH10086,Pune_Warehouse,Hyderabad,FedEx,9/13/2025,9/18/2025,62.2,1360.88,Delivered,1656,5,FALSE
+SH10087,Hyderabad_Warehouse,Ahmedabad,Ecom Express,2/5/2025,2/9/2025,23.5,1137.6,Delivered,1846,4,FALSE
+SH10088,Mumbai_Warehouse,Surat,DHL,4/25/2025,4/29/2025,19,1035.84,Delivered,1674,4,FALSE
+SH10089,Delhi_Warehouse,Jaipur,Ecom Express,10/8/2025,10/13/2025,13.6,587.45,Delivered,797,5,FALSE
+SH10090,Hyderabad_Warehouse,Jaipur,DHL,10/31/2025,11/2/2025,9.8,270.54,Delivered,98,2,FALSE
+SH10091,Pune_Warehouse,Bengaluru,BlueDart,6/8/2025,6/14/2025,21.1,1196.34,Delivered,2224,6,FALSE
+SH10092,Pune_Warehouse,Jaipur,Delhivery,10/21/2025,10/23/2025,22,509.8,Delivered,850,2,FALSE
+SH10093,Delhi_Warehouse,Surat,FedEx,11/4/2025,11/9/2025,16.7,1073.14,Delivered,2023,5,FALSE
+SH10094,Mumbai_Warehouse,Mumbai,Delhivery,5/22/2025,5/25/2025,77.8,999.77,Delivered,534,3,FALSE
+SH10095,Bengaluru_Warehouse,Bengaluru,Ecom Express,11/24/2025,11/27/2025,10.4,349.12,Delivered,448,3,FALSE
+SH10096,Mumbai_Warehouse,Mumbai,Delhivery,4/16/2025,4/20/2025,8.7,965.94,Delivered,1957,4,FALSE
+SH10097,Pune_Warehouse,Nashik,BlueDart,3/29/2025,4/5/2025,13.7,1131.68,Delayed,2353,7,FALSE
+SH10098,Pune_Warehouse,Mumbai,Ecom Express,9/7/2025,9/13/2025,17,1076.18,In Transit,2159,6,FALSE
+SH10099,Ahmedabad_Warehouse,Jaipur,Ecom Express,8/21/2025,8/28/2025,9.4,1055.22,Delivered,1891,7,FALSE
+SH10100,Ahmedabad_Warehouse,Chennai,FedEx,2/21/2025,2/23/2025,20.7,633.72,Delayed,654,2,FALSE
+SH10101,Mumbai_Warehouse,Surat,Ecom Express,10/31/2025,11/4/2025,480,1229.51,Delivered,2288,4,FALSE
+SH10102,Mumbai_Warehouse,Nashik,XpressBees,3/14/2025,3/18/2025,27.6,1038.2,Delivered,1686,4,FALSE
+SH10103,Hyderabad_Warehouse,Nagpur,Ecom Express,10/21/2025,10/23/2025,12.2,327.57,Delivered,471,2,FALSE
+SH10104,Pune_Warehouse,Delhi,Ecom Express,1/3/2025,1/6/2025,39.4,604.38,Delivered,367,3,FALSE
+SH10105,Bengaluru_Warehouse,Delhi,Ecom Express,10/18/2025,10/22/2025,26.4,1318.88,Delivered,2185,4,FALSE
+SH10106,Ahmedabad_Warehouse,Jaipur,Ecom Express,10/15/2025,10/18/2025,10.3,387.52,In Transit,724,3,FALSE
+SH10107,Mumbai_Warehouse,Nagpur,FedEx,10/12/2025,10/19/2025,9.4,994.75,Delivered,1927,7,FALSE
+SH10108,Ahmedabad_Warehouse,Jaipur,Ecom Express,8/31/2025,9/2/2025,14.4,395.43,Delivered,389,2,FALSE
+SH10109,Mumbai_Warehouse,Pune,FedEx,6/22/2025,6/26/2025,22.3,608.11,Delivered,737,4,FALSE
+SH10110,Pune_Warehouse,Bengaluru,BlueDart,9/15/2025,9/17/2025,24.4,690.23,Delivered,744,2,FALSE
+SH10111,Bengaluru_Warehouse,Delhi,XpressBees,4/12/2025,4/14/2025,26.4,726.34,Delivered,738,2,FALSE
+SH10112,Ahmedabad_Warehouse,Mumbai,FedEx,10/12/2025,10/18/2025,59.7,1289.87,Delivered,1703,6,FALSE
+SH10113,Bengaluru_Warehouse,Mumbai,XpressBees,7/22/2025,7/28/2025,4.2,1114.94,Delivered,2291,6,FALSE
+SH10114,Mumbai_Warehouse,Hyderabad,BlueDart,6/17/2025,6/23/2025,16.3,1181.2,Delayed,2281,6,FALSE
+SH10115,Pune_Warehouse,Pune,FedEx,7/4/2025,7/8/2025,56.6,1310.47,Delivered,1867,4,FALSE
+SH10116,Hyderabad_Warehouse,Nagpur,DHL,7/27/2025,7/30/2025,28.4,565.61,Delivered,546,3,FALSE
+SH10117,Bengaluru_Warehouse,Mumbai,Delhivery,1/14/2025,1/19/2025,8.3,1197.16,Delayed,2404,5,FALSE
+SH10118,Mumbai_Warehouse,Nashik,BlueDart,2/21/2025,2/27/2025,20,840.69,Delivered,1378,6,FALSE
+SH10119,Bengaluru_Warehouse,Surat,Delhivery,3/31/2025,4/7/2025,15.7,747.95,Delivered,1388,7,FALSE
+SH10120,Delhi_Warehouse,Nagpur,DHL,2/11/2025,2/17/2025,15.3,927.53,Delivered,1769,6,FALSE
+SH10121,Mumbai_Warehouse,Ahmedabad,FedEx,6/10/2025,6/15/2025,12,969.63,Delivered,1935,5,FALSE
+SH10122,Pune_Warehouse,Mumbai,DHL,9/1/2025,9/5/2025,18.9,1196.02,Delivered,2385,4,FALSE
+SH10123,Ahmedabad_Warehouse,Mumbai,FedEx,8/27/2025,8/30/2025,34.9,1014.23,Delivered,1477,3,FALSE
+SH10124,Hyderabad_Warehouse,Kolkata,XpressBees,6/21/2025,6/27/2025,12.8,860.7,Delivered,1545,6,FALSE
+SH10125,Mumbai_Warehouse,Chennai,DHL,11/9/2025,11/14/2025,26.5,1147.46,Delivered,1877,5,FALSE
+SH10126,Mumbai_Warehouse,Surat,Ecom Express,7/26/2025,7/29/2025,29.5,567.08,Delivered,675,3,FALSE
+SH10127,Delhi_Warehouse,Chennai,DHL,1/29/2025,2/2/2025,39.2,719.12,Delivered,804,4,FALSE
+SH10128,Delhi_Warehouse,Mumbai,Delhivery,10/7/2025,10/13/2025,9.2,908.56,Delivered,1583,6,FALSE
+SH10129,Delhi_Warehouse,Chennai,XpressBees,7/29/2025,7/31/2025,17.9,310.04,Delivered,207,2,FALSE
+SH10130,Hyderabad_Warehouse,Hyderabad,BlueDart,8/20/2025,8/23/2025,11,525.86,Delivered,835,3,FALSE
+SH10131,Pune_Warehouse,Nagpur,FedEx,7/26/2025,7/31/2025,19,991.65,Delivered,1809,5,FALSE
+SH10132,Mumbai_Warehouse,Bengaluru,Delhivery,7/22/2025,7/28/2025,18.9,1328.61,In Transit,2442,6,FALSE
+SH10133,Hyderabad_Warehouse,Nagpur,FedEx,2/3/2025,2/7/2025,7.6,764.71,Delivered,1323,4,FALSE
+SH10134,Ahmedabad_Warehouse,Kolkata,XpressBees,7/24/2025,7/28/2025,19.7,740.86,Delivered,1029,4,FALSE
+SH10135,Pune_Warehouse,Surat,XpressBees,10/18/2025,10/22/2025,620,1079.24,Delivered,1129,4,FALSE
+SH10136,Delhi_Warehouse,Ahmedabad,Delhivery,4/21/2025,4/28/2025,24.5,966.45,Delivered,1729,7,FALSE
+SH10137,Bengaluru_Warehouse,Delhi,Delhivery,8/9/2025,8/14/2025,6.4,821.57,Delivered,1384,5,FALSE
+SH10138,Mumbai_Warehouse,Jaipur,Delhivery,1/12/2025,1/15/2025,8.8,246.42,Delayed,106,3,FALSE
+SH10139,Ahmedabad_Warehouse,Hyderabad,Ecom Express,5/7/2025,5/10/2025,17.3,777.75,Delivered,1371,3,FALSE
+SH10140,Pune_Warehouse,Nashik,BlueDart,6/9/2025,6/13/2025,9,667.41,Delivered,1030,4,FALSE
+SH10141,Bengaluru_Warehouse,Nagpur,XpressBees,12/25/2025,12/30/2025,37.9,1114.83,Delivered,1767,5,FALSE
+SH10142,Delhi_Warehouse,Mumbai,BlueDart,3/20/2025,3/26/2025,5.8,1128.37,Delayed,2194,6,FALSE
+SH10143,Hyderabad_Warehouse,Bengaluru,DHL,4/11/2025,4/18/2025,24.6,1381.77,Delivered,2408,7,FALSE
+SH10144,Pune_Warehouse,Nagpur,Ecom Express,5/30/2025,6/4/2025,4.9,719.87,Delivered,1545,5,FALSE
+SH10145,Mumbai_Warehouse,Surat,Delhivery,12/29/2025,1/4/2026,17.1,651.31,Delivered,938,6,FALSE
+SH10146,Bengaluru_Warehouse,Jaipur,XpressBees,11/8/2025,11/13/2025,8,668.98,Delayed,1138,5,FALSE
+SH10147,Ahmedabad_Warehouse,Surat,BlueDart,1/13/2025,1/17/2025,27.5,660.01,Delivered,482,4,FALSE
+SH10148,Bengaluru_Warehouse,Chennai,BlueDart,3/27/2025,4/3/2025,34,1312.23,In Transit,2343,7,FALSE
+SH10149,Hyderabad_Warehouse,Nashik,Delhivery,10/27/2025,11/4/2025,22.2,1240.41,Delayed,2126,8,FALSE
+SH10150,Delhi_Warehouse,Kolkata,BlueDart,1/22/2025,1/27/2025,35,1278.51,Delivered,2143,5,FALSE
+SH10151,Mumbai_Warehouse,Bengaluru,Ecom Express,11/9/2025,11/14/2025,2.2,389.1,Delayed,854,5,FALSE
+SH10152,Delhi_Warehouse,Jaipur,BlueDart,4/13/2025,4/15/2025,19.6,592.38,Delivered,839,2,FALSE
+SH10153,Ahmedabad_Warehouse,Nashik,Ecom Express,12/1/2025,12/6/2025,24.4,1190.12,Delivered,2149,5,FALSE
+SH10154,Hyderabad_Warehouse,Ahmedabad,BlueDart,4/18/2025,4/23/2025,26.4,827.44,Delivered,1384,5,FALSE
+SH10155,Hyderabad_Warehouse,Nagpur,FedEx,6/8/2025,6/14/2025,23.5,1043.26,Delayed,1777,6,FALSE
+SH10156,Pune_Warehouse,Kolkata,XpressBees,8/30/2025,9/2/2025,26.8,885.48,Delivered,1250,3,FALSE
+SH10157,Bengaluru_Warehouse,Surat,Delhivery,2/16/2025,2/20/2025,19.4,734.7,Delivered,1135,4,FALSE
+SH10158,Bengaluru_Warehouse,Chennai,Ecom Express,7/23/2025,7/28/2025,6.5,777.03,Delivered,1599,5,FALSE
+SH10159,Bengaluru_Warehouse,Ahmedabad,Delhivery,7/4/2025,7/10/2025,11.9,1030.62,Delivered,2042,6,FALSE
+SH10160,Ahmedabad_Warehouse,Kolkata,BlueDart,10/14/2025,10/18/2025,38,767.31,Delayed,868,4,FALSE
+SH10161,Hyderabad_Warehouse,Pune,XpressBees,12/30/2025,1/8/2026,35.4,1246.71,Delivered,2033,9,FALSE
+SH10162,Pune_Warehouse,Surat,BlueDart,8/31/2025,9/3/2025,24.1,618.05,Delivered,648,3,FALSE
+SH10163,Pune_Warehouse,Nashik,XpressBees,5/30/2025,6/2/2025,27.9,767.65,Delayed,1037,3,FALSE
+SH10164,Bengaluru_Warehouse,Bengaluru,BlueDart,5/29/2025,6/3/2025,32.8,1241.77,Delayed,2286,5,FALSE
+SH10165,Ahmedabad_Warehouse,Kolkata,DHL,6/2/2025,6/8/2025,23.9,1255.6,Delivered,2389,6,FALSE
+SH10166,Ahmedabad_Warehouse,Nagpur,DHL,10/25/2025,10/30/2025,37.4,1378.91,Delivered,2314,5,FALSE
+SH10167,Bengaluru_Warehouse,Kolkata,XpressBees,4/28/2025,5/2/2025,36.6,799.01,Delivered,824,4,FALSE
+SH10168,Bengaluru_Warehouse,Nagpur,Delhivery,3/2/2025,3/8/2025,73.4,1664,Delivered,2116,6,FALSE
+SH10169,Hyderabad_Warehouse,Jaipur,BlueDart,5/3/2025,5/9/2025,12.3,1266.64,Delivered,2344,6,FALSE
+SH10170,Ahmedabad_Warehouse,Nashik,Ecom Express,1/9/2025,1/17/2025,12.5,1221.17,Delivered,2447,8,FALSE
+SH10171,Mumbai_Warehouse,Surat,Delhivery,2/8/2025,2/9/2025,22.8,358.2,Delayed,101,1,FALSE
+SH10172,Pune_Warehouse,Jaipur,Delhivery,2/2/2025,2/7/2025,54.6,1251.6,Delivered,1875,5,FALSE
+SH10173,Delhi_Warehouse,Nagpur,Ecom Express,10/9/2025,10/16/2025,39.2,1483.9,Delayed,2493,7,FALSE
+SH10174,Bengaluru_Warehouse,Hyderabad,FedEx,9/21/2025,9/27/2025,30.1,1084.79,Delayed,1924,6,FALSE
+SH10175,Pune_Warehouse,Surat,DHL,9/12/2025,9/16/2025,40.9,685.03,Delivered,621,4,FALSE
+SH10176,Pune_Warehouse,Hyderabad,Ecom Express,6/18/2025,6/24/2025,24.7,1262.57,Delivered,1919,6,FALSE
+SH10177,Mumbai_Warehouse,Nashik,DHL,9/19/2025,9/22/2025,14.5,348.89,Delivered,307,3,FALSE
+SH10178,Mumbai_Warehouse,Nashik,Ecom Express,2/28/2025,3/4/2025,63,1083.33,Delivered,1227,4,FALSE
+SH10179,Delhi_Warehouse,Nagpur,DHL,11/25/2025,12/1/2025,23.5,967.46,Delivered,1584,6,FALSE
+SH10180,Ahmedabad_Warehouse,Nagpur,FedEx,7/2/2025,7/7/2025,36.1,848.97,Delivered,1168,5,FALSE
+SH10181,Pune_Warehouse,Nashik,Ecom Express,12/9/2025,12/16/2025,2.2,787.16,Delivered,1765,7,FALSE
+SH10182,Pune_Warehouse,Nagpur,Delhivery,2/25/2025,2/26/2025,2.6,485.73,Delivered,638,1,FALSE
+SH10183,Pune_Warehouse,Surat,Ecom Express,7/1/2025,7/5/2025,20,953.37,Delivered,1535,4,FALSE
+SH10184,Ahmedabad_Warehouse,Ahmedabad,Delhivery,9/12/2025,9/18/2025,9,860.1,Delivered,1630,6,FALSE
+SH10185,Bengaluru_Warehouse,Surat,DHL,6/30/2025,7/3/2025,21.2,911.91,Delivered,1603,3,FALSE
+SH10186,Bengaluru_Warehouse,Pune,XpressBees,6/12/2025,6/16/2025,12.5,794.255,Delivered,759,4,FALSE
+SH10187,Pune_Warehouse,Bengaluru,FedEx,3/2/2025,3/6/2025,80,1180,In Transit,798,4,FALSE
+SH10188,Ahmedabad_Warehouse,Ahmedabad,DHL,5/20/2025,5/23/2025,34.3,674.43,Delayed,681,3,FALSE
+SH10189,Pune_Warehouse,Bengaluru,XpressBees,3/29/2025,4/2/2025,43.3,774.52,Delayed,1181,4,FALSE
+SH10190,Ahmedabad_Warehouse,Pune,FedEx,4/21/2025,4/25/2025,3.1,863.62,Delivered,1486,4,FALSE
+SH10191,Ahmedabad_Warehouse,Hyderabad,Delhivery,9/7/2025,9/10/2025,29.9,738.18,Delivered,938,3,FALSE
+SH10192,Bengaluru_Warehouse,Bengaluru,BlueDart,8/19/2025,8/22/2025,15.7,675.02,Delivered,1054,3,FALSE
+SH10193,Ahmedabad_Warehouse,Nashik,Ecom Express,8/10/2025,8/13/2025,43.9,828.34,Delivered,751,3,FALSE
+SH10194,Ahmedabad_Warehouse,Bengaluru,DHL,5/13/2025,5/15/2025,27.2,794.255,Delivered,586,2,FALSE
+SH10195,Bengaluru_Warehouse,Hyderabad,DHL,12/17/2025,12/22/2025,17.3,965.75,Delayed,1661,5,FALSE
+SH10196,Hyderabad_Warehouse,Kolkata,BlueDart,2/1/2025,2/7/2025,7,977.2,Delivered,2050,6,FALSE
+SH10197,Bengaluru_Warehouse,Hyderabad,BlueDart,5/6/2025,5/11/2025,19.7,499.85,Delivered,762,5,FALSE
+SH10198,Bengaluru_Warehouse,Bengaluru,Ecom Express,2/13/2025,2/19/2025,37.5,1320.94,In Transit,2159,6,FALSE
+SH10199,Delhi_Warehouse,Bengaluru,Delhivery,5/4/2025,5/9/2025,45.4,1153.22,Delivered,1449,5,FALSE
+SH10200,Bengaluru_Warehouse,Jaipur,DHL,12/18/2025,12/20/2025,13.8,355.29,Delivered,461,2,FALSE
+SH10201,Pune_Warehouse,Delhi,XpressBees,5/14/2025,5/17/2025,72.1,1050.55,Delayed,947,3,FALSE
+SH10202,Pune_Warehouse,Kolkata,BlueDart,11/28/2025,11/29/2025,35.7,479.17,Delivered,68,1,FALSE
+SH10203,Pune_Warehouse,Hyderabad,XpressBees,6/30/2025,7/1/2025,9.1,193.52,Delivered,146,1,FALSE
+SH10204,Mumbai_Warehouse,Hyderabad,XpressBees,9/13/2025,9/15/2025,7.6,488.68,Delivered,873,2,FALSE
+SH10205,Ahmedabad_Warehouse,Mumbai,DHL,6/16/2025,6/20/2025,16.4,687.34,Delayed,1163,4,FALSE
+SH10206,Pune_Warehouse,Kolkata,Delhivery,4/8/2025,4/15/2025,13.8,1035.41,Delivered,2004,7,FALSE
+SH10207,Hyderabad_Warehouse,Hyderabad,BlueDart,10/6/2025,10/7/2025,24.8,363.43,Delivered,379,1,FALSE
+SH10208,Delhi_Warehouse,Pune,BlueDart,12/20/2025,12/25/2025,18.3,1090.41,Delivered,2106,5,FALSE
+SH10209,Delhi_Warehouse,Nashik,FedEx,4/7/2025,4/9/2025,14.7,479.7,Delivered,624,2,FALSE
+SH10210,Pune_Warehouse,Bengaluru,Delhivery,10/12/2025,10/14/2025,5.1,299.01,Delayed,389,2,FALSE
+SH10211,Hyderabad_Warehouse,Chennai,BlueDart,4/6/2025,4/12/2025,27.7,1120.44,Delivered,1765,6,FALSE
+SH10212,Bengaluru_Warehouse,Pune,FedEx,9/19/2025,9/24/2025,4.8,1039.71,Delivered,1947,5,FALSE
+SH10213,Delhi_Warehouse,Pune,FedEx,10/15/2025,10/20/2025,35.7,1110.08,Delivered,1532,5,FALSE
+SH10214,Bengaluru_Warehouse,Ahmedabad,DHL,6/14/2025,6/18/2025,3.4,299.07,Delivered,333,4,FALSE
+SH10215,Hyderabad_Warehouse,Hyderabad,XpressBees,9/26/2025,9/29/2025,4.5,249.51,Delivered,332,3,FALSE
+SH10216,Bengaluru_Warehouse,Surat,Ecom Express,4/10/2025,4/13/2025,9.1,545.6,Delivered,1006,3,FALSE
+SH10217,Delhi_Warehouse,Chennai,BlueDart,1/29/2025,2/2/2025,12.9,675.31,Delivered,1154,4,FALSE
+SH10218,Ahmedabad_Warehouse,Jaipur,BlueDart,2/5/2025,2/11/2025,11.1,1255.3,Delivered,2497,6,FALSE
+SH10219,Ahmedabad_Warehouse,Bengaluru,DHL,6/13/2025,6/17/2025,12.9,550.7,Delayed,752,4,FALSE
+SH10220,Ahmedabad_Warehouse,Jaipur,FedEx,11/26/2025,11/29/2025,21.5,516.26,Delivered,522,3,FALSE
+SH10221,Mumbai_Warehouse,Jaipur,XpressBees,2/16/2025,2/21/2025,9.2,1146.1,Delivered,2368,5,FALSE
+SH10222,Ahmedabad_Warehouse,Delhi,DHL,6/16/2025,6/19/2025,21.6,486.22,Delivered,427,3,FALSE
+SH10223,Pune_Warehouse,Bengaluru,DHL,9/14/2025,9/16/2025,2.3,216.78,Delivered,114,2,FALSE
+SH10224,Bengaluru_Warehouse,Surat,XpressBees,3/15/2025,3/19/2025,9,661.03,Delivered,1086,4,FALSE
+SH10225,Bengaluru_Warehouse,Ahmedabad,Delhivery,9/21/2025,9/26/2025,4.4,549.5,Delivered,1033,5,FALSE
+SH10226,Pune_Warehouse,Hyderabad,DHL,4/22/2025,4/27/2025,35.5,994.45,In Transit,1568,5,FALSE
+SH10227,Mumbai_Warehouse,Chennai,BlueDart,10/23/2025,10/29/2025,10.2,1043.95,Delivered,2201,6,FALSE
+SH10228,Ahmedabad_Warehouse,Delhi,Ecom Express,7/31/2025,8/7/2025,26.6,1249.75,Delivered,2336,7,FALSE
+SH10229,Ahmedabad_Warehouse,Nashik,BlueDart,7/19/2025,7/21/2025,3.7,444.37,In Transit,759,2,FALSE
+SH10230,Pune_Warehouse,Surat,BlueDart,3/6/2025,3/11/2025,45,1521.35,Delivered,2453,5,FALSE
+SH10231,Bengaluru_Warehouse,Chennai,Delhivery,6/19/2025,6/21/2025,19.1,836.55,Delivered,1600,2,FALSE
+SH10232,Mumbai_Warehouse,Hyderabad,Delhivery,11/9/2025,11/11/2025,17.6,794.255,Delivered,220,2,FALSE
+SH10233,Bengaluru_Warehouse,Surat,XpressBees,1/8/2025,1/14/2025,5.2,1124.58,Delivered,2350,6,FALSE
+SH10234,Pune_Warehouse,Bengaluru,FedEx,10/4/2025,10/7/2025,8.1,262.33,Delayed,388,3,FALSE
+SH10235,Hyderabad_Warehouse,Nagpur,FedEx,6/29/2025,7/2/2025,15,858,Delivered,1492,3,FALSE
+SH10236,Bengaluru_Warehouse,Mumbai,DHL,9/20/2025,9/25/2025,8.4,969.45,Delivered,1988,5,FALSE
+SH10237,Delhi_Warehouse,Nagpur,Delhivery,8/31/2025,9/3/2025,33.3,600.88,Delivered,661,3,FALSE
+SH10238,Hyderabad_Warehouse,Nashik,Delhivery,6/7/2025,6/9/2025,18.7,541.34,Delayed,713,2,FALSE
+SH10239,Delhi_Warehouse,Nashik,BlueDart,4/23/2025,4/28/2025,8.5,684.97,Delivered,1217,5,FALSE
+SH10240,Mumbai_Warehouse,Chennai,Ecom Express,8/17/2025,8/23/2025,30,1219.89,Delivered,2218,6,FALSE
+SH10241,Bengaluru_Warehouse,Nashik,BlueDart,2/21/2025,2/24/2025,13.6,433.42,Delivered,598,3,FALSE
+SH10242,Hyderabad_Warehouse,Hyderabad,FedEx,8/2/2025,8/8/2025,29.1,1056.99,Delayed,1676,6,FALSE
+SH10243,Delhi_Warehouse,Surat,Delhivery,2/4/2025,2/9/2025,12,626.87,Delivered,1159,5,FALSE
+SH10244,Pune_Warehouse,Surat,BlueDart,8/26/2025,8/28/2025,25.4,340.8,Delivered,324,2,FALSE
+SH10245,Mumbai_Warehouse,Hyderabad,BlueDart,8/18/2025,8/23/2025,13.2,860.33,Delayed,1792,5,FALSE
+SH10246,Pune_Warehouse,Pune,BlueDart,1/31/2025,2/5/2025,33.3,1217.86,Delivered,2090,5,FALSE
+SH10247,Hyderabad_Warehouse,Delhi,XpressBees,10/4/2025,10/9/2025,3.8,652.99,Delivered,1460,5,FALSE
+SH10248,Pune_Warehouse,Jaipur,FedEx,6/1/2025,6/3/2025,6.6,319.42,Delivered,482,2,FALSE
+SH10249,Ahmedabad_Warehouse,Bengaluru,FedEx,10/15/2025,10/17/2025,16,488.59,Delivered,431,2,FALSE
+SH10250,Pune_Warehouse,Nagpur,Delhivery,1/16/2025,1/20/2025,10.6,550.82,Delivered,1087,4,FALSE
+SH10251,Delhi_Warehouse,Surat,DHL,3/7/2025,3/11/2025,12.9,716.33,Delivered,1291,4,FALSE
+SH10252,Hyderabad_Warehouse,Jaipur,DHL,6/30/2025,7/4/2025,27.3,1018.59,Delivered,1403,4,FALSE
+SH10253,Bengaluru_Warehouse,Jaipur,Delhivery,3/10/2025,3/11/2025,12.7,482.14,Delivered,647,1,FALSE
+SH10254,Mumbai_Warehouse,Ahmedabad,Delhivery,5/1/2025,5/6/2025,22.2,784.82,Delivered,1277,5,FALSE
+SH10255,Mumbai_Warehouse,Nashik,Delhivery,8/30/2025,9/3/2025,8.9,471.68,In Transit,773,4,FALSE
+SH10256,Pune_Warehouse,Ahmedabad,DHL,2/22/2025,2/26/2025,3.2,857.83,Delivered,1731,4,FALSE
+SH10257,Ahmedabad_Warehouse,Surat,XpressBees,9/5/2025,9/11/2025,29,1260.61,Delivered,2002,6,FALSE
+SH10258,Mumbai_Warehouse,Nagpur,BlueDart,2/7/2025,2/13/2025,51.5,1181.13,Delivered,1649,6,FALSE
+SH10259,Mumbai_Warehouse,Chennai,DHL,3/5/2025,3/7/2025,20.6,235.69,Delivered,53,2,FALSE
+SH10260,Hyderabad_Warehouse,Kolkata,FedEx,8/3/2025,8/9/2025,16.6,1187.29,Delivered,2481,6,FALSE
+SH10261,Bengaluru_Warehouse,Bengaluru,FedEx,10/17/2025,10/18/2025,19.2,294.23,Delivered,108,1,FALSE
+SH10262,Ahmedabad_Warehouse,Bengaluru,BlueDart,3/4/2025,3/11/2025,41.1,1401.62,Delivered,2499,7,FALSE
+SH10263,Pune_Warehouse,Surat,BlueDart,4/20/2025,4/22/2025,20.8,284.63,Delivered,127,2,FALSE
+SH10264,Bengaluru_Warehouse,Hyderabad,BlueDart,12/4/2025,12/8/2025,30,837.32,Delivered,1315,4,FALSE
+SH10265,Mumbai_Warehouse,Nagpur,BlueDart,12/28/2025,12/30/2025,29.1,516.21,Delayed,309,2,FALSE
+SH10266,Bengaluru_Warehouse,Jaipur,XpressBees,8/1/2025,8/2/2025,35.1,469.25,Delayed,283,1,FALSE
+SH10267,Mumbai_Warehouse,Pune,XpressBees,6/13/2025,6/19/2025,16.3,964.88,Delivered,1725,6,FALSE
+SH10268,Ahmedabad_Warehouse,Delhi,BlueDart,5/7/2025,5/13/2025,11.9,862.78,Delivered,1833,6,FALSE
+SH10269,Delhi_Warehouse,Delhi,XpressBees,8/12/2025,8/15/2025,25.6,447.21,Delivered,339,3,FALSE
+SH10270,Pune_Warehouse,Nashik,Ecom Express,8/4/2025,8/11/2025,33.5,1324.64,Delayed,2443,7,FALSE
+SH10271,Ahmedabad_Warehouse,Chennai,Ecom Express,4/18/2025,4/23/2025,37.7,727.74,Delayed,835,5,FALSE
+SH10272,Mumbai_Warehouse,Surat,FedEx,1/9/2025,1/12/2025,44.3,926.77,Delayed,830,3,FALSE
+SH10273,Hyderabad_Warehouse,Surat,BlueDart,2/25/2025,3/1/2025,31.6,726.21,Delivered,777,4,FALSE
+SH10274,Bengaluru_Warehouse,Nashik,BlueDart,12/16/2025,12/19/2025,11.4,665.44,Delayed,1180,3,FALSE
+SH10275,Hyderabad_Warehouse,Hyderabad,DHL,6/2/2025,6/6/2025,20.6,634.74,Delivered,485,4,FALSE
+SH10276,Pune_Warehouse,Nashik,DHL,6/26/2025,7/1/2025,19.4,652.79,Delayed,1091,5,FALSE
+SH10277,Ahmedabad_Warehouse,Mumbai,Delhivery,6/20/2025,6/23/2025,17.9,533.12,Delivered,564,3,FALSE
+SH10278,Delhi_Warehouse,Jaipur,BlueDart,10/13/2025,10/17/2025,25.6,287.22,Delivered,176,4,FALSE
+SH10279,Delhi_Warehouse,Kolkata,Ecom Express,1/24/2025,1/28/2025,15.3,596.89,Delivered,953,4,FALSE
+SH10280,Delhi_Warehouse,Mumbai,Ecom Express,1/31/2025,2/4/2025,15.3,848.66,In Transit,1697,4,FALSE
+SH10281,Pune_Warehouse,Jaipur,DHL,4/11/2025,4/16/2025,53.5,1355.3,Delivered,1920,5,FALSE
+SH10282,Pune_Warehouse,Mumbai,XpressBees,6/27/2025,7/2/2025,17,612.3,Delivered,916,5,FALSE
+SH10283,Mumbai_Warehouse,Kolkata,BlueDart,9/2/2025,9/6/2025,34.9,713.79,Delivered,843,4,FALSE
+SH10284,Delhi_Warehouse,Mumbai,Delhivery,6/29/2025,7/4/2025,36.2,1279.36,Delivered,1980,5,FALSE
+SH10285,Delhi_Warehouse,Hyderabad,XpressBees,6/11/2025,6/16/2025,21,949.29,In Transit,1719,5,FALSE
+SH10286,Delhi_Warehouse,Pune,Delhivery,12/9/2025,12/15/2025,15.7,1108.81,Delivered,2089,6,FALSE
+SH10287,Ahmedabad_Warehouse,Bengaluru,DHL,2/28/2025,3/6/2025,9.2,1156.73,Delivered,2270,6,FALSE
+SH10288,Mumbai_Warehouse,Hyderabad,FedEx,7/28/2025,8/5/2025,4.7,904.41,Delayed,2062,8,FALSE
+SH10289,Ahmedabad_Warehouse,Ahmedabad,BlueDart,7/17/2025,7/24/2025,26.8,1251.54,Delivered,2345,7,FALSE
+SH10290,Ahmedabad_Warehouse,Chennai,DHL,6/22/2025,6/26/2025,23.3,730.83,Delivered,1071,4,FALSE
+SH10291,Mumbai_Warehouse,Surat,FedEx,10/22/2025,10/27/2025,29.5,792.55,Delivered,1017,5,FALSE
+SH10292,Hyderabad_Warehouse,Bengaluru,Ecom Express,4/8/2025,4/11/2025,12.5,616.38,Delivered,838,3,FALSE
+SH10293,Pune_Warehouse,Surat,DHL,12/15/2025,12/19/2025,56.9,814.7,Delivered,626,4,FALSE
+SH10294,Mumbai_Warehouse,Hyderabad,FedEx,5/2/2025,5/6/2025,24.7,1064.24,Delivered,1885,4,FALSE
+SH10295,Ahmedabad_Warehouse,Pune,Delhivery,7/18/2025,7/23/2025,16.5,928.68,Delivered,1801,5,FALSE
+SH10296,Mumbai_Warehouse,Jaipur,DHL,7/10/2025,7/17/2025,3,969.53,Delivered,2014,7,FALSE
+SH10297,Pune_Warehouse,Nagpur,FedEx,11/7/2025,11/11/2025,13.5,794.255,Delayed,460,4,FALSE
+SH10298,Mumbai_Warehouse,Delhi,XpressBees,6/10/2025,6/14/2025,30.4,850.01,Delayed,1254,4,FALSE
+SH10299,Mumbai_Warehouse,Jaipur,Delhivery,4/14/2025,4/16/2025,43.6,694.92,Delivered,594,2,FALSE
+SH10300,Mumbai_Warehouse,Hyderabad,XpressBees,1/8/2025,1/15/2025,18.4,1206.7,Delivered,2238,7,FALSE
+SH10301,Ahmedabad_Warehouse,Pune,BlueDart,5/13/2025,5/16/2025,48.1,753.94,In Transit,705,3,FALSE
+SH10302,Mumbai_Warehouse,Bengaluru,Delhivery,10/29/2025,10/31/2025,8.7,280.32,Delivered,402,2,FALSE
+SH10303,Hyderabad_Warehouse,Hyderabad,FedEx,1/4/2025,1/9/2025,23.8,913.36,Delivered,1446,5,FALSE
+SH10304,Mumbai_Warehouse,Bengaluru,BlueDart,11/24/2025,11/30/2025,24.3,1045.82,Delivered,2204,6,FALSE
+SH10305,Ahmedabad_Warehouse,Kolkata,FedEx,7/18/2025,7/23/2025,27,1239.78,Delivered,2294,5,FALSE
+SH10306,Ahmedabad_Warehouse,Bengaluru,Ecom Express,2/21/2025,2/22/2025,20.2,308.08,Delivered,285,1,FALSE
+SH10307,Bengaluru_Warehouse,Jaipur,FedEx,4/21/2025,4/24/2025,22.9,696.99,Delivered,848,3,FALSE
+SH10308,Hyderabad_Warehouse,Mumbai,FedEx,7/22/2025,7/23/2025,8.5,306.92,Delivered,426,1,FALSE
+SH10309,Pune_Warehouse,Delhi,BlueDart,4/26/2025,4/29/2025,41,735.34,In Transit,804,3,FALSE
+SH10310,Hyderabad_Warehouse,Kolkata,BlueDart,2/9/2025,2/12/2025,32.7,925.64,Delivered,1358,3,FALSE
+SH10311,Pune_Warehouse,Kolkata,FedEx,9/1/2025,9/6/2025,22.3,546.34,Delivered,737,5,FALSE
+SH10312,Bengaluru_Warehouse,Surat,BlueDart,9/3/2025,9/7/2025,33.2,430.35,Delivered,215,4,FALSE
+SH10313,Ahmedabad_Warehouse,Mumbai,FedEx,2/13/2025,2/16/2025,41.8,986.64,Delivered,1300,3,FALSE
+SH10314,Hyderabad_Warehouse,Kolkata,XpressBees,4/13/2025,4/15/2025,26.7,358.92,Delivered,179,2,FALSE
+SH10315,Pune_Warehouse,Delhi,Delhivery,3/31/2025,4/2/2025,60.8,827.29,Delivered,605,2,FALSE
+SH10316,Hyderabad_Warehouse,Mumbai,XpressBees,8/29/2025,8/31/2025,28.2,285.56,Delivered,51,2,FALSE
+SH10317,Ahmedabad_Warehouse,Pune,XpressBees,9/24/2025,9/28/2025,9.6,208.18,Delivered,262,4,FALSE
+SH10318,Ahmedabad_Warehouse,Chennai,Delhivery,9/23/2025,9/27/2025,21.6,736.92,Delayed,1119,4,FALSE
+SH10319,Hyderabad_Warehouse,Jaipur,Ecom Express,12/9/2025,12/15/2025,34.1,1283.41,Delivered,2135,6,FALSE
+SH10320,Hyderabad_Warehouse,Ahmedabad,DHL,10/8/2025,10/13/2025,41.8,1174.91,Delayed,1948,5,FALSE
+SH10321,Hyderabad_Warehouse,Kolkata,XpressBees,4/28/2025,5/1/2025,20.4,417.84,Delivered,292,3,FALSE
+SH10322,Hyderabad_Warehouse,Pune,BlueDart,2/9/2025,2/10/2025,1200,255.22,Delivered,135,1,FALSE
+SH10323,Mumbai_Warehouse,Mumbai,Ecom Express,8/13/2025,8/16/2025,15.5,634.12,Delivered,878,3,FALSE
+SH10324,Hyderabad_Warehouse,Surat,FedEx,12/1/2025,12/6/2025,6.2,841.35,Delivered,1648,5,FALSE
+SH10325,Pune_Warehouse,Jaipur,DHL,12/22/2025,12/27/2025,30.1,1160.49,Delivered,1880,5,FALSE
+SH10326,Bengaluru_Warehouse,Chennai,XpressBees,3/26/2025,4/2/2025,13.4,1182.22,Delivered,2067,7,FALSE
+SH10327,Delhi_Warehouse,Ahmedabad,BlueDart,3/28/2025,4/2/2025,10.8,528.18,Delivered,888,5,FALSE
+SH10328,Pune_Warehouse,Pune,DHL,1/14/2025,1/15/2025,32,488.11,Delivered,461,1,FALSE
+SH10329,Pune_Warehouse,Ahmedabad,Delhivery,2/21/2025,2/25/2025,47.5,447.26,In Transit,114,4,FALSE
+SH10330,Mumbai_Warehouse,Surat,DHL,7/22/2025,7/23/2025,10.7,439.29,Delivered,409,1,FALSE
+SH10331,Delhi_Warehouse,Pune,BlueDart,7/19/2025,7/22/2025,20.5,439.31,Delivered,209,3,FALSE
+SH10332,Delhi_Warehouse,Pune,Ecom Express,5/16/2025,5/22/2025,16,1071.93,Delayed,2159,6,FALSE
+SH10333,Delhi_Warehouse,Bengaluru,Ecom Express,4/24/2025,4/27/2025,43,702.44,Delayed,707,3,FALSE
+SH10334,Mumbai_Warehouse,Hyderabad,BlueDart,10/30/2025,11/4/2025,17.3,1077.37,Delivered,2067,5,FALSE
+SH10335,Bengaluru_Warehouse,Jaipur,BlueDart,6/17/2025,6/21/2025,8.4,808.83,Delivered,1405,4,FALSE
+SH10336,Pune_Warehouse,Pune,XpressBees,10/23/2025,10/28/2025,17.9,736.75,Delivered,1370,5,FALSE
+SH10337,Ahmedabad_Warehouse,Surat,FedEx,12/18/2025,12/21/2025,37.4,778.62,Delivered,1164,3,FALSE
+SH10338,Mumbai_Warehouse,Pune,DHL,4/26/2025,5/2/2025,15.3,1193.2,Delivered,2057,6,FALSE
+SH10339,Mumbai_Warehouse,Nashik,DHL,3/15/2025,3/16/2025,11.6,261.3,Delivered,156,1,FALSE
+SH10340,Pune_Warehouse,Surat,Ecom Express,12/14/2025,12/15/2025,16.7,363.28,Delivered,277,1,FALSE
+SH10341,Delhi_Warehouse,Bengaluru,BlueDart,8/20/2025,8/23/2025,8.6,598.36,Delivered,1087,3,FALSE
+SH10342,Ahmedabad_Warehouse,Ahmedabad,DHL,4/17/2025,4/20/2025,15.9,667.49,Delayed,1016,3,FALSE
+SH10343,Bengaluru_Warehouse,Hyderabad,FedEx,8/15/2025,8/19/2025,12.2,682.96,Delayed,1387,4,FALSE
+SH10344,Delhi_Warehouse,Delhi,DHL,7/7/2025,7/13/2025,67.7,1389.56,Delayed,1858,6,FALSE
+SH10345,Ahmedabad_Warehouse,Ahmedabad,Ecom Express,11/27/2025,12/2/2025,3.6,742.18,Delivered,1490,5,FALSE
+SH10346,Pune_Warehouse,Chennai,BlueDart,4/4/2025,4/9/2025,9.5,321.87,Delivered,681,5,FALSE
+SH10347,Ahmedabad_Warehouse,Mumbai,DHL,12/28/2025,12/29/2025,11.6,519.8,Delivered,852,1,FALSE
+SH10348,Delhi_Warehouse,Kolkata,FedEx,12/8/2025,12/14/2025,8.6,928.13,Delivered,1893,6,FALSE
+SH10349,Pune_Warehouse,Nashik,Delhivery,3/7/2025,3/10/2025,24,495.41,Delivered,543,3,FALSE
+SH10350,Pune_Warehouse,Surat,Delhivery,3/2/2025,3/7/2025,10.6,679.49,Delivered,1285,5,FALSE
+SH10351,Mumbai_Warehouse,Surat,Ecom Express,7/14/2025,7/19/2025,5.6,648.23,Delivered,1370,5,FALSE
+SH10352,Hyderabad_Warehouse,Surat,DHL,1/17/2025,1/22/2025,19.3,936.8,Delivered,1888,5,FALSE
+SH10353,Bengaluru_Warehouse,Jaipur,DHL,4/20/2025,4/25/2025,14.7,968.91,Delivered,1800,5,FALSE
+SH10354,Bengaluru_Warehouse,Kolkata,DHL,6/8/2025,6/11/2025,11,655.95,Delivered,1188,3,FALSE
+SH10355,Bengaluru_Warehouse,Kolkata,BlueDart,12/20/2025,12/24/2025,42.4,703.7,Delivered,807,4,FALSE
+SH10356,Mumbai_Warehouse,Jaipur,Ecom Express,12/29/2025,12/31/2025,24.5,691.11,Delivered,951,2,FALSE
+SH10357,Ahmedabad_Warehouse,Kolkata,Delhivery,2/25/2025,3/2/2025,22.7,701.09,In Transit,1058,5,FALSE
+SH10358,Bengaluru_Warehouse,Bengaluru,FedEx,11/22/2025,11/25/2025,24.9,512.83,Delivered,587,3,FALSE
+SH10359,Hyderabad_Warehouse,Kolkata,Delhivery,2/3/2025,2/7/2025,24,829.81,Delivered,1582,4,FALSE
+SH10360,Mumbai_Warehouse,Surat,Delhivery,10/1/2025,10/4/2025,15.2,481.95,Delayed,560,3,FALSE
+SH10361,Hyderabad_Warehouse,Jaipur,FedEx,11/5/2025,11/10/2025,10.7,791.51,Delivered,1639,5,FALSE
+SH10362,Hyderabad_Warehouse,Pune,Ecom Express,11/22/2025,11/29/2025,19.6,1044.3,Delivered,1891,7,FALSE
+SH10363,Delhi_Warehouse,Nashik,BlueDart,3/23/2025,4/1/2025,15,1173.99,Delivered,2407,9,FALSE
+SH10364,Ahmedabad_Warehouse,Nashik,DHL,11/23/2025,11/26/2025,3.6,232.44,Delivered,341,3,FALSE
+SH10365,Bengaluru_Warehouse,Ahmedabad,BlueDart,2/12/2025,2/17/2025,8,1014.42,Delivered,1912,5,FALSE
+SH10366,Ahmedabad_Warehouse,Hyderabad,Ecom Express,7/9/2025,7/12/2025,350,334.89,Delayed,260,3,FALSE
+SH10367,Hyderabad_Warehouse,Chennai,Ecom Express,6/21/2025,6/25/2025,32.5,786.32,In Transit,876,4,FALSE
+SH10368,Pune_Warehouse,Delhi,FedEx,4/26/2025,4/28/2025,19.7,468.06,Delivered,482,2,FALSE
+SH10369,Ahmedabad_Warehouse,Pune,Ecom Express,1/9/2025,1/10/2025,9.3,368.58,Delivered,447,1,FALSE
+SH10370,Hyderabad_Warehouse,Jaipur,BlueDart,10/9/2025,10/12/2025,7.5,2800,Delivered,479,3,FALSE
+SH10371,Pune_Warehouse,Pune,BlueDart,5/3/2025,5/6/2025,37,442.98,Delayed,157,3,FALSE
+SH10372,Hyderabad_Warehouse,Kolkata,DHL,8/30/2025,9/3/2025,15.7,1069.22,Delivered,2067,4,FALSE
+SH10373,Delhi_Warehouse,Mumbai,XpressBees,5/30/2025,5/31/2025,1.5,243.63,Delivered,199,1,FALSE
+SH10374,Ahmedabad_Warehouse,Hyderabad,XpressBees,5/17/2025,5/21/2025,16.4,622.48,Delayed,1026,4,FALSE
+SH10375,Pune_Warehouse,Surat,FedEx,11/20/2025,11/25/2025,28.1,1073.88,Delivered,1763,5,FALSE
+SH10376,Pune_Warehouse,Ahmedabad,Delhivery,2/4/2025,2/12/2025,7.3,1194.81,Delivered,2477,8,FALSE
+SH10377,Delhi_Warehouse,Chennai,Ecom Express,9/26/2025,10/1/2025,18.6,1201.41,Delivered,2142,5,FALSE
+SH10378,Delhi_Warehouse,Hyderabad,Delhivery,9/30/2025,10/5/2025,19.9,403.91,Delivered,386,5,FALSE
+SH10379,Bengaluru_Warehouse,Chennai,FedEx,5/19/2025,5/24/2025,7.7,1228.38,Delivered,2470,5,FALSE
+SH10380,Pune_Warehouse,Nagpur,XpressBees,4/6/2025,4/9/2025,39.2,1012.85,Delivered,1651,3,FALSE
+SH10381,Hyderabad_Warehouse,Ahmedabad,FedEx,1/2/2025,1/5/2025,20.1,367.88,Delivered,490,3,FALSE
+SH10382,Mumbai_Warehouse,Pune,BlueDart,12/8/2025,12/11/2025,13.6,552.6,Delayed,1149,3,FALSE
+SH10383,Pune_Warehouse,Surat,BlueDart,12/12/2025,12/18/2025,15.8,1223.11,Delivered,2299,6,FALSE
+SH10384,Bengaluru_Warehouse,Mumbai,XpressBees,3/29/2025,4/2/2025,6.6,598.61,Delayed,1013,4,FALSE
+SH10385,Pune_Warehouse,Bengaluru,Delhivery,1/12/2025,1/15/2025,6.3,392.88,Delivered,500,3,FALSE
+SH10386,Delhi_Warehouse,Jaipur,Ecom Express,2/14/2025,2/19/2025,12.7,1072.18,Delivered,2194,5,FALSE
+SH10387,Bengaluru_Warehouse,Chennai,XpressBees,1/25/2025,2/1/2025,13.3,1163.75,Delivered,2385,7,FALSE
+SH10388,Pune_Warehouse,Ahmedabad,XpressBees,10/31/2025,11/6/2025,15.1,1226.91,Delayed,2441,6,FALSE
+SH10389,Ahmedabad_Warehouse,Bengaluru,XpressBees,11/22/2025,11/29/2025,41.4,1515.94,Delivered,2392,7,FALSE
+SH10390,Ahmedabad_Warehouse,Bengaluru,XpressBees,2/25/2025,3/3/2025,27.1,1322.89,Delivered,2189,6,FALSE
+SH10391,Ahmedabad_Warehouse,Surat,XpressBees,9/30/2025,10/3/2025,4.1,646.97,Delivered,1163,3,FALSE
+SH10392,Delhi_Warehouse,Bengaluru,XpressBees,3/7/2025,3/8/2025,36.5,627.28,Delivered,521,1,FALSE
+SH10393,Delhi_Warehouse,Kolkata,Delhivery,5/15/2025,5/20/2025,12.7,917.44,In Transit,1562,5,FALSE
+SH10394,Ahmedabad_Warehouse,Mumbai,DHL,8/7/2025,8/9/2025,28.8,558.95,In Transit,591,2,FALSE
+SH10395,Hyderabad_Warehouse,Jaipur,DHL,9/20/2025,9/23/2025,13.4,680.18,Delayed,1209,3,FALSE
+SH10396,Hyderabad_Warehouse,Nagpur,Ecom Express,11/16/2025,11/21/2025,19.2,932.46,Delivered,1658,5,FALSE
+SH10397,Pune_Warehouse,Nagpur,FedEx,1/17/2025,1/22/2025,7,1081.07,Delayed,2370,5,FALSE
+SH10398,Ahmedabad_Warehouse,Hyderabad,Ecom Express,3/13/2025,3/17/2025,22.2,577.43,Delivered,758,4,FALSE
+SH10399,Bengaluru_Warehouse,Nagpur,XpressBees,4/13/2025,4/16/2025,31,562.18,Delivered,667,3,FALSE
+SH10400,Hyderabad_Warehouse,Hyderabad,Delhivery,4/24/2025,4/29/2025,4.7,953.33,Delivered,1850,5,FALSE
+SH10401,Hyderabad_Warehouse,Jaipur,Ecom Express,12/31/2025,1/1/2026,31.3,403.25,Delivered,65,1,FALSE
+SH10402,Mumbai_Warehouse,Kolkata,FedEx,10/11/2025,10/16/2025,10.6,852.69,Delivered,1438,5,FALSE
+SH10403,Mumbai_Warehouse,Nagpur,BlueDart,4/27/2025,5/2/2025,49.9,1203.3,Delivered,1878,5,FALSE
+SH10404,Mumbai_Warehouse,Nagpur,XpressBees,12/21/2025,12/25/2025,29.2,1020.79,Delivered,1400,4,FALSE
+SH10405,Bengaluru_Warehouse,Surat,Ecom Express,7/2/2025,7/6/2025,25.9,629.88,Delivered,991,4,FALSE
+SH10406,Ahmedabad_Warehouse,Nashik,FedEx,7/2/2025,7/6/2025,15.9,1022.84,Delivered,2080,4,FALSE
+SH10407,Mumbai_Warehouse,Jaipur,XpressBees,6/8/2025,6/10/2025,75.5,1090.38,Delivered,959,2,FALSE
+SH10408,Mumbai_Warehouse,Jaipur,BlueDart,2/22/2025,2/26/2025,12.7,1012.09,Delivered,1791,4,FALSE
+SH10409,Delhi_Warehouse,Nagpur,XpressBees,12/8/2025,12/12/2025,8.2,660.65,In Transit,1187,4,FALSE
+SH10410,Delhi_Warehouse,Pune,Delhivery,1/6/2025,1/8/2025,10.9,207.54,Delayed,115,2,FALSE
+SH10411,Mumbai_Warehouse,Chennai,Delhivery,3/5/2025,3/10/2025,34.6,897.51,Delivered,1350,5,FALSE
+SH10412,Bengaluru_Warehouse,Nashik,DHL,3/25/2025,3/26/2025,19,237.64,Delivered,171,1,FALSE
+SH10413,Ahmedabad_Warehouse,Bengaluru,BlueDart,4/12/2025,4/19/2025,17.1,1266.66,Delivered,2331,7,FALSE
+SH10414,Pune_Warehouse,Nagpur,Ecom Express,2/18/2025,2/23/2025,12.9,873.66,Delivered,1524,5,FALSE
+SH10415,Mumbai_Warehouse,Delhi,XpressBees,1/7/2025,1/10/2025,16.5,698.25,Delivered,961,3,FALSE
+SH10416,Pune_Warehouse,Pune,DHL,9/5/2025,9/10/2025,12.2,726.74,Delivered,1241,5,FALSE
+SH10417,Pune_Warehouse,Nagpur,DHL,12/20/2025,12/25/2025,27.6,827.42,Delivered,1567,5,FALSE
+SH10418,Delhi_Warehouse,Delhi,Ecom Express,2/14/2025,2/17/2025,14.8,425.89,Delivered,687,3,FALSE
+SH10419,Mumbai_Warehouse,Chennai,BlueDart,4/19/2025,4/22/2025,11.1,517.44,Delayed,756,3,FALSE
+SH10420,Delhi_Warehouse,Kolkata,XpressBees,7/4/2025,7/8/2025,32.8,790.39,Delivered,1076,4,FALSE
+SH10421,Mumbai_Warehouse,Bengaluru,DHL,12/5/2025,12/8/2025,8.4,407.52,Delivered,683,3,FALSE
+SH10422,Hyderabad_Warehouse,Nagpur,BlueDart,9/11/2025,9/16/2025,19.2,983.46,Delivered,1907,5,FALSE
+SH10423,Delhi_Warehouse,Nashik,DHL,10/7/2025,10/8/2025,3.5,289.55,Delivered,304,1,FALSE
+SH10424,Mumbai_Warehouse,Surat,Ecom Express,8/1/2025,8/7/2025,5.9,1027.16,Delivered,2076,6,FALSE
+SH10425,Mumbai_Warehouse,Nashik,XpressBees,6/2/2025,6/5/2025,13.7,603.7,Delivered,904,3,FALSE
+SH10426,Delhi_Warehouse,Kolkata,DHL,3/14/2025,3/18/2025,12.1,746.5,Delivered,1425,4,FALSE
+SH10427,Bengaluru_Warehouse,Chennai,FedEx,11/12/2025,11/14/2025,12,374.82,Delivered,436,2,FALSE
+SH10428,Pune_Warehouse,Delhi,XpressBees,10/21/2025,10/25/2025,29.3,672.95,Delivered,994,4,FALSE
+SH10429,Pune_Warehouse,Chennai,DHL,1/10/2025,1/16/2025,30.4,1128.84,Delayed,1899,6,FALSE
+SH10430,Bengaluru_Warehouse,Jaipur,XpressBees,9/19/2025,9/22/2025,21.8,425.72,Delivered,713,3,FALSE
+SH10431,Delhi_Warehouse,Nagpur,XpressBees,1/31/2025,2/2/2025,8,218.83,Delivered,374,2,FALSE
+SH10432,Mumbai_Warehouse,Bengaluru,DHL,9/27/2025,10/2/2025,16.4,794.255,Delivered,1329,5,FALSE
+SH10433,Delhi_Warehouse,Nashik,DHL,10/29/2025,10/30/2025,54.3,860.34,Delivered,448,1,FALSE
+SH10434,Pune_Warehouse,Nagpur,Ecom Express,2/17/2025,2/21/2025,70.9,928.43,Delivered,821,4,FALSE
+SH10435,Ahmedabad_Warehouse,Mumbai,DHL,6/8/2025,6/10/2025,33,776.78,Delivered,1154,2,FALSE
+SH10436,Hyderabad_Warehouse,Bengaluru,Delhivery,2/15/2025,2/18/2025,8.3,763.91,Delivered,1432,3,FALSE
+SH10437,Pune_Warehouse,Pune,DHL,7/27/2025,7/31/2025,16.5,996.71,Delivered,1617,4,FALSE
+SH10438,Pune_Warehouse,Mumbai,Delhivery,12/5/2025,12/12/2025,20.8,985.28,In Transit,1708,7,FALSE
+SH10439,Mumbai_Warehouse,Mumbai,BlueDart,1/30/2025,2/6/2025,18.7,1167.55,Delivered,2119,7,FALSE
+SH10440,Hyderabad_Warehouse,Pune,Ecom Express,5/26/2025,5/29/2025,35.2,449.25,Delayed,211,3,FALSE
+SH10441,Ahmedabad_Warehouse,Surat,XpressBees,12/22/2025,12/26/2025,28.5,688.13,Delivered,938,4,FALSE
+SH10442,Pune_Warehouse,Chennai,BlueDart,4/20/2025,4/21/2025,7.9,173.51,Delivered,52,1,FALSE
+SH10443,Bengaluru_Warehouse,Surat,Delhivery,2/18/2025,2/20/2025,11.3,170.5,In Transit,73,2,FALSE
+SH10444,Pune_Warehouse,Pune,Delhivery,6/28/2025,6/30/2025,32.9,638.88,Delivered,570,2,FALSE
+SH10445,Ahmedabad_Warehouse,Surat,XpressBees,7/5/2025,7/9/2025,42.3,987.93,Delivered,1516,4,FALSE
+SH10446,Pune_Warehouse,Jaipur,FedEx,8/30/2025,9/5/2025,21,1249.09,In Transit,2242,6,FALSE
+SH10447,Mumbai_Warehouse,Chennai,FedEx,4/25/2025,4/30/2025,45.6,1286.66,Delivered,1945,5,FALSE
+SH10448,Ahmedabad_Warehouse,Kolkata,BlueDart,12/15/2025,12/21/2025,19.4,919.37,Delivered,1634,6,FALSE
+SH10449,Ahmedabad_Warehouse,Delhi,Ecom Express,7/10/2025,7/14/2025,9.1,888.93,Delivered,1957,4,FALSE
+SH10450,Delhi_Warehouse,Nagpur,XpressBees,4/15/2025,4/18/2025,26.8,451.73,Delivered,471,3,FALSE
+SH10451,Ahmedabad_Warehouse,Jaipur,FedEx,12/17/2025,12/22/2025,90.5,1800.54,Delivered,2108,5,FALSE
+SH10452,Pune_Warehouse,Bengaluru,DHL,12/4/2025,12/10/2025,6.6,1062.07,Delivered,2232,6,FALSE
+SH10453,Pune_Warehouse,Hyderabad,Delhivery,7/2/2025,7/5/2025,44.5,592,Delayed,282,3,FALSE
+SH10454,Bengaluru_Warehouse,Nashik,Delhivery,1/10/2025,1/13/2025,25.9,756.2,Delivered,1201,3,FALSE
+SH10455,Bengaluru_Warehouse,Nashik,BlueDart,8/6/2025,8/12/2025,10.8,1045.48,Delivered,2084,6,FALSE
+SH10456,Delhi_Warehouse,Surat,FedEx,7/22/2025,7/26/2025,3.6,545.85,Delivered,1216,4,FALSE
+SH10457,Hyderabad_Warehouse,Nagpur,XpressBees,2/24/2025,3/1/2025,2.6,993.37,Delivered,2109,5,FALSE
+SH10458,Hyderabad_Warehouse,Ahmedabad,XpressBees,8/20/2025,8/26/2025,12,1186.45,Delayed,2343,6,FALSE
+SH10459,Mumbai_Warehouse,Nagpur,Ecom Express,11/3/2025,11/7/2025,23.2,804.29,Delivered,1213,4,FALSE
+SH10460,Ahmedabad_Warehouse,Bengaluru,Delhivery,2/8/2025,2/9/2025,31.4,379.1,Delivered,195,1,FALSE
+SH10461,Mumbai_Warehouse,Nashik,FedEx,9/22/2025,9/25/2025,36.1,738.9,Delayed,883,3,FALSE
+SH10462,Bengaluru_Warehouse,Surat,BlueDart,2/21/2025,2/24/2025,21.8,537.19,Delayed,577,3,FALSE
+SH10463,Delhi_Warehouse,Surat,DHL,10/1/2025,10/5/2025,19.6,744.01,Delayed,1212,4,FALSE
+SH10464,Delhi_Warehouse,Nashik,FedEx,6/2/2025,6/8/2025,14,806.9,Delivered,1485,6,FALSE
+SH10465,Mumbai_Warehouse,Chennai,BlueDart,1/3/2025,1/7/2025,23.5,882.98,Delivered,1187,4,FALSE
+SH10466,Delhi_Warehouse,Hyderabad,BlueDart,12/19/2025,12/21/2025,10.9,342.53,Delivered,529,2,FALSE
+SH10467,Mumbai_Warehouse,Nagpur,DHL,3/2/2025,3/5/2025,6.9,529.03,Delivered,788,3,FALSE
+SH10468,Ahmedabad_Warehouse,Pune,XpressBees,8/6/2025,8/10/2025,18.8,794.255,Delayed,1715,4,FALSE
+SH10469,Mumbai_Warehouse,Hyderabad,FedEx,3/8/2025,3/10/2025,29.8,418.03,Delivered,116,2,FALSE
+SH10470,Delhi_Warehouse,Pune,Delhivery,12/7/2025,12/10/2025,5.8,409.33,Delivered,574,3,FALSE
+SH10471,Pune_Warehouse,Chennai,BlueDart,9/27/2025,10/2/2025,12,1093.47,Delayed,2237,5,FALSE
+SH10472,Pune_Warehouse,Bengaluru,BlueDart,10/21/2025,10/24/2025,18.3,291.65,In Transit,293,3,FALSE
+SH10473,Delhi_Warehouse,Delhi,XpressBees,6/7/2025,6/10/2025,18,572.35,Delivered,1066,3,FALSE
+SH10474,Ahmedabad_Warehouse,Nagpur,Ecom Express,6/20/2025,6/22/2025,25.4,496.01,In Transit,557,2,FALSE
+SH10475,Delhi_Warehouse,Surat,XpressBees,8/20/2025,8/22/2025,53.3,690.51,Delivered,306,2,FALSE
+SH10476,Ahmedabad_Warehouse,Bengaluru,BlueDart,10/14/2025,10/21/2025,2.6,498.95,Delivered,1086,7,FALSE
+SH10477,Hyderabad_Warehouse,Nagpur,DHL,11/6/2025,11/10/2025,54.8,1108.89,Delivered,1328,4,FALSE
+SH10478,Delhi_Warehouse,Nagpur,BlueDart,1/7/2025,1/8/2025,51.9,794.255,In Transit,481,1,FALSE
+SH10479,Ahmedabad_Warehouse,Hyderabad,Delhivery,8/31/2025,9/1/2025,31.7,437.39,Delayed,240,1,FALSE
+SH10480,Delhi_Warehouse,Chennai,BlueDart,2/9/2025,2/12/2025,20.7,352.46,Delivered,380,3,FALSE
+SH10481,Bengaluru_Warehouse,Pune,BlueDart,4/16/2025,4/22/2025,11.1,861.38,Delivered,1646,6,FALSE
+SH10482,Hyderabad_Warehouse,Kolkata,DHL,10/30/2025,11/4/2025,31.4,1225.7,Delivered,2158,5,FALSE
+SH10483,Bengaluru_Warehouse,Bengaluru,Delhivery,4/2/2025,4/6/2025,21.4,402.65,Delivered,491,4,FALSE
+SH10484,Hyderabad_Warehouse,Mumbai,Ecom Express,10/18/2025,10/22/2025,14.3,516.01,Delayed,835,4,FALSE
+SH10485,Mumbai_Warehouse,Surat,Delhivery,6/18/2025,6/21/2025,30.9,665.91,Delivered,892,3,FALSE
+SH10486,Delhi_Warehouse,Chennai,XpressBees,3/26/2025,3/29/2025,34.4,692.41,Delayed,934,3,FALSE
+SH10487,Bengaluru_Warehouse,Chennai,XpressBees,5/2/2025,5/5/2025,42,768.71,Delivered,648,3,FALSE
+SH10488,Pune_Warehouse,Pune,XpressBees,7/13/2025,7/16/2025,10.2,224.59,Delivered,185,3,FALSE
+SH10489,Ahmedabad_Warehouse,Chennai,DHL,10/7/2025,10/12/2025,38.7,849.37,Delivered,1337,5,FALSE
+SH10490,Pune_Warehouse,Nagpur,XpressBees,8/10/2025,8/13/2025,14.4,556.62,In Transit,925,3,FALSE
+SH10491,Pune_Warehouse,Kolkata,BlueDart,12/7/2025,12/10/2025,20.8,680.07,Delivered,888,3,FALSE
+SH10492,Pune_Warehouse,Bengaluru,BlueDart,11/13/2025,11/18/2025,23.5,531.46,Delivered,699,5,FALSE
+SH10493,Hyderabad_Warehouse,Surat,BlueDart,10/2/2025,10/9/2025,36.7,1451.67,Delivered,2327,7,FALSE
+SH10494,Mumbai_Warehouse,Nagpur,FedEx,8/9/2025,8/15/2025,28.9,927.85,Delayed,1546,6,FALSE
+SH10495,Mumbai_Warehouse,Delhi,XpressBees,4/16/2025,4/20/2025,14.1,679.46,Delayed,1076,4,FALSE
+SH10496,Hyderabad_Warehouse,Nashik,DHL,5/31/2025,6/3/2025,2.9,393.93,Delayed,553,3,FALSE
+SH10497,Pune_Warehouse,Kolkata,XpressBees,2/13/2025,2/19/2025,25.2,1164.42,Delivered,2013,6,FALSE
+SH10498,Mumbai_Warehouse,Jaipur,XpressBees,5/17/2025,5/24/2025,20.2,1111.44,Delayed,2227,7,FALSE
+SH10499,Pune_Warehouse,Pune,BlueDart,12/5/2025,12/8/2025,6.5,137.59,Delivered,129,3,FALSE
+SH10500,Delhi_Warehouse,Pune,Ecom Express,6/5/2025,6/12/2025,21.8,1307.41,Delivered,2328,7,FALSE
+SH10501,Mumbai_Warehouse,Chennai,Delhivery,2/11/2025,2/16/2025,18.2,931.33,Delivered,1764,5,FALSE
+SH10502,Ahmedabad_Warehouse,Nashik,BlueDart,8/26/2025,8/29/2025,41.8,612.44,Delivered,294,3,FALSE
+SH10503,Mumbai_Warehouse,Nashik,Ecom Express,12/18/2025,12/23/2025,57.2,1338.43,In Transit,1895,5,FALSE
+SH10504,Delhi_Warehouse,Jaipur,Ecom Express,11/13/2025,11/15/2025,33.9,507.39,In Transit,313,2,FALSE
+SH10505,Pune_Warehouse,Kolkata,XpressBees,4/11/2025,4/15/2025,17.4,224.74,Delivered,174,4,FALSE
+SH10506,Pune_Warehouse,Bengaluru,Ecom Express,6/15/2025,6/16/2025,19.3,350.04,Delivered,332,1,FALSE
+SH10507,Mumbai_Warehouse,Jaipur,Delhivery,7/13/2025,7/18/2025,9.9,610.35,Delayed,1177,5,FALSE
+SH10508,Ahmedabad_Warehouse,Nagpur,XpressBees,4/1/2025,4/5/2025,11.4,847.87,In Transit,1568,4,FALSE
+SH10509,Ahmedabad_Warehouse,Jaipur,DHL,4/9/2025,4/13/2025,16.7,667.24,Delivered,1048,4,FALSE
+SH10510,Mumbai_Warehouse,Nagpur,Ecom Express,3/28/2025,4/2/2025,15.5,383.36,Delivered,348,5,FALSE
+SH10511,Pune_Warehouse,Nashik,BlueDart,12/30/2025,1/1/2026,6.2,331.68,Delivered,538,2,FALSE
+SH10512,Ahmedabad_Warehouse,Jaipur,BlueDart,9/30/2025,10/5/2025,42.1,1285.07,Delayed,2139,5,FALSE
+SH10513,Delhi_Warehouse,Mumbai,Ecom Express,11/3/2025,11/10/2025,45.8,1491.13,Delivered,2409,7,FALSE
+SH10514,Mumbai_Warehouse,Nagpur,FedEx,10/26/2025,10/31/2025,41.2,1170.73,Delivered,1898,5,FALSE
+SH10515,Mumbai_Warehouse,Chennai,XpressBees,12/17/2025,12/20/2025,46.8,664.37,Delivered,303,3,FALSE
+SH10516,Delhi_Warehouse,Chennai,BlueDart,2/8/2025,2/13/2025,67.7,1513.93,Delivered,2059,5,FALSE
+SH10517,Bengaluru_Warehouse,Mumbai,BlueDart,11/18/2025,11/24/2025,10,880.38,Delivered,1746,6,FALSE
+SH10518,Bengaluru_Warehouse,Kolkata,FedEx,1/25/2025,1/28/2025,65.9,1227.95,Delayed,1339,3,FALSE
+SH10519,Mumbai_Warehouse,Hyderabad,BlueDart,6/23/2025,6/24/2025,14,363.22,Delivered,401,1,FALSE
+SH10520,Delhi_Warehouse,Mumbai,XpressBees,8/5/2025,8/11/2025,27.8,1271.75,Delivered,2492,6,FALSE
+SH10521,Pune_Warehouse,Ahmedabad,DHL,5/11/2025,5/14/2025,5,540.4,Delivered,1134,3,FALSE
+SH10522,Bengaluru_Warehouse,Ahmedabad,Delhivery,2/23/2025,2/26/2025,12.7,312.48,Delayed,158,3,FALSE
+SH10523,Pune_Warehouse,Bengaluru,XpressBees,3/12/2025,3/13/2025,34.5,614.74,Delivered,564,1,FALSE
+SH10524,Pune_Warehouse,Nagpur,BlueDart,10/29/2025,11/1/2025,28.6,664.47,Delivered,1033,3,FALSE
+SH10525,Hyderabad_Warehouse,Ahmedabad,Delhivery,4/27/2025,4/29/2025,13.8,301.51,Delivered,202,2,FALSE
+SH10526,Bengaluru_Warehouse,Nashik,BlueDart,4/24/2025,4/27/2025,19.3,794.255,Delivered,843,3,FALSE
+SH10527,Delhi_Warehouse,Jaipur,DHL,12/4/2025,12/7/2025,11.8,635.36,Delivered,1198,3,FALSE
+SH10528,Mumbai_Warehouse,Delhi,Delhivery,2/22/2025,3/2/2025,34.4,1306.93,Delivered,2375,8,FALSE
+SH10529,Mumbai_Warehouse,Pune,XpressBees,12/1/2025,12/2/2025,43.8,616.92,In Transit,261,1,FALSE
+SH10530,Hyderabad_Warehouse,Delhi,Delhivery,12/3/2025,12/7/2025,10.1,672.21,Delayed,1463,4,FALSE
+SH10531,Ahmedabad_Warehouse,Kolkata,BlueDart,8/7/2025,8/13/2025,18,1150.42,Delivered,2294,6,FALSE
+SH10532,Bengaluru_Warehouse,Ahmedabad,DHL,3/2/2025,3/8/2025,6,988.11,Delayed,2025,6,FALSE
+SH10533,Mumbai_Warehouse,Delhi,XpressBees,2/26/2025,3/5/2025,21.4,1321.85,Delivered,2317,7,FALSE
+SH10534,Delhi_Warehouse,Bengaluru,XpressBees,4/14/2025,4/16/2025,25.9,526.75,Delivered,467,2,FALSE
+SH10535,Pune_Warehouse,Kolkata,XpressBees,7/30/2025,8/4/2025,22.6,1071.45,Delayed,2014,5,FALSE
+SH10536,Mumbai_Warehouse,Jaipur,BlueDart,2/26/2025,3/4/2025,24.5,1400.52,Delivered,2448,6,FALSE
+SH10537,Mumbai_Warehouse,Chennai,Delhivery,6/16/2025,6/20/2025,16.6,503.15,Delivered,849,4,FALSE
+SH10538,Delhi_Warehouse,Jaipur,BlueDart,2/12/2025,2/15/2025,16.9,772.48,Delivered,1272,3,FALSE
+SH10539,Delhi_Warehouse,Surat,FedEx,7/17/2025,7/23/2025,16.4,813.65,Delivered,1351,6,FALSE
+SH10540,Bengaluru_Warehouse,Jaipur,FedEx,1/8/2025,1/12/2025,12.4,665.72,In Transit,1259,4,FALSE
+SH10541,Hyderabad_Warehouse,Bengaluru,BlueDart,9/16/2025,9/19/2025,13.6,553.17,Delivered,760,3,FALSE
+SH10542,Pune_Warehouse,Delhi,Delhivery,1/21/2025,1/27/2025,25.1,1285.27,Delivered,2429,6,FALSE
+SH10543,Pune_Warehouse,Mumbai,DHL,3/13/2025,3/18/2025,42.1,1481.56,Delivered,2394,5,FALSE
+SH10544,Hyderabad_Warehouse,Chennai,Ecom Express,3/5/2025,3/8/2025,8.7,465.63,Delayed,983,3,FALSE
+SH10545,Pune_Warehouse,Surat,BlueDart,10/31/2025,11/5/2025,16.9,1091.73,Delivered,2023,5,FALSE
+SH10546,Mumbai_Warehouse,Jaipur,XpressBees,1/20/2025,1/23/2025,7.3,794.255,Delivered,1024,3,FALSE
+SH10547,Ahmedabad_Warehouse,Hyderabad,FedEx,6/6/2025,6/11/2025,12.6,1089.49,Delivered,1998,5,FALSE
+SH10548,Pune_Warehouse,Pune,DHL,8/4/2025,8/9/2025,14.2,821.14,Delivered,1483,5,FALSE
+SH10549,Mumbai_Warehouse,Jaipur,FedEx,7/8/2025,7/11/2025,20.4,826.95,Delivered,1202,3,FALSE
+SH10550,Hyderabad_Warehouse,Nashik,XpressBees,9/6/2025,9/8/2025,20,430.38,Delivered,363,2,FALSE
+SH10551,Bengaluru_Warehouse,Jaipur,FedEx,10/21/2025,10/26/2025,17.9,919.82,Delivered,1654,5,FALSE
+SH10552,Mumbai_Warehouse,Delhi,Ecom Express,5/24/2025,5/28/2025,23.7,675.89,Delivered,836,4,FALSE
+SH10553,Ahmedabad_Warehouse,Kolkata,XpressBees,10/30/2025,11/2/2025,9.4,447.59,Delayed,581,3,FALSE
+SH10554,Pune_Warehouse,Surat,FedEx,4/27/2025,4/30/2025,20.5,499.87,Delivered,523,3,FALSE
+SH10555,Hyderabad_Warehouse,Nashik,Delhivery,12/26/2025,12/31/2025,29.2,6500,Delivered,2456,5,FALSE
+SH10556,Bengaluru_Warehouse,Delhi,FedEx,7/4/2025,7/5/2025,9.3,232.27,Delivered,303,1,FALSE
+SH10557,Hyderabad_Warehouse,Surat,BlueDart,9/26/2025,10/1/2025,4.3,1035.62,Delivered,2007,5,FALSE
+SH10558,Hyderabad_Warehouse,Mumbai,FedEx,11/16/2025,11/23/2025,34.3,1214.71,Delivered,2172,7,FALSE
+SH10559,Hyderabad_Warehouse,Ahmedabad,Ecom Express,10/17/2025,10/19/2025,7.5,245.21,Delayed,126,2,FALSE
+SH10560,Mumbai_Warehouse,Pune,XpressBees,11/7/2025,11/11/2025,12.2,850.03,Delivered,1494,4,FALSE
+SH10561,Ahmedabad_Warehouse,Hyderabad,FedEx,7/15/2025,7/19/2025,28.6,898.48,Delivered,1465,4,FALSE
+SH10562,Mumbai_Warehouse,Mumbai,FedEx,1/16/2025,1/19/2025,8.9,436.09,Delivered,929,3,FALSE
+SH10563,Pune_Warehouse,Pune,Ecom Express,6/29/2025,7/3/2025,32.8,1034.79,Delivered,1684,4,FALSE
+SH10564,Delhi_Warehouse,Bengaluru,BlueDart,3/8/2025,3/12/2025,10.9,728.36,In Transit,1051,4,FALSE
+SH10565,Pune_Warehouse,Mumbai,Delhivery,11/21/2025,11/25/2025,9.9,590.01,Delivered,1127,4,FALSE
+SH10566,Bengaluru_Warehouse,Chennai,Ecom Express,3/28/2025,4/3/2025,7.4,564.16,In Transit,1107,6,FALSE
+SH10567,Mumbai_Warehouse,Ahmedabad,DHL,3/25/2025,4/1/2025,11,963.67,Delivered,2012,7,FALSE
+SH10568,Delhi_Warehouse,Hyderabad,XpressBees,4/2/2025,4/8/2025,26.2,1041.93,Delivered,1601,6,FALSE
+SH10569,Delhi_Warehouse,Hyderabad,BlueDart,8/23/2025,8/27/2025,12.2,581.52,Delivered,979,4,FALSE
+SH10570,Bengaluru_Warehouse,Kolkata,Delhivery,7/28/2025,8/3/2025,34.4,1312.8,Delivered,2321,6,FALSE
+SH10571,Bengaluru_Warehouse,Kolkata,BlueDart,12/13/2025,12/19/2025,18.4,1160.44,Delivered,2015,6,FALSE
+SH10572,Hyderabad_Warehouse,Mumbai,Ecom Express,6/1/2025,6/7/2025,19.5,1258.74,Delivered,2336,6,FALSE
+SH10573,Mumbai_Warehouse,Nagpur,Delhivery,4/14/2025,4/21/2025,9.7,884.69,In Transit,1840,7,FALSE
+SH10574,Ahmedabad_Warehouse,Hyderabad,FedEx,1/18/2025,1/22/2025,37.6,756.08,Delivered,1009,4,FALSE
+SH10575,Delhi_Warehouse,Chennai,FedEx,1/3/2025,1/9/2025,29.3,1209.23,In Transit,1944,6,FALSE
+SH10576,Delhi_Warehouse,Chennai,XpressBees,5/17/2025,5/21/2025,28.8,685.66,Delivered,857,4,FALSE
+SH10577,Bengaluru_Warehouse,Nagpur,Delhivery,12/4/2025,12/9/2025,16,430.68,Delivered,714,5,FALSE
+SH10578,Mumbai_Warehouse,Nagpur,FedEx,7/11/2025,7/14/2025,6.6,523.13,Delivered,1155,3,FALSE
+SH10579,Hyderabad_Warehouse,Nashik,DHL,11/23/2025,12/1/2025,20.2,1208.82,Delivered,2425,8,FALSE
+SH10580,Pune_Warehouse,Kolkata,DHL,2/7/2025,2/11/2025,25.4,833.37,In Transit,1442,4,FALSE
+SH10581,Ahmedabad_Warehouse,Nagpur,XpressBees,2/4/2025,2/6/2025,25.6,794.255,Delayed,990,2,FALSE
+SH10582,Mumbai_Warehouse,Delhi,XpressBees,11/1/2025,11/4/2025,23.4,714.45,In Transit,1181,3,FALSE
+SH10583,Ahmedabad_Warehouse,Nashik,BlueDart,2/8/2025,2/10/2025,22.8,543.71,In Transit,763,2,FALSE
+SH10584,Delhi_Warehouse,Ahmedabad,FedEx,1/19/2025,1/25/2025,10.8,845.23,Delivered,1664,6,FALSE
+SH10585,Bengaluru_Warehouse,Bengaluru,BlueDart,5/28/2025,5/31/2025,11.2,649.67,Delivered,908,3,FALSE
+SH10586,Ahmedabad_Warehouse,Nagpur,DHL,12/4/2025,12/9/2025,7.4,719.58,Delayed,1408,5,FALSE
+SH10587,Mumbai_Warehouse,Bengaluru,Delhivery,9/9/2025,9/14/2025,34.6,766.4,Delivered,956,5,FALSE
+SH10588,Delhi_Warehouse,Nashik,Delhivery,2/6/2025,2/9/2025,55.6,931.73,Delayed,836,3,FALSE
+SH10589,Ahmedabad_Warehouse,Bengaluru,XpressBees,11/2/2025,11/8/2025,89.5,1847.46,Delivered,2428,6,FALSE
+SH10590,Mumbai_Warehouse,Chennai,FedEx,11/4/2025,11/6/2025,21.1,658.1,Delivered,897,2,FALSE
+SH10591,Mumbai_Warehouse,Chennai,FedEx,10/20/2025,10/22/2025,22.8,382.47,Delivered,222,2,FALSE
+SH10592,Bengaluru_Warehouse,Delhi,DHL,11/26/2025,12/2/2025,16.4,636.48,Delivered,977,6,FALSE
+SH10593,Mumbai_Warehouse,Chennai,BlueDart,3/29/2025,4/3/2025,20.9,978.49,Delivered,1354,5,FALSE
+SH10594,Ahmedabad_Warehouse,Pune,Delhivery,12/24/2025,12/26/2025,8.9,323.78,Delivered,281,2,FALSE
+SH10595,Ahmedabad_Warehouse,Surat,DHL,4/28/2025,5/1/2025,16.2,794.255,Delivered,799,3,FALSE
+SH10596,Pune_Warehouse,Chennai,Ecom Express,10/20/2025,10/23/2025,9.9,376.45,Delivered,457,3,FALSE
+SH10597,Pune_Warehouse,Mumbai,BlueDart,7/31/2025,8/4/2025,14.8,698.59,Delivered,1277,4,FALSE
+SH10598,Hyderabad_Warehouse,Nagpur,Ecom Express,10/12/2025,10/17/2025,10.6,959.88,Delivered,1822,5,FALSE
+SH10599,Bengaluru_Warehouse,Hyderabad,BlueDart,8/18/2025,8/25/2025,25.5,1238.77,Delivered,2423,7,FALSE
+SH10600,Hyderabad_Warehouse,Kolkata,DHL,8/23/2025,8/26/2025,27.6,674.93,Delayed,1003,3,FALSE
+SH10601,Ahmedabad_Warehouse,Nashik,DHL,8/13/2025,8/18/2025,22.3,1197.76,Delivered,2165,5,FALSE
+SH10602,Delhi_Warehouse,Kolkata,Delhivery,10/12/2025,10/15/2025,11.3,472.42,Delivered,575,3,FALSE
+SH10603,Pune_Warehouse,Kolkata,Delhivery,9/27/2025,10/2/2025,7,991.19,Delivered,1962,5,FALSE
+SH10604,Bengaluru_Warehouse,Delhi,Ecom Express,2/19/2025,2/24/2025,27.8,963.46,Delivered,1429,5,FALSE
+SH10605,Bengaluru_Warehouse,Hyderabad,XpressBees,10/29/2025,11/4/2025,18.3,1057.47,Delivered,1908,6,FALSE
+SH10606,Delhi_Warehouse,Jaipur,DHL,7/15/2025,7/19/2025,4.1,922.76,Delivered,1901,4,FALSE
+SH10607,Pune_Warehouse,Nashik,FedEx,4/28/2025,5/3/2025,20.1,791.83,Delivered,1354,5,FALSE
+SH10608,Pune_Warehouse,Surat,FedEx,7/7/2025,7/9/2025,22.9,604.97,Delivered,680,2,FALSE
+SH10609,Bengaluru_Warehouse,Nashik,DHL,12/19/2025,12/24/2025,5.3,743.8,Delivered,1339,5,FALSE
+SH10610,Delhi_Warehouse,Nashik,DHL,11/10/2025,11/16/2025,25.7,1166.9,Delivered,2076,6,FALSE
+SH10611,Delhi_Warehouse,Ahmedabad,DHL,11/1/2025,11/9/2025,6,1144.75,Delivered,2429,8,FALSE
+SH10612,Mumbai_Warehouse,Hyderabad,Delhivery,6/18/2025,6/25/2025,10.4,1231.59,Delivered,2323,7,FALSE
+SH10613,Ahmedabad_Warehouse,Mumbai,DHL,10/14/2025,10/16/2025,6,337.36,Delivered,494,2,FALSE
+SH10614,Hyderabad_Warehouse,Kolkata,FedEx,5/21/2025,5/24/2025,9.6,801.64,Delivered,1514,3,FALSE
+SH10615,Ahmedabad_Warehouse,Nashik,DHL,9/8/2025,9/10/2025,7.1,295.5,Delivered,306,2,FALSE
+SH10616,Hyderabad_Warehouse,Pune,Ecom Express,8/22/2025,8/26/2025,34.5,1077.25,Delivered,1689,4,FALSE
+SH10617,Bengaluru_Warehouse,Ahmedabad,Delhivery,4/2/2025,4/10/2025,15.4,1208.22,Delivered,2482,8,FALSE
+SH10618,Pune_Warehouse,Surat,XpressBees,4/8/2025,4/10/2025,13.2,287.75,Delivered,178,2,FALSE
+SH10619,Bengaluru_Warehouse,Mumbai,DHL,1/23/2025,1/29/2025,36.6,1085.75,Delivered,1659,6,FALSE
+SH10620,Bengaluru_Warehouse,Hyderabad,FedEx,2/21/2025,2/27/2025,35.4,1476.36,Delayed,2367,6,FALSE
+SH10621,Ahmedabad_Warehouse,Kolkata,BlueDart,6/8/2025,6/14/2025,13.9,1134.43,Delivered,2126,6,FALSE
+SH10622,Pune_Warehouse,Kolkata,Delhivery,6/24/2025,6/28/2025,22.1,659.72,Delivered,1011,4,FALSE
+SH10623,Mumbai_Warehouse,Nashik,DHL,3/2/2025,3/5/2025,11.9,348.93,Delivered,304,3,FALSE
+SH10624,Mumbai_Warehouse,Jaipur,FedEx,6/2/2025,6/9/2025,17.1,1214.16,Delayed,2314,7,FALSE
+SH10625,Pune_Warehouse,Kolkata,BlueDart,8/9/2025,8/14/2025,8.1,794.255,Delivered,2308,5,FALSE
+SH10626,Bengaluru_Warehouse,Nagpur,DHL,3/26/2025,4/1/2025,24.2,873.84,Delivered,1469,6,FALSE
+SH10627,Mumbai_Warehouse,Jaipur,BlueDart,5/4/2025,5/10/2025,37.5,1437.71,Delayed,2449,6,FALSE
+SH10628,Mumbai_Warehouse,Chennai,Ecom Express,5/15/2025,5/16/2025,33.4,384.07,Delivered,61,1,FALSE
+SH10629,Delhi_Warehouse,Hyderabad,Delhivery,7/4/2025,7/6/2025,18.9,899.49,Delivered,1561,2,FALSE
+SH10630,Hyderabad_Warehouse,Mumbai,BlueDart,5/14/2025,5/17/2025,3.8,124.09,Delivered,144,3,FALSE
+SH10631,Delhi_Warehouse,Jaipur,BlueDart,9/26/2025,10/2/2025,11.5,1193.49,Delivered,2343,6,FALSE
+SH10632,Pune_Warehouse,Jaipur,XpressBees,4/30/2025,5/5/2025,17,968.63,Delivered,1717,5,FALSE
+SH10633,Pune_Warehouse,Kolkata,Delhivery,6/8/2025,6/14/2025,6.4,1166.05,Delivered,2288,6,FALSE
+SH10634,Hyderabad_Warehouse,Surat,Delhivery,5/19/2025,5/23/2025,5.5,726.38,Delivered,1429,4,FALSE
+SH10635,Delhi_Warehouse,Bengaluru,XpressBees,3/8/2025,3/10/2025,44,538.03,Delivered,254,2,FALSE
+SH10636,Delhi_Warehouse,Surat,DHL,9/8/2025,9/10/2025,30.9,434.36,Delivered,115,2,FALSE
+SH10637,Hyderabad_Warehouse,Mumbai,DHL,3/27/2025,3/31/2025,25.4,618.46,Delayed,872,4,FALSE
+SH10638,Delhi_Warehouse,Surat,BlueDart,4/19/2025,4/24/2025,28.7,1169.86,Delivered,1872,5,FALSE
+SH10639,Delhi_Warehouse,Pune,FedEx,10/17/2025,10/20/2025,7.2,377.16,Delivered,420,3,FALSE
+SH10640,Hyderabad_Warehouse,Jaipur,FedEx,12/13/2025,12/19/2025,9.3,1126.16,Delivered,2138,6,FALSE
+SH10641,Pune_Warehouse,Nagpur,DHL,9/2/2025,9/5/2025,21.2,548.03,Delivered,636,3,FALSE
+SH10642,Bengaluru_Warehouse,Jaipur,XpressBees,12/1/2025,12/5/2025,22.3,774.51,Delivered,1266,4,FALSE
+SH10643,Bengaluru_Warehouse,Surat,Delhivery,11/8/2025,11/10/2025,6.1,367.6,Delivered,547,2,FALSE
+SH10644,Pune_Warehouse,Ahmedabad,Ecom Express,6/25/2025,6/29/2025,20.2,772.82,Delivered,1191,4,FALSE
+SH10645,Mumbai_Warehouse,Pune,DHL,10/9/2025,10/12/2025,17.3,682.6,Delayed,1158,3,FALSE
+SH10646,Ahmedabad_Warehouse,Jaipur,BlueDart,4/30/2025,5/1/2025,32.7,457.73,Delayed,63,1,FALSE
+SH10647,Pune_Warehouse,Delhi,Delhivery,6/18/2025,6/21/2025,22.4,907.52,Delayed,1441,3,FALSE
+SH10648,Delhi_Warehouse,Jaipur,Delhivery,7/15/2025,7/20/2025,47.2,1262.89,Delivered,1978,5,FALSE
+SH10649,Bengaluru_Warehouse,Bengaluru,Ecom Express,12/17/2025,12/25/2025,14,1287.04,Delivered,2344,8,FALSE
+SH10650,Mumbai_Warehouse,Mumbai,Ecom Express,11/6/2025,11/9/2025,7.6,511.16,Delivered,860,3,FALSE
+SH10651,Mumbai_Warehouse,Jaipur,BlueDart,6/28/2025,7/5/2025,46.4,1341.58,Delivered,2208,7,FALSE
+SH10652,Delhi_Warehouse,Pune,Ecom Express,8/27/2025,9/4/2025,23.1,1155.95,Delayed,2203,8,FALSE
+SH10653,Ahmedabad_Warehouse,Delhi,FedEx,3/15/2025,3/22/2025,17.3,1347.12,Delayed,2472,7,FALSE
+SH10654,Bengaluru_Warehouse,Jaipur,DHL,10/21/2025,10/24/2025,9.6,666.85,Delivered,964,3,FALSE
+SH10655,Bengaluru_Warehouse,Kolkata,XpressBees,7/21/2025,7/26/2025,14.1,1152.07,Delayed,2135,5,FALSE
+SH10656,Bengaluru_Warehouse,Delhi,DHL,7/14/2025,7/19/2025,13.6,870.86,Delayed,1435,5,FALSE
+SH10657,Ahmedabad_Warehouse,Delhi,FedEx,10/7/2025,10/9/2025,7.4,290.45,Delivered,192,2,FALSE
+SH10658,Ahmedabad_Warehouse,Delhi,DHL,8/20/2025,8/23/2025,2.9,434.32,Delayed,712,3,FALSE
+SH10659,Mumbai_Warehouse,Ahmedabad,FedEx,1/27/2025,2/2/2025,13.3,923.89,Delivered,1697,6,FALSE
+SH10660,Bengaluru_Warehouse,Nashik,BlueDart,4/16/2025,4/20/2025,29.1,543.1,Delivered,443,4,FALSE
+SH10661,Bengaluru_Warehouse,Ahmedabad,DHL,3/6/2025,3/8/2025,39.5,924.53,Delivered,1115,2,FALSE
+SH10662,Pune_Warehouse,Chennai,BlueDart,9/26/2025,10/1/2025,33.5,1142.54,Delivered,1949,5,FALSE
+SH10663,Ahmedabad_Warehouse,Mumbai,XpressBees,1/13/2025,1/15/2025,34.8,591.2,Delivered,417,2,FALSE
+SH10664,Pune_Warehouse,Surat,DHL,3/15/2025,3/20/2025,8.1,761.21,In Transit,1267,5,FALSE
+SH10665,Ahmedabad_Warehouse,Ahmedabad,XpressBees,8/7/2025,8/11/2025,21.4,492.47,Delivered,576,4,FALSE
+SH10666,Mumbai_Warehouse,Jaipur,BlueDart,9/11/2025,9/18/2025,25.6,853.25,Delivered,1364,7,FALSE
+SH10667,Bengaluru_Warehouse,Jaipur,Delhivery,7/3/2025,7/6/2025,26.6,600.69,Delivered,639,3,FALSE
+SH10668,Hyderabad_Warehouse,Surat,BlueDart,11/11/2025,11/17/2025,17.1,1204.34,Delivered,2416,6,FALSE
+SH10669,Bengaluru_Warehouse,Jaipur,FedEx,12/2/2025,12/5/2025,19.7,274.56,Delivered,237,3,FALSE
+SH10670,Mumbai_Warehouse,Kolkata,DHL,2/18/2025,2/24/2025,32.9,1435.39,Delivered,2411,6,FALSE
+SH10671,Mumbai_Warehouse,Delhi,Delhivery,12/14/2025,12/20/2025,25,1103.5,In Transit,1990,6,FALSE
+SH10672,Bengaluru_Warehouse,Nashik,XpressBees,8/13/2025,8/19/2025,28,1220.75,Delivered,2147,6,FALSE
+SH10673,Ahmedabad_Warehouse,Jaipur,Delhivery,8/21/2025,8/25/2025,12.9,1053.63,Delivered,2137,4,FALSE
+SH10674,Bengaluru_Warehouse,Pune,Delhivery,2/4/2025,2/7/2025,27.1,594.35,Delivered,509,3,FALSE
+SH10675,Mumbai_Warehouse,Pune,Delhivery,8/15/2025,8/21/2025,19.6,1272.96,Delivered,2332,6,FALSE
+SH10676,Hyderabad_Warehouse,Nashik,BlueDart,9/22/2025,9/28/2025,30.8,961.08,In Transit,1506,6,FALSE
+SH10677,Delhi_Warehouse,Delhi,DHL,7/31/2025,8/7/2025,10.8,1118.27,Delivered,2408,7,FALSE
+SH10678,Mumbai_Warehouse,Pune,Delhivery,1/31/2025,2/5/2025,29.2,1233.96,Delivered,2202,5,FALSE
+SH10679,Delhi_Warehouse,Nagpur,XpressBees,7/10/2025,7/14/2025,14.2,849.46,Delivered,1470,4,FALSE
+SH10680,Pune_Warehouse,Ahmedabad,FedEx,12/8/2025,12/10/2025,29.3,745.56,Delayed,967,2,FALSE
+SH10681,Ahmedabad_Warehouse,Nashik,XpressBees,9/22/2025,9/23/2025,21.5,410.29,Delivered,337,1,FALSE
+SH10682,Ahmedabad_Warehouse,Delhi,XpressBees,2/20/2025,2/23/2025,18.6,374.48,Delivered,297,3,FALSE
+SH10683,Mumbai_Warehouse,Surat,FedEx,12/17/2025,12/20/2025,14.8,669.63,Delivered,1005,3,FALSE
+SH10684,Bengaluru_Warehouse,Kolkata,Delhivery,12/16/2025,12/23/2025,17.4,1081.14,Delivered,2037,7,FALSE
+SH10685,Mumbai_Warehouse,Pune,Ecom Express,3/3/2025,3/6/2025,13.4,759.61,Delivered,1288,3,FALSE
+SH10686,Delhi_Warehouse,Jaipur,BlueDart,10/20/2025,10/24/2025,14.6,666.42,Delivered,1230,4,FALSE
+SH10687,Mumbai_Warehouse,Delhi,Ecom Express,5/29/2025,6/1/2025,24.5,701.29,Delivered,649,3,FALSE
+SH10688,Hyderabad_Warehouse,Bengaluru,XpressBees,8/5/2025,8/10/2025,4.7,706.2,In Transit,1433,5,FALSE
+SH10689,Mumbai_Warehouse,Jaipur,Delhivery,6/12/2025,6/18/2025,29.1,1016.01,Delivered,1613,6,FALSE
+SH10690,Ahmedabad_Warehouse,Surat,XpressBees,10/13/2025,10/20/2025,29.4,1393,Delayed,2457,7,FALSE
+SH10691,Pune_Warehouse,Ahmedabad,Ecom Express,12/30/2025,1/6/2026,15.1,957.3,Delivered,1837,7,FALSE
+SH10692,Pune_Warehouse,Surat,Ecom Express,10/18/2025,10/22/2025,20.1,897.24,Delivered,1538,4,FALSE
+SH10693,Ahmedabad_Warehouse,Chennai,XpressBees,12/6/2025,12/13/2025,8.9,1113.01,Delivered,2280,7,FALSE
+SH10694,Ahmedabad_Warehouse,Chennai,FedEx,12/12/2025,12/15/2025,23.5,687.7,Delivered,1091,3,FALSE
+SH10695,Mumbai_Warehouse,Chennai,DHL,2/2/2025,2/7/2025,9.7,1169.79,Delivered,2341,5,FALSE
+SH10696,Mumbai_Warehouse,Chennai,DHL,4/3/2025,4/7/2025,1.7,405.26,Delivered,956,4,FALSE
+SH10697,Ahmedabad_Warehouse,Delhi,FedEx,9/21/2025,9/22/2025,38.5,656.11,Delivered,363,1,FALSE
+SH10698,Ahmedabad_Warehouse,Surat,Ecom Express,8/4/2025,8/8/2025,8.1,643.12,Delivered,1073,4,FALSE
+SH10699,Delhi_Warehouse,Surat,Delhivery,1/19/2025,1/22/2025,17.1,413.8,Delivered,365,3,FALSE
+SH10700,Mumbai_Warehouse,Jaipur,BlueDart,2/4/2025,2/7/2025,20.6,302.38,Delayed,340,3,FALSE
+SH10701,Mumbai_Warehouse,Nagpur,DHL,7/9/2025,7/15/2025,24.5,1172.44,Delivered,2209,6,FALSE
+SH10702,Pune_Warehouse,Kolkata,Ecom Express,8/13/2025,8/19/2025,18.2,1149.85,Delivered,1997,6,FALSE
+SH10703,Hyderabad_Warehouse,Pune,BlueDart,3/3/2025,3/6/2025,21.8,742.26,Delivered,592,3,FALSE
+SH10704,Mumbai_Warehouse,Mumbai,Ecom Express,3/4/2025,3/9/2025,14.9,1155.62,Delayed,2103,5,FALSE
+SH10705,Bengaluru_Warehouse,Surat,DHL,2/17/2025,2/19/2025,5.4,274.49,Delivered,218,2,FALSE
+SH10706,Hyderabad_Warehouse,Ahmedabad,FedEx,7/26/2025,7/30/2025,17.7,573.06,Delivered,747,4,FALSE
+SH10707,Mumbai_Warehouse,Nagpur,DHL,1/3/2025,1/8/2025,26.7,1007.94,Delivered,1780,5,FALSE
+SH10708,Ahmedabad_Warehouse,Ahmedabad,FedEx,7/28/2025,7/31/2025,8.5,540.46,Delivered,794,3,FALSE
+SH10709,Ahmedabad_Warehouse,Ahmedabad,XpressBees,6/23/2025,6/28/2025,20.7,968.18,Delayed,1840,5,FALSE
+SH10710,Pune_Warehouse,Mumbai,BlueDart,6/20/2025,6/28/2025,53.1,1385.41,Delivered,2192,8,FALSE
+SH10711,Mumbai_Warehouse,Delhi,BlueDart,9/5/2025,9/7/2025,16.9,242.23,In Transit,211,2,FALSE
+SH10712,Pune_Warehouse,Pune,FedEx,7/10/2025,7/11/2025,17.5,327.77,Delivered,108,1,FALSE
+SH10713,Pune_Warehouse,Hyderabad,FedEx,9/23/2025,9/28/2025,5,1107.6,Delivered,2353,5,FALSE
+SH10714,Pune_Warehouse,Mumbai,Ecom Express,10/6/2025,10/10/2025,7.8,708.35,Delivered,1325,4,FALSE
+SH10715,Ahmedabad_Warehouse,Chennai,XpressBees,12/2/2025,12/7/2025,9.8,704.67,Delivered,1291,5,FALSE
+SH10716,Mumbai_Warehouse,Delhi,Ecom Express,10/19/2025,10/24/2025,26,737.21,Delivered,1186,5,FALSE
+SH10717,Pune_Warehouse,Nagpur,Ecom Express,7/8/2025,7/12/2025,9,586.65,Delivered,1112,4,FALSE
+SH10718,Hyderabad_Warehouse,Mumbai,BlueDart,6/29/2025,7/5/2025,3.7,808.55,Delivered,1741,6,FALSE
+SH10719,Mumbai_Warehouse,Mumbai,DHL,3/28/2025,4/2/2025,23.2,817.31,Delivered,1470,5,FALSE
+SH10720,Mumbai_Warehouse,Hyderabad,Ecom Express,8/7/2025,8/11/2025,10.5,330.52,Delivered,450,4,FALSE
+SH10721,Pune_Warehouse,Chennai,Ecom Express,2/20/2025,2/26/2025,5.2,730.43,In Transit,1585,6,FALSE
+SH10722,Ahmedabad_Warehouse,Chennai,Delhivery,12/6/2025,12/12/2025,28.1,1059.58,Delivered,1688,6,FALSE
+SH10723,Ahmedabad_Warehouse,Ahmedabad,DHL,11/5/2025,11/7/2025,13.7,370.56,Delivered,328,2,FALSE
+SH10724,Ahmedabad_Warehouse,Jaipur,Ecom Express,2/13/2025,2/15/2025,24.6,626.61,Delivered,973,2,FALSE
+SH10725,Ahmedabad_Warehouse,Nagpur,XpressBees,10/14/2025,10/20/2025,5.1,941.58,Delivered,1987,6,FALSE
+SH10726,Mumbai_Warehouse,Nagpur,FedEx,2/12/2025,2/18/2025,2.7,862.75,Delivered,1566,6,FALSE
+SH10727,Delhi_Warehouse,Nagpur,DHL,9/21/2025,9/25/2025,19.4,352.24,In Transit,384,4,FALSE
+SH10728,Bengaluru_Warehouse,Mumbai,Ecom Express,2/2/2025,2/5/2025,7.5,229.38,Delivered,148,3,FALSE
+SH10729,Mumbai_Warehouse,Hyderabad,FedEx,6/28/2025,7/4/2025,19.3,868.93,Delayed,1474,6,FALSE
+SH10730,Ahmedabad_Warehouse,Kolkata,Ecom Express,8/29/2025,9/3/2025,19.5,801.88,Delivered,1181,5,FALSE
+SH10731,Bengaluru_Warehouse,Hyderabad,Ecom Express,9/24/2025,10/1/2025,17.9,1258.5,Delayed,2405,7,FALSE
+SH10732,Ahmedabad_Warehouse,Pune,FedEx,6/2/2025,6/5/2025,34.6,908.98,Delivered,1330,3,FALSE
+SH10733,Pune_Warehouse,Jaipur,DHL,12/3/2025,12/10/2025,81.6,1757.13,In Transit,2333,7,FALSE
+SH10734,Hyderabad_Warehouse,Delhi,Delhivery,10/10/2025,10/12/2025,22.9,794.255,Delivered,575,2,FALSE
+SH10735,Mumbai_Warehouse,Ahmedabad,BlueDart,3/18/2025,3/22/2025,53.1,1007.63,Delivered,1146,4,FALSE
+SH10736,Mumbai_Warehouse,Ahmedabad,XpressBees,9/2/2025,9/5/2025,13.9,290.24,Delivered,392,3,FALSE
+SH10737,Bengaluru_Warehouse,Nagpur,BlueDart,9/24/2025,9/29/2025,6.5,815.56,Delivered,1457,5,FALSE
+SH10738,Mumbai_Warehouse,Surat,FedEx,5/2/2025,5/5/2025,11,446.77,Delivered,511,3,FALSE
+SH10739,Pune_Warehouse,Nagpur,XpressBees,9/27/2025,10/2/2025,14.5,673.34,Delivered,1256,5,FALSE
+SH10740,Hyderabad_Warehouse,Surat,Ecom Express,11/24/2025,11/25/2025,55.9,913.67,Delivered,893,1,FALSE
+SH10741,Delhi_Warehouse,Mumbai,Delhivery,10/26/2025,10/29/2025,18.6,437.82,Delivered,505,3,FALSE
+SH10742,Delhi_Warehouse,Chennai,XpressBees,10/6/2025,10/9/2025,35.4,437.83,Delivered,287,3,FALSE
+SH10743,Pune_Warehouse,Hyderabad,Ecom Express,8/20/2025,8/26/2025,13.1,636.78,Delayed,1305,6,FALSE
+SH10744,Hyderabad_Warehouse,Nagpur,XpressBees,4/9/2025,4/16/2025,12,794.255,Delivered,2371,7,FALSE
+SH10745,Ahmedabad_Warehouse,Pune,Ecom Express,10/18/2025,10/22/2025,4.9,327.59,Delivered,537,4,FALSE
+SH10746,Hyderabad_Warehouse,Ahmedabad,BlueDart,5/13/2025,5/17/2025,54.8,904.17,Delivered,1042,4,FALSE
+SH10747,Delhi_Warehouse,Mumbai,DHL,7/14/2025,7/17/2025,42.9,706.38,Delivered,600,3,FALSE
+SH10748,Delhi_Warehouse,Jaipur,Delhivery,4/25/2025,5/1/2025,20.9,1175.05,Delivered,2032,6,FALSE
+SH10749,Mumbai_Warehouse,Nashik,Ecom Express,4/25/2025,4/29/2025,15.2,703.24,Delivered,1066,4,FALSE
+SH10750,Mumbai_Warehouse,Pune,XpressBees,2/27/2025,3/5/2025,19.1,1259.34,Delivered,2438,6,FALSE
+SH10751,Pune_Warehouse,Mumbai,Ecom Express,12/17/2025,12/20/2025,6.3,305.33,Delivered,650,3,FALSE
+SH10752,Delhi_Warehouse,Delhi,Delhivery,2/23/2025,2/24/2025,24.6,432.2,Delivered,247,1,FALSE
+SH10753,Ahmedabad_Warehouse,Surat,Delhivery,2/1/2025,2/6/2025,40.7,1054.34,Delivered,1477,5,FALSE
+SH10754,Ahmedabad_Warehouse,Surat,DHL,12/8/2025,12/13/2025,42,1152.08,Delayed,1647,5,FALSE
+SH10755,Mumbai_Warehouse,Mumbai,DHL,7/22/2025,7/28/2025,5.1,1270.6,Delivered,2478,6,FALSE
+SH10756,Pune_Warehouse,Surat,DHL,6/9/2025,6/15/2025,35.2,1251.54,Delivered,2185,6,FALSE
+SH10757,Mumbai_Warehouse,Jaipur,XpressBees,9/27/2025,10/4/2025,6.3,906.58,Delivered,2217,7,FALSE
+SH10758,Mumbai_Warehouse,Delhi,Ecom Express,5/20/2025,5/26/2025,2.8,719.54,Delayed,1604,6,FALSE
+SH10759,Delhi_Warehouse,Surat,FedEx,2/16/2025,2/19/2025,36,803.75,Delivered,931,3,FALSE
+SH10760,Ahmedabad_Warehouse,Nashik,BlueDart,9/24/2025,9/27/2025,12.4,649.3,Delivered,1101,3,FALSE
+SH10761,Pune_Warehouse,Nashik,BlueDart,3/6/2025,3/9/2025,32.9,451.13,Delayed,377,3,FALSE
+SH10762,Hyderabad_Warehouse,Nashik,FedEx,7/21/2025,7/24/2025,31,729.94,Delivered,1106,3,FALSE
+SH10763,Delhi_Warehouse,Pune,BlueDart,12/13/2025,12/17/2025,28.5,698.81,Delivered,943,4,FALSE
+SH10764,Bengaluru_Warehouse,Hyderabad,BlueDart,12/8/2025,12/11/2025,18.9,229.65,Delivered,137,3,FALSE
+SH10765,Ahmedabad_Warehouse,Pune,Ecom Express,5/12/2025,5/16/2025,6.9,398.7,Delivered,551,4,FALSE
+SH10766,Hyderabad_Warehouse,Nashik,Ecom Express,10/12/2025,10/17/2025,14.6,752.67,Delivered,1360,5,FALSE
+SH10767,Hyderabad_Warehouse,Bengaluru,DHL,8/12/2025,8/16/2025,42.5,807.86,Delivered,955,4,FALSE
+SH10768,Delhi_Warehouse,Jaipur,BlueDart,6/24/2025,7/3/2025,33.4,1365.89,Delivered,2485,9,FALSE
+SH10769,Mumbai_Warehouse,Kolkata,XpressBees,2/21/2025,2/23/2025,15.1,736.06,Delivered,1222,2,FALSE
+SH10770,Ahmedabad_Warehouse,Mumbai,XpressBees,5/18/2025,5/24/2025,15,1217.42,Delivered,2399,6,FALSE
+SH10771,Ahmedabad_Warehouse,Jaipur,Ecom Express,8/26/2025,9/1/2025,26.9,1020.74,Delivered,1669,6,FALSE
+SH10772,Ahmedabad_Warehouse,Pune,Ecom Express,12/27/2025,12/29/2025,19.9,321.64,Delivered,149,2,FALSE
+SH10773,Delhi_Warehouse,Surat,DHL,1/2/2025,1/6/2025,15.7,439.64,Delivered,548,4,FALSE
+SH10774,Pune_Warehouse,Delhi,XpressBees,9/19/2025,9/24/2025,25.4,986.26,Delivered,1779,5,FALSE
+SH10775,Pune_Warehouse,Kolkata,Ecom Express,11/5/2025,11/10/2025,24.9,833.6,Delivered,1386,5,FALSE
+SH10776,Delhi_Warehouse,Chennai,XpressBees,12/14/2025,12/17/2025,11.2,484.87,Delivered,789,3,FALSE
+SH10777,Delhi_Warehouse,Delhi,XpressBees,6/4/2025,6/8/2025,22.6,943.87,Delivered,1329,4,FALSE
+SH10778,Pune_Warehouse,Delhi,FedEx,2/13/2025,2/19/2025,23.9,1159.42,Delivered,2263,6,FALSE
+SH10779,Ahmedabad_Warehouse,Delhi,DHL,4/9/2025,4/13/2025,18,630.8,Delivered,1002,4,FALSE
+SH10780,Bengaluru_Warehouse,Hyderabad,Delhivery,11/7/2025,11/8/2025,10.3,240.15,Delivered,160,1,FALSE
+SH10781,Pune_Warehouse,Hyderabad,BlueDart,11/17/2025,11/21/2025,14.2,525.06,In Transit,812,4,FALSE
+SH10782,Bengaluru_Warehouse,Jaipur,DHL,8/21/2025,8/28/2025,8.8,1197.93,In Transit,2343,7,FALSE
+SH10783,Hyderabad_Warehouse,Hyderabad,FedEx,2/14/2025,2/21/2025,23,1063.67,Delivered,1917,7,FALSE
+SH10784,Bengaluru_Warehouse,Chennai,XpressBees,2/14/2025,2/19/2025,5.1,794.255,Delivered,2102,5,FALSE
+SH10785,Ahmedabad_Warehouse,Hyderabad,BlueDart,6/24/2025,6/29/2025,45.2,1468.28,Delivered,2284,5,FALSE
+SH10786,Ahmedabad_Warehouse,Delhi,FedEx,8/3/2025,8/5/2025,39.5,657.3,Delivered,338,2,FALSE
+SH10787,Delhi_Warehouse,Delhi,Delhivery,1/12/2025,1/18/2025,24.3,675.6,Delivered,742,6,FALSE
+SH10788,Delhi_Warehouse,Nagpur,Delhivery,9/8/2025,9/11/2025,32.2,428.5,Delivered,196,3,FALSE
+SH10789,Pune_Warehouse,Pune,FedEx,7/18/2025,7/19/2025,30.8,364.7,Delivered,61,1,FALSE
+SH10790,Hyderabad_Warehouse,Delhi,XpressBees,1/5/2025,1/11/2025,20.1,1133.32,Delivered,2095,6,FALSE
+SH10791,Ahmedabad_Warehouse,Delhi,Delhivery,2/4/2025,2/11/2025,16,1209.4,Delivered,2346,7,FALSE
+SH10792,Bengaluru_Warehouse,Jaipur,DHL,6/15/2025,6/16/2025,14.7,339.37,Delivered,431,1,FALSE
+SH10793,Pune_Warehouse,Pune,FedEx,9/21/2025,9/28/2025,46.3,1289.46,Delivered,1820,7,FALSE
+SH10794,Bengaluru_Warehouse,Hyderabad,XpressBees,10/29/2025,11/2/2025,10.1,748.83,Delayed,1361,4,FALSE
+SH10795,Hyderabad_Warehouse,Nagpur,DHL,6/7/2025,6/9/2025,10.2,256.21,Delivered,219,2,FALSE
+SH10796,Mumbai_Warehouse,Surat,DHL,4/18/2025,4/24/2025,34,1262.57,Delivered,2294,6,FALSE
+SH10797,Bengaluru_Warehouse,Hyderabad,Delhivery,12/20/2025,12/27/2025,32,1273.13,Delivered,2185,7,FALSE
+SH10798,Bengaluru_Warehouse,Surat,BlueDart,6/17/2025,6/21/2025,15.3,710.72,Delivered,1440,4,FALSE
+SH10799,Bengaluru_Warehouse,Jaipur,FedEx,4/26/2025,4/30/2025,26,1018.71,Delivered,1785,4,FALSE
+SH10800,Bengaluru_Warehouse,Chennai,BlueDart,6/11/2025,6/15/2025,28.3,719.24,Delivered,1023,4,FALSE
+SH10801,Ahmedabad_Warehouse,Nashik,FedEx,1/5/2025,1/9/2025,6.6,988.94,In Transit,1993,4,FALSE
+SH10802,Mumbai_Warehouse,Kolkata,BlueDart,4/21/2025,4/25/2025,41.2,1012.39,Delivered,1140,4,FALSE
+SH10803,Bengaluru_Warehouse,Delhi,FedEx,7/8/2025,7/16/2025,28.3,1391.08,Delivered,2474,8,FALSE
+SH10804,Hyderabad_Warehouse,Pune,Delhivery,12/2/2025,12/5/2025,24.6,454.44,Delivered,204,3,FALSE
+SH10805,Hyderabad_Warehouse,Mumbai,Ecom Express,9/27/2025,10/1/2025,28.4,554.71,In Transit,471,4,FALSE
+SH10806,Delhi_Warehouse,Jaipur,XpressBees,10/13/2025,10/20/2025,22.7,1352.91,Delivered,2424,7,FALSE
+SH10807,Ahmedabad_Warehouse,Jaipur,DHL,7/18/2025,7/23/2025,17.3,647.13,In Transit,757,5,FALSE
+SH10808,Pune_Warehouse,Nashik,FedEx,2/10/2025,2/13/2025,20.2,552.07,Delivered,811,3,FALSE
+SH10809,Delhi_Warehouse,Kolkata,FedEx,5/23/2025,5/29/2025,6.1,923.39,Delivered,1989,6,FALSE
+SH10810,Hyderabad_Warehouse,Delhi,Delhivery,12/30/2025,1/1/2026,57.8,823.96,Delayed,514,2,FALSE
+SH10811,Delhi_Warehouse,Jaipur,Delhivery,1/17/2025,1/22/2025,17.1,774.51,Delivered,1308,5,FALSE
+SH10812,Delhi_Warehouse,Ahmedabad,XpressBees,11/17/2025,11/20/2025,57.2,893.74,Delivered,751,3,FALSE
+SH10813,Bengaluru_Warehouse,Jaipur,XpressBees,9/7/2025,9/11/2025,20.4,464.42,In Transit,535,4,FALSE
+SH10814,Bengaluru_Warehouse,Nagpur,Ecom Express,4/14/2025,4/20/2025,11.9,1161.82,Delivered,2413,6,FALSE
+SH10815,Ahmedabad_Warehouse,Surat,FedEx,10/11/2025,10/15/2025,40.4,738.92,Delivered,539,4,FALSE
+SH10816,Bengaluru_Warehouse,Nagpur,DHL,11/2/2025,11/5/2025,23.9,340.68,Delayed,281,3,FALSE
+SH10817,Pune_Warehouse,Kolkata,XpressBees,1/16/2025,1/21/2025,70.9,1434.82,Delayed,1701,5,FALSE
+SH10818,Mumbai_Warehouse,Kolkata,XpressBees,2/8/2025,2/15/2025,11.7,1121.78,In Transit,2175,7,FALSE
+SH10819,Ahmedabad_Warehouse,Bengaluru,FedEx,8/31/2025,9/3/2025,41.5,497.94,Delayed,362,3,FALSE
+SH10820,Delhi_Warehouse,Ahmedabad,DHL,12/31/2025,1/6/2026,42.9,1148.24,Delivered,1784,6,FALSE
+SH10821,Pune_Warehouse,Nashik,Ecom Express,1/9/2025,1/13/2025,29.8,874.35,Delayed,1375,4,FALSE
+SH10822,Pune_Warehouse,Surat,Delhivery,8/31/2025,9/5/2025,43.1,1352.68,Delivered,2084,5,FALSE
+SH10823,Mumbai_Warehouse,Surat,XpressBees,2/19/2025,2/21/2025,17.3,358.48,Delivered,361,2,FALSE
+SH10824,Pune_Warehouse,Kolkata,Delhivery,8/26/2025,8/31/2025,10,1185.51,Delivered,2441,5,FALSE
+SH10825,Hyderabad_Warehouse,Nagpur,Ecom Express,8/16/2025,8/22/2025,12.7,765.92,Delayed,1567,6,FALSE
+SH10826,Bengaluru_Warehouse,Kolkata,Ecom Express,2/3/2025,2/8/2025,19.5,1261.56,Delivered,2114,5,FALSE
+SH10827,Bengaluru_Warehouse,Chennai,DHL,9/6/2025,9/9/2025,30.8,739.26,Delayed,937,3,FALSE
+SH10828,Mumbai_Warehouse,Nashik,DHL,11/24/2025,12/1/2025,10.6,1189.59,Delivered,2362,7,FALSE
+SH10829,Hyderabad_Warehouse,Delhi,Ecom Express,11/12/2025,11/18/2025,14.7,840.92,Delivered,1585,6,FALSE
+SH10830,Ahmedabad_Warehouse,Ahmedabad,FedEx,1/11/2025,1/12/2025,11.2,290.93,Delivered,361,1,FALSE
+SH10831,Ahmedabad_Warehouse,Hyderabad,FedEx,3/31/2025,4/6/2025,34.3,1447.79,Delivered,2312,6,FALSE
+SH10832,Delhi_Warehouse,Nagpur,Ecom Express,3/29/2025,4/4/2025,56.9,1298.23,Delivered,2000,6,FALSE
+SH10833,Bengaluru_Warehouse,Nagpur,FedEx,6/15/2025,6/18/2025,8.8,499.83,Delivered,785,3,FALSE
+SH10834,Pune_Warehouse,Surat,DHL,2/22/2025,2/28/2025,26.8,823.71,Delivered,1387,6,FALSE
+SH10835,Ahmedabad_Warehouse,Chennai,DHL,11/8/2025,11/11/2025,37.1,793.49,Delivered,1001,3,FALSE
+SH10836,Ahmedabad_Warehouse,Mumbai,BlueDart,10/11/2025,10/14/2025,16.3,763.89,Delivered,1382,3,FALSE
+SH10837,Pune_Warehouse,Bengaluru,Delhivery,10/23/2025,10/30/2025,6.4,1094.89,Delivered,2416,7,FALSE
+SH10838,Delhi_Warehouse,Delhi,Ecom Express,3/14/2025,3/20/2025,40.2,1369.91,Delivered,2253,6,FALSE
+SH10839,Pune_Warehouse,Jaipur,XpressBees,1/6/2025,1/7/2025,6.1,233.37,Delivered,578,1,FALSE
+SH10840,Bengaluru_Warehouse,Bengaluru,Delhivery,11/29/2025,12/5/2025,47.7,1489.12,Delivered,2431,6,FALSE
+SH10841,Pune_Warehouse,Surat,Ecom Express,4/16/2025,4/21/2025,11,640.19,Delivered,1123,5,FALSE
+SH10842,Hyderabad_Warehouse,Delhi,FedEx,8/28/2025,9/1/2025,5.4,797.48,Delivered,1777,4,FALSE
+SH10843,Ahmedabad_Warehouse,Hyderabad,BlueDart,11/28/2025,12/6/2025,13.4,1084.79,Delivered,1923,8,FALSE
+SH10844,Ahmedabad_Warehouse,Chennai,FedEx,1/14/2025,1/17/2025,18.4,721.56,Delivered,1233,3,FALSE
+SH10845,Pune_Warehouse,Bengaluru,DHL,1/2/2025,1/6/2025,21.2,738.12,Delivered,1169,4,FALSE
+SH10846,Mumbai_Warehouse,Mumbai,XpressBees,1/2/2025,1/5/2025,28.3,778.54,Delivered,1168,3,FALSE
+SH10847,Hyderabad_Warehouse,Delhi,FedEx,2/27/2025,3/5/2025,22.5,1175.64,Delivered,2164,6,FALSE
+SH10848,Mumbai_Warehouse,Bengaluru,BlueDart,1/19/2025,1/23/2025,54.1,1030.12,Delivered,996,4,FALSE
+SH10849,Delhi_Warehouse,Jaipur,BlueDart,10/27/2025,10/29/2025,17.9,677.29,In Transit,736,2,FALSE
+SH10850,Ahmedabad_Warehouse,Nagpur,DHL,8/10/2025,8/16/2025,23.3,712.18,Delivered,936,6,FALSE
+SH10851,Delhi_Warehouse,Ahmedabad,XpressBees,12/24/2025,12/26/2025,22,548.18,Delivered,527,2,FALSE
+SH10852,Mumbai_Warehouse,Bengaluru,FedEx,10/20/2025,10/23/2025,4.9,639.83,Delayed,1009,3,FALSE
+SH10853,Ahmedabad_Warehouse,Ahmedabad,DHL,12/18/2025,12/21/2025,7.6,296.47,Delivered,329,3,FALSE
+SH10854,Hyderabad_Warehouse,Pune,BlueDart,3/29/2025,4/2/2025,19.5,445.09,Delivered,269,4,FALSE
+SH10855,Pune_Warehouse,Nashik,DHL,4/16/2025,4/22/2025,25.1,1103.01,Delayed,1824,6,FALSE
+SH10856,Bengaluru_Warehouse,Jaipur,XpressBees,11/7/2025,11/8/2025,3.5,218.05,Delivered,239,1,FALSE
+SH10857,Bengaluru_Warehouse,Kolkata,FedEx,3/31/2025,4/5/2025,55.6,1177.51,Delayed,1442,5,FALSE
+SH10858,Bengaluru_Warehouse,Ahmedabad,FedEx,1/21/2025,1/25/2025,26.5,1028.69,Delivered,1961,4,FALSE
+SH10859,Ahmedabad_Warehouse,Mumbai,FedEx,9/2/2025,9/8/2025,18.8,1022.37,Delivered,1825,6,FALSE
+SH10860,Hyderabad_Warehouse,Surat,DHL,10/20/2025,10/23/2025,25.7,693.6,Delivered,1143,3,FALSE
+SH10861,Pune_Warehouse,Delhi,DHL,12/20/2025,12/22/2025,12.9,320.34,Delivered,524,2,FALSE
+SH10862,Ahmedabad_Warehouse,Nagpur,Delhivery,12/5/2025,12/11/2025,21.3,1250.68,In Transit,2331,6,FALSE
+SH10863,Ahmedabad_Warehouse,Kolkata,FedEx,2/13/2025,2/19/2025,23.6,1099.65,Delivered,2096,6,FALSE
+SH10864,Mumbai_Warehouse,Surat,DHL,10/9/2025,10/14/2025,40.5,1074.86,Delivered,1550,5,FALSE
+SH10865,Pune_Warehouse,Pune,FedEx,11/5/2025,11/9/2025,16.8,340.45,Delivered,262,4,FALSE
+SH10866,Bengaluru_Warehouse,Nashik,FedEx,9/12/2025,9/15/2025,6.2,199.89,Delivered,136,3,FALSE
+SH10867,Ahmedabad_Warehouse,Jaipur,BlueDart,10/27/2025,10/31/2025,9.8,458.81,Delivered,822,4,FALSE
+SH10868,Hyderabad_Warehouse,Chennai,XpressBees,11/2/2025,11/3/2025,15.8,446.85,Delayed,436,1,FALSE
+SH10869,Bengaluru_Warehouse,Kolkata,FedEx,6/12/2025,6/20/2025,6.8,1039.25,Delivered,2158,8,FALSE
+SH10870,Pune_Warehouse,Ahmedabad,Ecom Express,1/15/2025,1/17/2025,9,413.44,Delayed,554,2,FALSE
+SH10871,Mumbai_Warehouse,Pune,Ecom Express,6/16/2025,6/21/2025,9.9,409.99,Delivered,742,5,FALSE
+SH10872,Ahmedabad_Warehouse,Nagpur,DHL,3/15/2025,3/23/2025,15.1,1223.76,Delivered,2441,8,FALSE
+SH10873,Bengaluru_Warehouse,Nagpur,Delhivery,2/11/2025,2/17/2025,26.3,1227,Delivered,2055,6,FALSE
+SH10874,Delhi_Warehouse,Hyderabad,BlueDart,2/15/2025,2/19/2025,14.6,503.58,Delivered,586,4,FALSE
+SH10875,Ahmedabad_Warehouse,Jaipur,Delhivery,9/12/2025,9/13/2025,27.4,684.85,Delivered,990,1,FALSE
+SH10876,Mumbai_Warehouse,Nashik,FedEx,7/4/2025,7/8/2025,18.8,761.67,Delivered,1314,4,FALSE
+SH10877,Pune_Warehouse,Chennai,BlueDart,7/17/2025,7/23/2025,9.3,809.43,Delivered,1678,6,FALSE
+SH10878,Ahmedabad_Warehouse,Mumbai,DHL,9/29/2025,10/6/2025,23.9,1231.53,Delayed,2344,7,FALSE
+SH10879,Pune_Warehouse,Kolkata,XpressBees,7/20/2025,7/25/2025,21.5,1103.5,Delayed,2185,5,FALSE
+SH10880,Ahmedabad_Warehouse,Kolkata,Delhivery,8/18/2025,8/24/2025,27.9,1336.45,In Transit,2445,6,FALSE
+SH10881,Ahmedabad_Warehouse,Nagpur,DHL,2/1/2025,2/2/2025,31.7,446.85,Delayed,149,1,FALSE
+SH10882,Mumbai_Warehouse,Chennai,Delhivery,11/7/2025,11/10/2025,41.3,652.05,Delivered,629,3,FALSE
+SH10883,Delhi_Warehouse,Kolkata,XpressBees,6/13/2025,6/16/2025,26.8,903,Delivered,1429,3,FALSE
+SH10884,Hyderabad_Warehouse,Pune,Ecom Express,2/26/2025,3/1/2025,21,317.77,Delayed,170,3,FALSE
+SH10885,Delhi_Warehouse,Ahmedabad,FedEx,10/24/2025,10/29/2025,28,762.43,Delayed,920,5,FALSE
+SH10886,Pune_Warehouse,Jaipur,XpressBees,9/26/2025,9/28/2025,13.6,794.255,In Transit,426,2,FALSE
+SH10887,Mumbai_Warehouse,Surat,FedEx,1/20/2025,1/27/2025,12.9,1139.13,Delivered,2336,7,FALSE
+SH10888,Mumbai_Warehouse,Nagpur,FedEx,3/12/2025,3/14/2025,44.8,500.37,Delivered,205,2,FALSE
+SH10889,Pune_Warehouse,Jaipur,DHL,1/6/2025,1/9/2025,12.6,298,In Transit,413,3,FALSE
+SH10890,Pune_Warehouse,Ahmedabad,XpressBees,4/9/2025,4/11/2025,10.1,416.72,In Transit,528,2,FALSE
+SH10891,Pune_Warehouse,Pune,Ecom Express,2/6/2025,2/9/2025,26.8,474.25,Delivered,414,3,FALSE
+SH10892,Ahmedabad_Warehouse,Delhi,Delhivery,9/17/2025,9/20/2025,13.7,805.52,Delayed,1443,3,FALSE
+SH10893,Bengaluru_Warehouse,Hyderabad,Ecom Express,7/10/2025,7/12/2025,31.5,813.92,Delivered,943,2,FALSE
+SH10894,Mumbai_Warehouse,Kolkata,FedEx,12/24/2025,12/30/2025,39.4,1448.28,In Transit,2286,6,FALSE
+SH10895,Mumbai_Warehouse,Kolkata,DHL,10/1/2025,10/4/2025,11.2,374.04,Delivered,689,3,FALSE
+SH10896,Mumbai_Warehouse,Jaipur,XpressBees,8/12/2025,8/17/2025,28.9,935,Delayed,1366,5,FALSE
+SH10897,Pune_Warehouse,Pune,XpressBees,7/5/2025,7/9/2025,12.4,897.95,Delivered,1667,4,FALSE
+SH10898,Hyderabad_Warehouse,Nagpur,DHL,1/20/2025,1/27/2025,16.1,856.74,Delivered,1584,7,FALSE
+SH10899,Mumbai_Warehouse,Hyderabad,DHL,1/26/2025,2/1/2025,23.2,1135.64,Delivered,2001,6,FALSE
+SH10900,Delhi_Warehouse,Jaipur,Delhivery,8/13/2025,8/16/2025,12.9,323.18,Delivered,544,3,FALSE
+SH10901,Delhi_Warehouse,Hyderabad,DHL,1/2/2025,1/6/2025,21.8,888.81,Delivered,1293,4,FALSE
+SH10902,Mumbai_Warehouse,Nagpur,Ecom Express,1/16/2025,1/23/2025,17,1097.86,In Transit,2012,7,FALSE
+SH10903,Mumbai_Warehouse,Nashik,XpressBees,3/21/2025,3/28/2025,31.9,1212.86,Delivered,2165,7,FALSE
+SH10904,Pune_Warehouse,Pune,FedEx,11/19/2025,11/24/2025,32,976.68,Delayed,1564,5,FALSE
+SH10905,Mumbai_Warehouse,Nashik,FedEx,6/17/2025,6/23/2025,13,788.57,Delivered,1647,6,FALSE
+SH10906,Hyderabad_Warehouse,Surat,XpressBees,9/16/2025,9/20/2025,23.5,1172.62,Delivered,2167,4,FALSE
+SH10907,Ahmedabad_Warehouse,Mumbai,BlueDart,5/31/2025,6/3/2025,35.1,1015.82,Delivered,1581,3,FALSE
+SH10908,Bengaluru_Warehouse,Delhi,FedEx,3/5/2025,3/11/2025,8.9,1080.27,Delivered,2375,6,FALSE
+SH10909,Hyderabad_Warehouse,Bengaluru,DHL,5/16/2025,5/18/2025,16.9,418.41,Delivered,362,2,FALSE
+SH10910,Hyderabad_Warehouse,Kolkata,XpressBees,2/3/2025,2/7/2025,22.8,722.86,Delayed,902,4,FALSE
+SH10911,Ahmedabad_Warehouse,Bengaluru,XpressBees,10/9/2025,10/11/2025,8.7,288.53,Delayed,324,2,FALSE
+SH10912,Mumbai_Warehouse,Kolkata,DHL,3/8/2025,3/11/2025,14.1,297.28,Delivered,272,3,FALSE
+SH10913,Ahmedabad_Warehouse,Surat,Ecom Express,5/18/2025,5/21/2025,50.6,1040.54,In Transit,1206,3,FALSE
+SH10914,Delhi_Warehouse,Jaipur,DHL,12/24/2025,12/27/2025,12.6,439.28,Delivered,603,3,FALSE
+SH10915,Bengaluru_Warehouse,Bengaluru,DHL,8/5/2025,8/8/2025,13.6,575.82,Delivered,1047,3,FALSE
+SH10916,Hyderabad_Warehouse,Jaipur,BlueDart,6/17/2025,6/21/2025,26.6,741.86,Delivered,1123,4,FALSE
+SH10917,Delhi_Warehouse,Nagpur,BlueDart,7/18/2025,7/21/2025,7.9,790.67,Delivered,1571,3,FALSE
+SH10918,Pune_Warehouse,Pune,XpressBees,10/14/2025,10/21/2025,17.2,1233.99,Delivered,2367,7,FALSE
+SH10919,Mumbai_Warehouse,Chennai,Ecom Express,4/3/2025,4/8/2025,10.2,1062.23,Delivered,2131,5,FALSE
+SH10920,Pune_Warehouse,Hyderabad,DHL,8/21/2025,8/24/2025,21.8,687.21,Delivered,977,3,FALSE
+SH10921,Mumbai_Warehouse,Kolkata,Delhivery,11/15/2025,11/19/2025,1.8,367.59,Delivered,848,4,FALSE
+SH10922,Delhi_Warehouse,Jaipur,XpressBees,7/28/2025,8/3/2025,19.8,1099.27,Delivered,1939,6,FALSE
+SH10923,Hyderabad_Warehouse,Kolkata,Delhivery,6/12/2025,6/13/2025,23.3,426.5,Delivered,353,1,FALSE
+SH10924,Delhi_Warehouse,Mumbai,FedEx,2/22/2025,2/26/2025,14.3,919.03,Delivered,1374,4,FALSE
+SH10925,Bengaluru_Warehouse,Mumbai,DHL,4/1/2025,4/4/2025,15,642.3,In Transit,1086,3,FALSE
+SH10926,Pune_Warehouse,Pune,BlueDart,12/12/2025,12/13/2025,13.1,418.3,Delivered,498,1,FALSE
+SH10927,Bengaluru_Warehouse,Kolkata,BlueDart,7/17/2025,7/22/2025,17,1035.31,Delivered,1560,5,FALSE
+SH10928,Ahmedabad_Warehouse,Surat,BlueDart,4/20/2025,4/24/2025,45.2,826,Delivered,836,4,FALSE
+SH10929,Pune_Warehouse,Surat,DHL,6/2/2025,6/5/2025,32.6,565.06,Delivered,504,3,FALSE
+SH10930,Delhi_Warehouse,Delhi,DHL,7/30/2025,8/5/2025,17,863.22,Delivered,1650,6,FALSE
+SH10931,Ahmedabad_Warehouse,Delhi,Delhivery,7/16/2025,7/19/2025,14.1,483.82,In Transit,476,3,FALSE
+SH10932,Bengaluru_Warehouse,Bengaluru,XpressBees,9/13/2025,9/18/2025,30.6,989.93,Delivered,1699,5,FALSE
+SH10933,Delhi_Warehouse,Chennai,Delhivery,4/4/2025,4/6/2025,20.9,468.88,Delivered,447,2,FALSE
+SH10934,Mumbai_Warehouse,Delhi,BlueDart,8/25/2025,8/29/2025,8.5,594.5,Delivered,1115,4,FALSE
+SH10935,Ahmedabad_Warehouse,Ahmedabad,XpressBees,6/11/2025,6/16/2025,15.7,1055.64,Delivered,2030,5,FALSE
+SH10936,Bengaluru_Warehouse,Jaipur,Ecom Express,12/10/2025,12/12/2025,42.3,617.43,Delivered,610,2,FALSE
+SH10937,Mumbai_Warehouse,Bengaluru,Ecom Express,2/27/2025,3/5/2025,26,1185.89,Delivered,1931,6,FALSE
+SH10938,Bengaluru_Warehouse,Hyderabad,Delhivery,2/24/2025,3/1/2025,14.2,949.4,Delayed,1819,5,FALSE
+SH10939,Ahmedabad_Warehouse,Jaipur,Ecom Express,6/18/2025,6/27/2025,5.9,1013.36,Delivered,2262,9,FALSE
+SH10940,Ahmedabad_Warehouse,Chennai,Delhivery,7/5/2025,7/6/2025,21.7,527.81,Delivered,463,1,FALSE
+SH10941,Pune_Warehouse,Nashik,Delhivery,9/10/2025,9/15/2025,18.9,969.76,Delivered,1802,5,FALSE
+SH10942,Delhi_Warehouse,Ahmedabad,Delhivery,5/28/2025,6/2/2025,16.7,1225.25,Delayed,2345,5,FALSE
+SH10943,Ahmedabad_Warehouse,Pune,Ecom Express,11/30/2025,12/5/2025,30.9,1195.33,Delivered,1920,5,FALSE
+SH10944,Hyderabad_Warehouse,Mumbai,XpressBees,6/23/2025,6/25/2025,26.2,542.97,Delivered,510,2,FALSE
+SH10945,Bengaluru_Warehouse,Jaipur,FedEx,2/17/2025,2/24/2025,6,877.49,Delayed,2065,7,FALSE
+SH10946,Pune_Warehouse,Hyderabad,Ecom Express,2/13/2025,2/15/2025,19,411.2,Delivered,313,2,FALSE
+SH10947,Hyderabad_Warehouse,Delhi,DHL,12/22/2025,12/27/2025,7.3,763.58,In Transit,1493,5,FALSE
+SH10948,Bengaluru_Warehouse,Mumbai,Delhivery,2/18/2025,2/22/2025,13.3,707.93,Delivered,1269,4,FALSE
+SH10949,Bengaluru_Warehouse,Surat,XpressBees,12/12/2025,12/15/2025,6.9,700.07,Delivered,1351,3,FALSE
+SH10950,Ahmedabad_Warehouse,Chennai,Delhivery,4/12/2025,4/16/2025,7,606.61,In Transit,1323,4,FALSE
+SH10951,Delhi_Warehouse,Surat,FedEx,2/4/2025,2/6/2025,23.5,343.66,Delivered,127,2,FALSE
+SH10952,Bengaluru_Warehouse,Pune,Delhivery,4/22/2025,4/26/2025,22,735.86,Delivered,1295,4,FALSE
+SH10953,Mumbai_Warehouse,Mumbai,BlueDart,8/13/2025,8/20/2025,18,1202.18,Delivered,2345,7,FALSE
+SH10954,Hyderabad_Warehouse,Nashik,BlueDart,6/6/2025,6/10/2025,12.5,665.24,Delivered,1120,4,FALSE
+SH10955,Bengaluru_Warehouse,Pune,FedEx,10/14/2025,10/17/2025,6.5,500.08,Delayed,728,3,FALSE
+SH10956,Ahmedabad_Warehouse,Hyderabad,Delhivery,8/12/2025,8/17/2025,13.3,1192.93,Delivered,2488,5,FALSE
+SH10957,Pune_Warehouse,Jaipur,FedEx,5/27/2025,5/30/2025,22,469.48,In Transit,292,3,FALSE
+SH10958,Ahmedabad_Warehouse,Nashik,BlueDart,8/20/2025,8/24/2025,21.7,837.75,Delivered,1241,4,FALSE
+SH10959,Bengaluru_Warehouse,Bengaluru,XpressBees,12/21/2025,12/26/2025,41.7,959.35,Delivered,1306,5,FALSE
+SH10960,Pune_Warehouse,Ahmedabad,Ecom Express,5/31/2025,6/5/2025,38,854.84,Delivered,1221,5,FALSE
+SH10961,Mumbai_Warehouse,Delhi,BlueDart,2/26/2025,3/4/2025,18.5,1127.62,Delivered,2309,6,FALSE
+SH10962,Pune_Warehouse,Hyderabad,XpressBees,5/30/2025,6/2/2025,13.2,662.01,Delayed,1083,3,FALSE
+SH10963,Pune_Warehouse,Jaipur,DHL,11/3/2025,11/10/2025,10.4,1150.55,Delivered,2435,7,FALSE
+SH10964,Bengaluru_Warehouse,Surat,XpressBees,3/21/2025,3/23/2025,5.7,283.87,Delivered,213,2,FALSE
+SH10965,Ahmedabad_Warehouse,Delhi,BlueDart,12/13/2025,12/18/2025,7.9,885.94,Delivered,1848,5,FALSE
+SH10966,Ahmedabad_Warehouse,Pune,Ecom Express,8/3/2025,8/7/2025,22.1,849.57,Delivered,1503,4,FALSE
+SH10967,Hyderabad_Warehouse,Kolkata,XpressBees,8/8/2025,8/11/2025,27.3,593.28,In Transit,639,3,FALSE
+SH10968,Delhi_Warehouse,Ahmedabad,Delhivery,4/26/2025,4/29/2025,15.1,425.98,Delivered,608,3,FALSE
+SH10969,Bengaluru_Warehouse,Hyderabad,Delhivery,12/2/2025,12/7/2025,69.4,1431.83,Delivered,1813,5,FALSE
+SH10970,Pune_Warehouse,Nagpur,Ecom Express,1/14/2025,1/17/2025,7.9,878.42,Delivered,1612,3,FALSE
+SH10971,Pune_Warehouse,Surat,FedEx,4/20/2025,4/25/2025,5.3,781.24,Delivered,1547,5,FALSE
+SH10972,Bengaluru_Warehouse,Pune,FedEx,6/2/2025,6/3/2025,68.7,743.68,In Transit,174,1,FALSE
+SH10973,Hyderabad_Warehouse,Kolkata,BlueDart,6/24/2025,6/29/2025,6.2,780.28,Delivered,1515,5,FALSE
+SH10974,Mumbai_Warehouse,Jaipur,BlueDart,6/23/2025,6/30/2025,15,794.255,Delivered,2455,7,FALSE
+SH10975,Mumbai_Warehouse,Jaipur,Ecom Express,2/23/2025,2/24/2025,11,233.69,Delivered,92,1,FALSE
+SH10976,Pune_Warehouse,Kolkata,FedEx,3/24/2025,3/28/2025,23.1,788.73,Delivered,1199,4,FALSE
+SH10977,Pune_Warehouse,Delhi,Delhivery,2/4/2025,2/9/2025,14.2,779.43,In Transit,1261,5,FALSE
+SH10978,Mumbai_Warehouse,Chennai,DHL,7/28/2025,8/4/2025,27.4,1289.96,Delivered,2247,7,FALSE
+SH10979,Mumbai_Warehouse,Ahmedabad,DHL,5/9/2025,5/12/2025,31.3,647,Delivered,743,3,FALSE
+SH10980,Mumbai_Warehouse,Surat,XpressBees,7/26/2025,7/28/2025,5.7,695.53,Delivered,1215,2,FALSE
+SH10981,Delhi_Warehouse,Hyderabad,XpressBees,8/4/2025,8/10/2025,10.1,908.7,In Transit,1807,6,FALSE
+SH10982,Hyderabad_Warehouse,Nagpur,XpressBees,9/14/2025,9/16/2025,28.9,421.98,In Transit,197,2,FALSE
+SH10983,Mumbai_Warehouse,Hyderabad,FedEx,7/19/2025,7/24/2025,35.3,1208.4,Delivered,2013,5,FALSE
+SH10984,Pune_Warehouse,Bengaluru,Delhivery,8/25/2025,8/30/2025,20.5,1146.95,Delivered,2065,5,FALSE
+SH10985,Ahmedabad_Warehouse,Bengaluru,Ecom Express,8/3/2025,8/9/2025,24.3,1027.3,Delivered,1813,6,FALSE
+SH10986,Pune_Warehouse,Surat,FedEx,8/27/2025,9/2/2025,43.4,1227.48,Delivered,1638,6,FALSE
+SH10987,Ahmedabad_Warehouse,Kolkata,Ecom Express,8/14/2025,8/19/2025,14.3,1102.94,Delivered,1882,5,FALSE
+SH10988,Bengaluru_Warehouse,Nashik,Ecom Express,4/26/2025,5/2/2025,20.4,1127.19,Delayed,1966,6,FALSE
+SH10989,Hyderabad_Warehouse,Kolkata,BlueDart,3/31/2025,4/5/2025,38.1,1439.5,In Transit,2264,5,FALSE
+SH10990,Pune_Warehouse,Jaipur,BlueDart,10/15/2025,10/18/2025,39.6,793.52,Delivered,1099,3,FALSE
+SH10991,Pune_Warehouse,Pune,FedEx,5/6/2025,5/8/2025,17.1,637.31,Delivered,1167,2,FALSE
+SH10992,Delhi_Warehouse,Chennai,Ecom Express,7/20/2025,7/24/2025,10.4,828.17,Delivered,1613,4,FALSE
+SH10993,Mumbai_Warehouse,Pune,XpressBees,3/13/2025,3/17/2025,17,446.43,Delivered,523,4,FALSE
+SH10994,Pune_Warehouse,Kolkata,XpressBees,6/7/2025,6/15/2025,18.1,1125.11,Delivered,2148,8,FALSE
+SH10995,Ahmedabad_Warehouse,Hyderabad,Ecom Express,7/13/2025,7/19/2025,10.1,889.49,Delivered,1938,6,FALSE
+SH10996,Mumbai_Warehouse,Kolkata,BlueDart,8/17/2025,8/21/2025,11.2,908.86,In Transit,1596,4,FALSE
+SH10997,Bengaluru_Warehouse,Hyderabad,Ecom Express,7/12/2025,7/15/2025,39.6,866.46,Delivered,789,3,FALSE
+SH10998,Hyderabad_Warehouse,Pune,FedEx,5/12/2025,5/16/2025,25,741.79,Delayed,902,4,FALSE
+SH10999,Mumbai_Warehouse,Chennai,XpressBees,12/18/2025,12/21/2025,15,735.92,Delivered,1116,3,FALSE
+SH11000,Mumbai_Warehouse,Nagpur,FedEx,7/7/2025,7/12/2025,8.3,865.65,Delivered,1673,5,FALSE
+SH11001,Bengaluru_Warehouse,Delhi,BlueDart,10/23/2025,10/30/2025,11.3,951.21,Delivered,1956,7,FALSE
+SH11002,Pune_Warehouse,Nashik,DHL,9/26/2025,9/30/2025,5,838.81,In Transit,1696,4,FALSE
+SH11003,Ahmedabad_Warehouse,Kolkata,DHL,7/23/2025,7/29/2025,20.9,1351.64,Delivered,2329,6,FALSE
+SH11004,Pune_Warehouse,Chennai,BlueDart,11/20/2025,11/27/2025,10.8,1162.12,Delivered,2404,7,FALSE
+SH11005,Mumbai_Warehouse,Delhi,Delhivery,2/16/2025,2/22/2025,21.9,987.47,Delivered,1777,6,FALSE
+SH11006,Pune_Warehouse,Nagpur,DHL,12/3/2025,12/6/2025,28.7,787.63,Delivered,959,3,FALSE
+SH11007,Pune_Warehouse,Nashik,XpressBees,11/7/2025,11/12/2025,22.2,970.81,Delivered,1518,5,FALSE
+SH11008,Mumbai_Warehouse,Nashik,DHL,7/3/2025,7/7/2025,13.8,608.89,Delivered,1091,4,FALSE
+SH11009,Bengaluru_Warehouse,Jaipur,XpressBees,9/25/2025,10/2/2025,9.7,816.29,Delivered,1591,7,FALSE
+SH11010,Delhi_Warehouse,Chennai,FedEx,7/9/2025,7/15/2025,7.4,972.1,Delayed,2040,6,FALSE
+SH11011,Bengaluru_Warehouse,Surat,BlueDart,4/9/2025,4/13/2025,37.2,801.13,Delivered,955,4,FALSE
+SH11012,Pune_Warehouse,Hyderabad,DHL,10/19/2025,10/25/2025,21.5,794.255,Delivered,1289,6,FALSE
+SH11013,Mumbai_Warehouse,Pune,Ecom Express,3/31/2025,4/2/2025,14.3,224.95,Delivered,161,2,FALSE
+SH11014,Mumbai_Warehouse,Ahmedabad,Ecom Express,4/25/2025,4/29/2025,26.3,1142.58,Delivered,1855,4,FALSE
+SH11015,Mumbai_Warehouse,Nagpur,DHL,7/9/2025,7/13/2025,33.6,896.19,In Transit,1250,4,FALSE
+SH11016,Ahmedabad_Warehouse,Surat,DHL,11/2/2025,11/7/2025,11,795.36,Delivered,1176,5,FALSE
+SH11017,Pune_Warehouse,Pune,Delhivery,5/21/2025,5/26/2025,21.1,845.57,Delivered,1354,5,FALSE
+SH11018,Pune_Warehouse,Jaipur,XpressBees,6/30/2025,7/3/2025,21.4,499.33,In Transit,578,3,FALSE
+SH11019,Bengaluru_Warehouse,Ahmedabad,DHL,1/16/2025,1/19/2025,42.2,1106.61,Delivered,1515,3,FALSE
+SH11020,Mumbai_Warehouse,Jaipur,FedEx,2/12/2025,2/17/2025,14.2,970.08,Delivered,1876,5,FALSE
+SH11021,Bengaluru_Warehouse,Pune,Delhivery,1/21/2025,1/26/2025,9.5,442.95,Delivered,907,5,FALSE
+SH11022,Bengaluru_Warehouse,Mumbai,DHL,1/27/2025,1/28/2025,22.7,415.54,Delivered,371,1,FALSE
+SH11023,Hyderabad_Warehouse,Jaipur,FedEx,11/14/2025,11/17/2025,27.7,720.51,Delivered,998,3,FALSE
+SH11024,Mumbai_Warehouse,Nashik,DHL,11/4/2025,11/6/2025,20,387.54,Delivered,536,2,FALSE
+SH11025,Mumbai_Warehouse,Jaipur,BlueDart,10/27/2025,10/30/2025,44,855.7,Delivered,966,3,FALSE
+SH11026,Hyderabad_Warehouse,Mumbai,Ecom Express,1/21/2025,1/26/2025,14.2,753.13,Delivered,1586,5,FALSE
+SH11027,Delhi_Warehouse,Chennai,BlueDart,1/29/2025,2/1/2025,20.3,370.77,In Transit,327,3,FALSE
+SH11028,Mumbai_Warehouse,Delhi,FedEx,4/13/2025,4/19/2025,6,934.42,Delivered,1881,6,FALSE
+SH11029,Bengaluru_Warehouse,Hyderabad,BlueDart,7/26/2025,7/28/2025,9.1,414.68,Delivered,600,2,FALSE
+SH11030,Delhi_Warehouse,Bengaluru,Delhivery,5/2/2025,5/7/2025,11.1,794.255,Delivered,2242,5,FALSE
+SH11031,Ahmedabad_Warehouse,Hyderabad,DHL,6/27/2025,7/3/2025,15.8,984.5,Delivered,1845,6,FALSE
+SH11032,Ahmedabad_Warehouse,Ahmedabad,DHL,3/5/2025,3/8/2025,6.8,396.24,Delivered,718,3,FALSE
+SH11033,Bengaluru_Warehouse,Jaipur,FedEx,9/24/2025,9/30/2025,26.1,903.04,Delivered,1430,6,FALSE
+SH11034,Mumbai_Warehouse,Nagpur,XpressBees,4/25/2025,4/29/2025,10.4,306.41,Delayed,321,4,FALSE
+SH11035,Hyderabad_Warehouse,Surat,Ecom Express,1/25/2025,1/29/2025,61.9,680.12,Delayed,294,4,FALSE
+SH11036,Pune_Warehouse,Nashik,DHL,9/29/2025,10/5/2025,10.6,1189.88,Delayed,2393,6,FALSE
+SH11037,Ahmedabad_Warehouse,Kolkata,FedEx,11/26/2025,12/2/2025,19,1102.6,Delivered,2016,6,FALSE
+SH11038,Bengaluru_Warehouse,Jaipur,BlueDart,1/6/2025,1/9/2025,17.4,398.52,Delivered,428,3,FALSE
+SH11039,Delhi_Warehouse,Delhi,FedEx,6/9/2025,6/13/2025,8.5,597.05,Delivered,742,4,FALSE
+SH11040,Ahmedabad_Warehouse,Surat,XpressBees,10/29/2025,10/31/2025,15.8,430.84,Delivered,534,2,FALSE
+SH11041,Bengaluru_Warehouse,Nagpur,XpressBees,9/15/2025,9/20/2025,15.7,625.65,Delivered,1018,5,FALSE
+SH11042,Delhi_Warehouse,Nashik,FedEx,11/9/2025,11/12/2025,31.3,643.7,Delivered,764,3,FALSE
+SH11043,Pune_Warehouse,Nashik,DHL,6/1/2025,6/5/2025,23.2,582.48,Delivered,854,4,FALSE
+SH11044,Bengaluru_Warehouse,Jaipur,FedEx,5/16/2025,5/19/2025,25.9,903.61,Delivered,1347,3,FALSE
+SH11045,Pune_Warehouse,Nagpur,Delhivery,9/16/2025,9/19/2025,30.9,520.37,Delivered,513,3,FALSE
+SH11046,Mumbai_Warehouse,Mumbai,Ecom Express,2/26/2025,3/4/2025,26.1,1200.07,Delivered,2213,6,FALSE
+SH11047,Mumbai_Warehouse,Jaipur,BlueDart,3/29/2025,4/4/2025,21,998.76,Delivered,1833,6,FALSE
+SH11048,Bengaluru_Warehouse,Ahmedabad,FedEx,8/8/2025,8/14/2025,11,923.21,Delivered,1914,6,FALSE
+SH11049,Ahmedabad_Warehouse,Surat,FedEx,9/1/2025,9/4/2025,20.1,349.84,Delivered,465,3,FALSE
+SH11050,Pune_Warehouse,Nagpur,DHL,2/13/2025,2/18/2025,9.6,885.84,Delivered,1785,5,FALSE
+SH11051,Pune_Warehouse,Kolkata,DHL,7/5/2025,7/12/2025,16.7,1151.56,Delayed,2099,7,FALSE
+SH11052,Bengaluru_Warehouse,Mumbai,BlueDart,5/14/2025,5/16/2025,15.2,421.21,Delivered,479,2,FALSE
+SH11053,Mumbai_Warehouse,Chennai,Delhivery,7/3/2025,7/7/2025,15.9,1095.2,Delivered,1891,4,FALSE
+SH11054,Mumbai_Warehouse,Bengaluru,DHL,12/16/2025,12/20/2025,6.8,568.02,Delivered,926,4,FALSE
+SH11055,Bengaluru_Warehouse,Ahmedabad,FedEx,1/28/2025,2/2/2025,1.8,955.72,Delivered,1980,5,FALSE
+SH11056,Bengaluru_Warehouse,Kolkata,XpressBees,12/30/2025,1/2/2026,13.4,810.69,Delayed,1222,3,FALSE
+SH11057,Mumbai_Warehouse,Kolkata,XpressBees,6/14/2025,6/19/2025,35.4,1222.28,Delivered,2016,5,FALSE
+SH11058,Pune_Warehouse,Nashik,Delhivery,10/9/2025,10/12/2025,18.8,415.89,In Transit,411,3,FALSE
+SH11059,Pune_Warehouse,Nashik,Delhivery,6/4/2025,6/8/2025,33.8,787.93,Delayed,1003,4,FALSE
+SH11060,Hyderabad_Warehouse,Nagpur,Delhivery,4/24/2025,4/25/2025,9.6,548.91,Delivered,720,1,FALSE
+SH11061,Bengaluru_Warehouse,Kolkata,BlueDart,10/9/2025,10/12/2025,12.9,466.15,Delivered,658,3,FALSE
+SH11062,Hyderabad_Warehouse,Jaipur,FedEx,9/8/2025,9/12/2025,64.2,928.14,Delivered,805,4,FALSE
+SH11063,Mumbai_Warehouse,Mumbai,BlueDart,2/22/2025,2/25/2025,10,611.86,Delivered,987,3,FALSE
+SH11064,Ahmedabad_Warehouse,Pune,Ecom Express,9/15/2025,9/17/2025,25.5,403.48,Delivered,361,2,FALSE
+SH11065,Pune_Warehouse,Nagpur,Delhivery,10/2/2025,10/8/2025,25.5,1074.95,Delivered,1783,6,FALSE
+SH11066,Ahmedabad_Warehouse,Nagpur,Ecom Express,5/22/2025,5/27/2025,23.8,892.22,Delivered,1398,5,FALSE
+SH11067,Ahmedabad_Warehouse,Kolkata,Delhivery,12/4/2025,12/11/2025,25.7,1162.47,Delivered,2082,7,FALSE
+SH11068,Delhi_Warehouse,Ahmedabad,DHL,8/22/2025,8/25/2025,9.9,942.03,Delivered,1778,3,FALSE
+SH11069,Hyderabad_Warehouse,Hyderabad,Delhivery,5/2/2025,5/6/2025,13.8,289.77,Delivered,415,4,FALSE
+SH11070,Hyderabad_Warehouse,Pune,XpressBees,1/4/2025,1/7/2025,2.2,200.48,In Transit,221,3,FALSE
+SH11071,Hyderabad_Warehouse,Chennai,Delhivery,9/4/2025,9/10/2025,43.1,877.02,Delivered,1086,6,FALSE
+SH11072,Mumbai_Warehouse,Surat,Delhivery,3/18/2025,3/21/2025,25.7,972.05,Delivered,1229,3,FALSE
+SH11073,Mumbai_Warehouse,Mumbai,FedEx,10/4/2025,10/5/2025,11.1,450.88,In Transit,638,1,FALSE
+SH11074,Ahmedabad_Warehouse,Hyderabad,Ecom Express,7/11/2025,7/17/2025,9.7,955.79,Delivered,1967,6,FALSE
+SH11075,Hyderabad_Warehouse,Bengaluru,BlueDart,6/20/2025,6/24/2025,35.8,927.99,Delivered,1475,4,FALSE
+SH11076,Bengaluru_Warehouse,Nagpur,FedEx,3/1/2025,3/7/2025,10.5,1031.91,Delivered,1883,6,FALSE
+SH11077,Pune_Warehouse,Chennai,BlueDart,9/17/2025,9/20/2025,11,287.39,Delivered,317,3,FALSE
+SH11078,Delhi_Warehouse,Nashik,DHL,3/2/2025,3/8/2025,8.3,966.77,Delayed,2047,6,FALSE
+SH11079,Delhi_Warehouse,Surat,XpressBees,6/2/2025,6/5/2025,28.8,576.4,Delivered,555,3,FALSE
+SH11080,Delhi_Warehouse,Pune,Ecom Express,11/2/2025,11/6/2025,33.5,882.64,Delivered,1148,4,FALSE
+SH11081,Bengaluru_Warehouse,Chennai,FedEx,12/2/2025,12/6/2025,15.3,717.84,Delivered,1126,4,FALSE
+SH11082,Hyderabad_Warehouse,Nagpur,Ecom Express,12/28/2025,1/3/2026,33.7,1233.16,Delivered,2061,6,FALSE
+SH11083,Delhi_Warehouse,Pune,DHL,12/16/2025,12/20/2025,22.5,585.77,Delivered,728,4,FALSE
+SH11084,Ahmedabad_Warehouse,Nagpur,BlueDart,7/22/2025,7/26/2025,7.9,428.71,Delivered,640,4,FALSE
+SH11085,Mumbai_Warehouse,Delhi,Delhivery,3/15/2025,3/19/2025,41.2,819.14,Delivered,882,4,FALSE
+SH11086,Hyderabad_Warehouse,Delhi,DHL,11/3/2025,11/6/2025,8.2,565.35,Delivered,934,3,FALSE
+SH11087,Hyderabad_Warehouse,Pune,Ecom Express,10/20/2025,10/21/2025,16.1,484.94,Delivered,495,1,FALSE
+SH11088,Bengaluru_Warehouse,Nagpur,Ecom Express,12/28/2025,12/31/2025,15.3,415.59,Delayed,482,3,FALSE
+SH11089,Delhi_Warehouse,Chennai,Delhivery,8/26/2025,8/28/2025,13.5,408.97,Delivered,617,2,FALSE
+SH11090,Delhi_Warehouse,Ahmedabad,FedEx,2/21/2025,2/25/2025,3.8,606.26,Delivered,1195,4,FALSE
+SH11091,Delhi_Warehouse,Chennai,Ecom Express,7/3/2025,7/6/2025,56.2,973.38,Delivered,891,3,FALSE
+SH11092,Ahmedabad_Warehouse,Bengaluru,BlueDart,6/13/2025,6/17/2025,4.2,441.64,Delayed,1010,4,FALSE
+SH11093,Mumbai_Warehouse,Ahmedabad,Ecom Express,11/4/2025,11/8/2025,42.8,1106.9,Delivered,1812,4,FALSE
+SH11094,Bengaluru_Warehouse,Chennai,Delhivery,5/24/2025,5/26/2025,9.5,480.06,Delayed,640,2,FALSE
+SH11095,Ahmedabad_Warehouse,Hyderabad,DHL,4/30/2025,5/7/2025,11.8,1221.51,Delivered,2280,7,FALSE
+SH11096,Bengaluru_Warehouse,Jaipur,DHL,1/30/2025,2/4/2025,40.2,1146.75,Delayed,1892,5,FALSE
+SH11097,Bengaluru_Warehouse,Pune,DHL,11/1/2025,11/4/2025,24.1,491.14,Delayed,478,3,FALSE
+SH11098,Bengaluru_Warehouse,Ahmedabad,DHL,10/3/2025,10/7/2025,6.2,454.71,Delivered,819,4,FALSE
+SH11099,Bengaluru_Warehouse,Kolkata,FedEx,1/16/2025,1/20/2025,6.1,327.08,Delivered,499,4,FALSE
+SH11100,Bengaluru_Warehouse,Chennai,DHL,6/8/2025,6/12/2025,21.8,583.66,Delivered,718,4,FALSE
+SH11101,Ahmedabad_Warehouse,Delhi,XpressBees,6/25/2025,6/29/2025,8.1,474.64,Delivered,945,4,FALSE
+SH11102,Hyderabad_Warehouse,Ahmedabad,XpressBees,6/21/2025,6/24/2025,24.8,385.3,Delivered,370,3,FALSE
+SH11103,Ahmedabad_Warehouse,Jaipur,FedEx,12/2/2025,12/5/2025,26.4,323.53,Delivered,85,3,FALSE
+SH11104,Bengaluru_Warehouse,Surat,FedEx,2/24/2025,2/28/2025,10.2,631.2,In Transit,1125,4,FALSE
+SH11105,Hyderabad_Warehouse,Chennai,Ecom Express,4/22/2025,4/26/2025,12.3,865.18,Delivered,1768,4,FALSE
+SH11106,Ahmedabad_Warehouse,Chennai,Delhivery,3/8/2025,3/11/2025,22.3,645.62,Delivered,792,3,FALSE
+SH11107,Pune_Warehouse,Chennai,Delhivery,3/31/2025,4/7/2025,9.9,1047.54,Delivered,2158,7,FALSE
+SH11108,Ahmedabad_Warehouse,Bengaluru,XpressBees,11/28/2025,12/1/2025,18.8,617.7,Delivered,955,3,FALSE
+SH11109,Hyderabad_Warehouse,Bengaluru,Delhivery,12/10/2025,12/18/2025,66.6,1609.59,Delivered,2257,8,FALSE
+SH11110,Delhi_Warehouse,Hyderabad,Ecom Express,1/17/2025,1/20/2025,23,532.17,Delivered,628,3,FALSE
+SH11111,Hyderabad_Warehouse,Hyderabad,Delhivery,8/19/2025,8/24/2025,13.7,818.33,Delivered,1371,5,FALSE
+SH11112,Pune_Warehouse,Surat,Delhivery,3/26/2025,4/2/2025,59.7,1342.51,In Transit,1920,7,FALSE
+SH11113,Hyderabad_Warehouse,Kolkata,FedEx,3/12/2025,3/14/2025,30.1,340.47,Delivered,194,2,FALSE
+SH11114,Bengaluru_Warehouse,Kolkata,Delhivery,4/17/2025,4/24/2025,8.2,1110.84,In Transit,2329,7,FALSE
+SH11115,Ahmedabad_Warehouse,Jaipur,XpressBees,3/12/2025,3/16/2025,9.4,559.69,Delivered,944,4,FALSE
+SH11116,Bengaluru_Warehouse,Nashik,BlueDart,6/28/2025,7/1/2025,4.6,584.26,Delivered,1270,3,FALSE
+SH11117,Bengaluru_Warehouse,Pune,DHL,12/30/2025,1/4/2026,22,858.47,Delivered,1590,5,FALSE
+SH11118,Bengaluru_Warehouse,Delhi,Delhivery,8/3/2025,8/9/2025,3.3,800.58,Delivered,1625,6,FALSE
+SH11119,Bengaluru_Warehouse,Jaipur,Ecom Express,9/21/2025,9/23/2025,59.7,591.13,Delayed,108,2,FALSE
+SH11120,Ahmedabad_Warehouse,Bengaluru,XpressBees,6/30/2025,7/7/2025,14.8,1039.41,Delivered,2175,7,FALSE
+SH11121,Hyderabad_Warehouse,Jaipur,Delhivery,1/6/2025,1/9/2025,31.3,1061.9,Delivered,1578,3,FALSE
+SH11122,Mumbai_Warehouse,Kolkata,Ecom Express,1/31/2025,2/5/2025,13.9,1212.56,Delayed,2498,5,FALSE
+SH11123,Bengaluru_Warehouse,Bengaluru,FedEx,4/9/2025,4/14/2025,21.8,834.64,Delivered,1205,5,FALSE
+SH11124,Pune_Warehouse,Surat,BlueDart,3/30/2025,4/5/2025,16.2,871.53,Delayed,1553,6,FALSE
+SH11125,Mumbai_Warehouse,Ahmedabad,BlueDart,11/3/2025,11/7/2025,18.4,727.63,Delivered,1131,4,FALSE
+SH11126,Ahmedabad_Warehouse,Chennai,FedEx,11/4/2025,11/11/2025,37.5,1323.72,Delayed,2230,7,FALSE
+SH11127,Ahmedabad_Warehouse,Mumbai,Ecom Express,11/8/2025,11/15/2025,49,1228.27,Delivered,2090,7,FALSE
+SH11128,Ahmedabad_Warehouse,Delhi,XpressBees,8/21/2025,8/27/2025,46.7,1370.35,Delivered,2276,6,FALSE
+SH11129,Delhi_Warehouse,Surat,FedEx,7/23/2025,7/27/2025,98.7,1451.74,Delivered,1285,4,FALSE
+SH11130,Delhi_Warehouse,Kolkata,DHL,8/25/2025,8/31/2025,10.7,1026.39,Delivered,1989,6,FALSE
+SH11131,Hyderabad_Warehouse,Ahmedabad,Ecom Express,5/29/2025,6/2/2025,23.2,568.95,In Transit,929,4,FALSE
+SH11132,Pune_Warehouse,Mumbai,XpressBees,9/2/2025,9/5/2025,10.8,664.03,Delivered,1179,3,FALSE
+SH11133,Mumbai_Warehouse,Mumbai,XpressBees,10/17/2025,10/22/2025,36.5,1131.99,Delivered,1913,5,FALSE
+SH11134,Delhi_Warehouse,Hyderabad,FedEx,10/6/2025,10/8/2025,8.5,269.31,Delivered,248,2,FALSE
+SH11135,Bengaluru_Warehouse,Kolkata,Ecom Express,8/13/2025,8/19/2025,37.9,1153.3,Delayed,1791,6,FALSE
+SH11136,Delhi_Warehouse,Bengaluru,Ecom Express,1/22/2025,1/24/2025,20.4,331.25,Delivered,88,2,FALSE
+SH11137,Pune_Warehouse,Kolkata,Ecom Express,9/22/2025,9/26/2025,16.9,900.99,Delayed,1473,4,FALSE
+SH11138,Bengaluru_Warehouse,Ahmedabad,Ecom Express,5/14/2025,5/19/2025,18.2,771.92,Delivered,1219,5,FALSE
+SH11139,Ahmedabad_Warehouse,Pune,XpressBees,9/29/2025,10/3/2025,7.4,693.38,Delayed,1198,4,FALSE
+SH11140,Pune_Warehouse,Ahmedabad,BlueDart,7/16/2025,7/20/2025,7.9,657.5,Delivered,1261,4,FALSE
+SH11141,Delhi_Warehouse,Bengaluru,DHL,11/18/2025,11/21/2025,20.7,938.32,Delivered,1255,3,FALSE
+SH11142,Pune_Warehouse,Nashik,FedEx,5/4/2025,5/7/2025,20.6,628.22,Delivered,1048,3,FALSE
+SH11143,Pune_Warehouse,Nagpur,XpressBees,12/6/2025,12/10/2025,11.2,631.69,Delivered,1156,4,FALSE
+SH11144,Bengaluru_Warehouse,Nashik,XpressBees,11/5/2025,11/10/2025,14.7,860.16,In Transit,1442,5,FALSE
+SH11145,Delhi_Warehouse,Kolkata,DHL,5/1/2025,5/7/2025,24.5,1136.47,In Transit,1921,6,FALSE
+SH11146,Bengaluru_Warehouse,Chennai,BlueDart,6/26/2025,7/1/2025,9.8,779.37,Delivered,1403,5,FALSE
+SH11147,Mumbai_Warehouse,Chennai,FedEx,7/13/2025,7/20/2025,4.2,834.92,In Transit,1624,7,FALSE
+SH11148,Bengaluru_Warehouse,Mumbai,FedEx,10/8/2025,10/13/2025,44.1,1222.25,Delivered,2100,5,FALSE
+SH11149,Mumbai_Warehouse,Surat,Delhivery,9/9/2025,9/14/2025,21.6,1390.51,Delivered,2475,5,FALSE
+SH11150,Delhi_Warehouse,Hyderabad,Delhivery,11/7/2025,11/8/2025,12.7,309.46,Delivered,316,1,FALSE
+SH11151,Ahmedabad_Warehouse,Nagpur,BlueDart,5/16/2025,5/21/2025,10.8,995.06,Delivered,1797,5,FALSE
+SH11152,Delhi_Warehouse,Nashik,BlueDart,7/4/2025,7/6/2025,9.8,303.88,Delivered,601,2,FALSE
+SH11153,Hyderabad_Warehouse,Chennai,Delhivery,6/7/2025,6/10/2025,36.4,626.95,Delivered,532,3,FALSE
+SH11154,Delhi_Warehouse,Delhi,Ecom Express,11/28/2025,12/5/2025,6.5,941.32,Delivered,1993,7,FALSE
+SH11155,Ahmedabad_Warehouse,Nagpur,DHL,4/22/2025,4/26/2025,23.1,399.38,Delivered,218,4,FALSE
+SH11156,Ahmedabad_Warehouse,Delhi,DHL,8/3/2025,8/9/2025,23.1,1187.55,Delayed,2128,6,FALSE
+SH11157,Ahmedabad_Warehouse,Surat,BlueDart,2/13/2025,2/21/2025,29.1,1161.44,Delivered,1938,8,FALSE
+SH11158,Delhi_Warehouse,Nagpur,BlueDart,11/7/2025,11/13/2025,13.6,1182.32,Delivered,2488,6,FALSE
+SH11159,Pune_Warehouse,Hyderabad,XpressBees,5/21/2025,5/25/2025,41.8,1140.71,Delivered,1687,4,FALSE
+SH11160,Bengaluru_Warehouse,Hyderabad,XpressBees,5/5/2025,5/12/2025,29.6,1241.07,Delivered,2189,7,FALSE
+SH11161,Hyderabad_Warehouse,Mumbai,Delhivery,8/1/2025,8/2/2025,13.2,362.24,Delivered,340,1,FALSE
+SH11162,Bengaluru_Warehouse,Delhi,DHL,7/2/2025,7/7/2025,10.5,1160.68,Delivered,2231,5,FALSE
+SH11163,Hyderabad_Warehouse,Chennai,DHL,11/6/2025,11/9/2025,16.2,411.62,Delivered,442,3,FALSE
+SH11164,Ahmedabad_Warehouse,Chennai,BlueDart,7/13/2025,7/16/2025,12.9,463.86,Delivered,820,3,FALSE
+SH11165,Hyderabad_Warehouse,Surat,Delhivery,7/8/2025,7/10/2025,9.2,794.255,Delayed,364,2,FALSE
+SH11166,Delhi_Warehouse,Pune,Delhivery,2/8/2025,2/11/2025,18.7,794.255,In Transit,1034,3,FALSE
+SH11167,Pune_Warehouse,Delhi,DHL,1/9/2025,1/14/2025,14.8,1088.03,Delivered,1885,5,FALSE
+SH11168,Delhi_Warehouse,Chennai,XpressBees,5/26/2025,5/30/2025,48,621.35,In Transit,707,4,FALSE
+SH11169,Bengaluru_Warehouse,Bengaluru,BlueDart,12/31/2025,1/6/2026,12.9,1060.43,In Transit,2065,6,FALSE
+SH11170,Ahmedabad_Warehouse,Nashik,Delhivery,12/1/2025,12/5/2025,10.4,864.79,Delivered,1536,4,FALSE
+SH11171,Pune_Warehouse,Delhi,DHL,8/18/2025,8/22/2025,17.9,890.34,Delivered,1591,4,FALSE
+SH11172,Mumbai_Warehouse,Surat,Ecom Express,8/19/2025,8/25/2025,21.2,1222.31,Delivered,2351,6,FALSE
+SH11173,Pune_Warehouse,Kolkata,Delhivery,5/23/2025,5/27/2025,22.3,720.23,Delivered,1108,4,FALSE
+SH11174,Bengaluru_Warehouse,Mumbai,FedEx,3/6/2025,3/10/2025,22.1,673.7,Delivered,894,4,FALSE
+SH11175,Pune_Warehouse,Kolkata,FedEx,1/4/2025,1/10/2025,18.3,1216.92,In Transit,2487,6,FALSE
+SH11176,Delhi_Warehouse,Ahmedabad,BlueDart,5/4/2025,5/7/2025,17.4,887.58,Delivered,1415,3,FALSE
+SH11177,Pune_Warehouse,Kolkata,DHL,4/26/2025,5/1/2025,26.5,955.69,Delivered,1556,5,FALSE
+SH11178,Ahmedabad_Warehouse,Jaipur,XpressBees,3/11/2025,3/13/2025,8.6,427.59,Delivered,776,2,FALSE
+SH11179,Bengaluru_Warehouse,Nagpur,Ecom Express,4/5/2025,4/8/2025,10.4,473,Delivered,578,3,FALSE
+SH11180,Hyderabad_Warehouse,Ahmedabad,XpressBees,1/10/2025,1/12/2025,5.3,235.79,Delivered,466,2,FALSE
+SH11181,Bengaluru_Warehouse,Nagpur,BlueDart,8/10/2025,8/12/2025,8.7,374.15,Delayed,597,2,FALSE
+SH11182,Mumbai_Warehouse,Chennai,Delhivery,12/5/2025,12/8/2025,34.2,561.02,Delivered,528,3,FALSE
+SH11183,Pune_Warehouse,Ahmedabad,DHL,9/10/2025,9/18/2025,25.8,1206.82,Delivered,1880,8,FALSE
+SH11184,Ahmedabad_Warehouse,Pune,BlueDart,6/13/2025,6/16/2025,52,564.96,Delivered,192,3,FALSE
+SH11185,Bengaluru_Warehouse,Pune,Delhivery,6/3/2025,6/8/2025,44.5,1008.37,Delivered,1592,5,FALSE
+SH11186,Hyderabad_Warehouse,Bengaluru,BlueDart,4/23/2025,4/30/2025,25.9,1266.07,Delivered,2376,7,FALSE
+SH11187,Hyderabad_Warehouse,Hyderabad,Ecom Express,2/21/2025,2/25/2025,19.7,1081.43,Delivered,1926,4,FALSE
+SH11188,Bengaluru_Warehouse,Kolkata,DHL,8/7/2025,8/10/2025,18.2,713.36,Delivered,1037,3,FALSE
+SH11189,Bengaluru_Warehouse,Mumbai,FedEx,7/26/2025,7/27/2025,3.1,313.46,Delivered,195,1,FALSE
+SH11190,Pune_Warehouse,Kolkata,XpressBees,1/3/2025,1/10/2025,16.8,1179.66,Delayed,2094,7,FALSE
+SH11191,Pune_Warehouse,Mumbai,XpressBees,6/1/2025,6/4/2025,11.8,214.58,Delivered,57,3,FALSE
+SH11192,Mumbai_Warehouse,Hyderabad,Ecom Express,4/12/2025,4/17/2025,9,829.45,Delivered,1719,5,FALSE
+SH11193,Pune_Warehouse,Hyderabad,BlueDart,3/4/2025,3/9/2025,23.3,1078.85,Delivered,1694,5,FALSE
+SH11194,Bengaluru_Warehouse,Ahmedabad,BlueDart,9/14/2025,9/15/2025,15.5,409.88,In Transit,520,1,FALSE
+SH11195,Ahmedabad_Warehouse,Mumbai,DHL,7/11/2025,7/16/2025,18.9,986.91,Delivered,1863,5,FALSE
+SH11196,Delhi_Warehouse,Chennai,FedEx,8/20/2025,8/24/2025,8.1,327.51,Delivered,480,4,FALSE
+SH11197,Bengaluru_Warehouse,Pune,Ecom Express,9/18/2025,9/21/2025,30.5,523.63,Delivered,603,3,FALSE
+SH11198,Ahmedabad_Warehouse,Chennai,BlueDart,12/25/2025,12/30/2025,12.9,1020.87,Delivered,2040,5,FALSE
+SH11199,Hyderabad_Warehouse,Ahmedabad,BlueDart,10/21/2025,10/26/2025,22.5,1287.01,Delivered,2449,5,FALSE
+SH11200,Pune_Warehouse,Kolkata,DHL,8/15/2025,8/19/2025,13.7,529.8,Delivered,698,4,FALSE
+SH11201,Pune_Warehouse,Surat,BlueDart,11/17/2025,11/23/2025,2.7,1050.97,Delivered,2308,6,FALSE
+SH11202,Bengaluru_Warehouse,Kolkata,Ecom Express,6/24/2025,6/29/2025,23.9,1174.4,Delivered,2288,5,FALSE
+SH11203,Pune_Warehouse,Hyderabad,Delhivery,12/26/2025,12/31/2025,16.2,942.19,Delivered,1935,5,FALSE
+SH11204,Pune_Warehouse,Bengaluru,Delhivery,10/5/2025,10/6/2025,5,299.09,Delivered,393,1,FALSE
+SH11205,Bengaluru_Warehouse,Jaipur,XpressBees,8/26/2025,8/29/2025,7.3,474.9,Delivered,783,3,FALSE
+SH11206,Bengaluru_Warehouse,Jaipur,FedEx,11/26/2025,12/1/2025,31,1031.63,Delivered,1711,5,FALSE
+SH11207,Pune_Warehouse,Chennai,FedEx,7/8/2025,7/14/2025,5.2,1148.07,Delivered,2499,6,FALSE
+SH11208,Mumbai_Warehouse,Hyderabad,Delhivery,9/21/2025,9/27/2025,12.6,1067.79,Delivered,2046,6,FALSE
+SH11209,Hyderabad_Warehouse,Hyderabad,BlueDart,4/14/2025,4/18/2025,54.9,1076.73,Delivered,1080,4,FALSE
+SH11210,Delhi_Warehouse,Pune,XpressBees,12/18/2025,12/22/2025,24.3,506.56,Delivered,626,4,FALSE
+SH11211,Bengaluru_Warehouse,Nashik,DHL,8/16/2025,8/22/2025,28.3,1334.7,Delivered,2403,6,FALSE
+SH11212,Pune_Warehouse,Chennai,DHL,10/13/2025,10/19/2025,14.6,561.72,In Transit,726,6,FALSE
+SH11213,Pune_Warehouse,Surat,BlueDart,6/18/2025,6/21/2025,4.7,450.22,Delayed,888,3,FALSE
+SH11214,Bengaluru_Warehouse,Jaipur,BlueDart,11/13/2025,11/19/2025,20.1,1263.87,Delivered,2414,6,FALSE
+SH11215,Mumbai_Warehouse,Bengaluru,XpressBees,1/28/2025,2/1/2025,7.7,742.28,Delivered,1426,4,FALSE
+SH11216,Pune_Warehouse,Mumbai,BlueDart,2/11/2025,2/14/2025,7.2,362.24,Delivered,698,3,FALSE
+SH11217,Hyderabad_Warehouse,Mumbai,BlueDart,7/5/2025,7/6/2025,18.6,273.83,Delivered,63,1,FALSE
+SH11218,Hyderabad_Warehouse,Nagpur,FedEx,9/25/2025,9/29/2025,8.2,614.69,Delivered,1103,4,FALSE
+SH11219,Delhi_Warehouse,Jaipur,BlueDart,10/23/2025,10/28/2025,17.2,1292.45,Delayed,2466,5,FALSE
+SH11220,Mumbai_Warehouse,Delhi,Delhivery,6/10/2025,6/14/2025,10.7,571.87,Delayed,1110,4,FALSE
+SH11221,Mumbai_Warehouse,Nashik,Delhivery,8/26/2025,8/30/2025,16.8,964.23,Delayed,1764,4,FALSE
+SH11222,Bengaluru_Warehouse,Mumbai,Delhivery,7/21/2025,7/24/2025,12.1,540.25,Delivered,670,3,FALSE
+SH11223,Hyderabad_Warehouse,Nagpur,BlueDart,12/17/2025,12/23/2025,17.1,1159.03,Delivered,1951,6,FALSE
+SH11224,Bengaluru_Warehouse,Jaipur,DHL,8/27/2025,9/4/2025,42.2,1328.53,Delivered,1951,8,FALSE
+SH11225,Delhi_Warehouse,Delhi,DHL,6/2/2025,6/6/2025,28.8,906.86,Delivered,1540,4,FALSE
+SH11226,Mumbai_Warehouse,Nagpur,DHL,12/20/2025,12/25/2025,15.9,1055.18,In Transit,1941,5,FALSE
+SH11227,Pune_Warehouse,Kolkata,Delhivery,2/9/2025,2/13/2025,38,992.99,Delayed,1468,4,FALSE
+SH11228,Mumbai_Warehouse,Ahmedabad,XpressBees,12/26/2025,12/29/2025,22.7,698.9,Delivered,977,3,FALSE
+SH11229,Delhi_Warehouse,Delhi,XpressBees,2/26/2025,3/3/2025,36.4,1127.29,Delivered,1858,5,FALSE
+SH11230,Pune_Warehouse,Mumbai,FedEx,4/16/2025,4/23/2025,5.7,914.53,Delivered,2096,7,FALSE
+SH11231,Mumbai_Warehouse,Chennai,DHL,10/27/2025,11/1/2025,8.2,1017.37,Delayed,2111,5,FALSE
+SH11232,Bengaluru_Warehouse,Ahmedabad,Delhivery,9/25/2025,9/30/2025,20,529.98,Delivered,572,5,FALSE
+SH11233,Delhi_Warehouse,Bengaluru,DHL,12/21/2025,12/26/2025,15.6,945.8,Delivered,1708,5,FALSE
+SH11234,Ahmedabad_Warehouse,Mumbai,Delhivery,10/1/2025,10/2/2025,17.2,273.56,Delivered,60,1,FALSE
+SH11235,Delhi_Warehouse,Chennai,BlueDart,8/21/2025,8/25/2025,25.2,915.52,Delivered,1451,4,FALSE
+SH11236,Mumbai_Warehouse,Surat,XpressBees,5/7/2025,5/11/2025,20.1,881.68,Delivered,1449,4,FALSE
+SH11237,Hyderabad_Warehouse,Hyderabad,Delhivery,1/2/2025,1/6/2025,30.5,794.255,Delivered,940,4,FALSE
+SH11238,Hyderabad_Warehouse,Delhi,Ecom Express,2/15/2025,2/20/2025,30,1364.01,Delivered,2486,5,FALSE
+SH11239,Ahmedabad_Warehouse,Jaipur,BlueDart,4/19/2025,4/24/2025,8.5,1086.69,Delayed,2214,5,FALSE
+SH11240,Hyderabad_Warehouse,Kolkata,XpressBees,1/15/2025,1/16/2025,2.8,260.16,Delivered,144,1,FALSE
+SH11241,Delhi_Warehouse,Jaipur,Delhivery,7/5/2025,7/8/2025,8.1,392.28,Delivered,561,3,FALSE
+SH11242,Hyderabad_Warehouse,Mumbai,Delhivery,10/11/2025,10/15/2025,7.7,382.57,Delivered,559,4,FALSE
+SH11243,Hyderabad_Warehouse,Nashik,BlueDart,12/18/2025,12/25/2025,18,794.255,Delivered,2249,7,FALSE
+SH11244,Bengaluru_Warehouse,Pune,BlueDart,6/28/2025,7/3/2025,17.9,774.99,Delivered,1321,5,FALSE
+SH11245,Hyderabad_Warehouse,Bengaluru,XpressBees,11/16/2025,11/21/2025,14.9,2200,Delivered,1836,5,FALSE
+SH11246,Ahmedabad_Warehouse,Hyderabad,BlueDart,12/26/2025,1/1/2026,23.3,1144.23,Delivered,2035,6,FALSE
+SH11247,Hyderabad_Warehouse,Ahmedabad,DHL,11/10/2025,11/15/2025,70.1,1459.06,Delayed,1931,5,FALSE
+SH11248,Bengaluru_Warehouse,Chennai,BlueDart,6/19/2025,6/20/2025,14.7,309.51,Delivered,268,1,FALSE
+SH11249,Delhi_Warehouse,Pune,BlueDart,4/29/2025,5/2/2025,20.5,375.83,Delivered,393,3,FALSE
+SH11250,Ahmedabad_Warehouse,Surat,BlueDart,12/23/2025,12/26/2025,17.2,659.7,Delivered,1018,3,FALSE
+SH11251,Ahmedabad_Warehouse,Delhi,DHL,3/30/2025,4/2/2025,11.3,577.36,Delivered,879,3,FALSE
+SH11252,Pune_Warehouse,Ahmedabad,DHL,5/31/2025,6/6/2025,25.3,1073.41,Delivered,1881,6,FALSE
+SH11253,Mumbai_Warehouse,Nashik,FedEx,1/28/2025,1/31/2025,14.2,271.68,Delayed,432,3,FALSE
+SH11254,Hyderabad_Warehouse,Bengaluru,BlueDart,10/17/2025,10/21/2025,9.6,597.27,Delayed,960,4,FALSE
+SH11255,Pune_Warehouse,Chennai,DHL,8/26/2025,8/30/2025,10.2,437.49,Delayed,629,4,FALSE
+SH11256,Ahmedabad_Warehouse,Mumbai,BlueDart,1/31/2025,2/3/2025,31.2,505.61,Delivered,512,3,FALSE
+SH11257,Mumbai_Warehouse,Hyderabad,FedEx,3/23/2025,3/25/2025,24.9,532.84,Delivered,473,2,FALSE
+SH11258,Ahmedabad_Warehouse,Jaipur,DHL,7/22/2025,7/25/2025,12.2,328.97,Delayed,529,3,FALSE
+SH11259,Hyderabad_Warehouse,Ahmedabad,FedEx,7/17/2025,7/21/2025,23.1,935.71,Delivered,1433,4,FALSE
+SH11260,Pune_Warehouse,Bengaluru,FedEx,10/20/2025,10/24/2025,17.3,666.99,Delivered,1055,4,FALSE
+SH11261,Mumbai_Warehouse,Bengaluru,DHL,4/8/2025,4/14/2025,20.8,600.73,Delayed,1116,6,FALSE
+SH11262,Ahmedabad_Warehouse,Kolkata,Ecom Express,12/4/2025,12/8/2025,11.1,698.66,Delivered,1225,4,FALSE
+SH11263,Mumbai_Warehouse,Nashik,DHL,6/12/2025,6/18/2025,7.9,908.53,Delivered,1866,6,FALSE
+SH11264,Mumbai_Warehouse,Hyderabad,Delhivery,10/28/2025,11/2/2025,14.2,1078.11,Delayed,2162,5,FALSE
+SH11265,Hyderabad_Warehouse,Bengaluru,Delhivery,3/29/2025,4/3/2025,9,678.73,Delivered,1340,5,FALSE
+SH11266,Hyderabad_Warehouse,Chennai,Ecom Express,1/14/2025,1/20/2025,8.5,827.33,Delivered,1624,6,FALSE
+SH11267,Mumbai_Warehouse,Chennai,Delhivery,1/21/2025,1/27/2025,5.9,884.66,Delivered,1860,6,FALSE
+SH11268,Delhi_Warehouse,Kolkata,Delhivery,5/17/2025,5/22/2025,2.8,733.32,In Transit,1742,5,FALSE
+SH11269,Bengaluru_Warehouse,Pune,Ecom Express,12/14/2025,12/17/2025,12.4,414.54,Delivered,379,3,FALSE
+SH11270,Bengaluru_Warehouse,Pune,XpressBees,1/18/2025,1/26/2025,35,1396.84,Delivered,2459,8,FALSE
+SH11271,Delhi_Warehouse,Bengaluru,FedEx,5/15/2025,5/18/2025,29.6,481.6,Delivered,453,3,FALSE
+SH11272,Delhi_Warehouse,Hyderabad,Ecom Express,2/9/2025,2/13/2025,46.2,855.42,Delivered,1059,4,FALSE
+SH11273,Mumbai_Warehouse,Mumbai,BlueDart,12/7/2025,12/13/2025,8.2,884.67,Delivered,1649,6,FALSE
+SH11274,Mumbai_Warehouse,Kolkata,DHL,9/4/2025,9/7/2025,26.4,668.95,Delivered,1038,3,FALSE
+SH11275,Ahmedabad_Warehouse,Kolkata,Delhivery,10/6/2025,10/8/2025,15.8,492.57,Delivered,645,2,FALSE
+SH11276,Pune_Warehouse,Hyderabad,XpressBees,9/18/2025,9/24/2025,10.2,1106.06,Delivered,2313,6,FALSE
+SH11277,Ahmedabad_Warehouse,Chennai,DHL,8/28/2025,8/29/2025,32.5,421.85,Delivered,225,1,FALSE
+SH11278,Mumbai_Warehouse,Ahmedabad,DHL,10/10/2025,10/14/2025,15.9,428.29,Delivered,652,4,FALSE
+SH11279,Ahmedabad_Warehouse,Jaipur,XpressBees,1/3/2025,1/9/2025,4.2,1124.44,Delivered,2483,6,FALSE
+SH11280,Delhi_Warehouse,Kolkata,Delhivery,11/12/2025,11/17/2025,29.4,1102.34,Delayed,1838,5,FALSE
+SH11281,Hyderabad_Warehouse,Pune,FedEx,9/28/2025,9/30/2025,22,390.4,Delivered,263,2,FALSE
+SH11282,Ahmedabad_Warehouse,Nashik,Ecom Express,9/27/2025,10/3/2025,18.7,993.32,Delivered,1899,6,FALSE
+SH11283,Delhi_Warehouse,Hyderabad,BlueDart,5/24/2025,5/30/2025,7,1153.42,Delivered,2426,6,FALSE
+SH11284,Hyderabad_Warehouse,Kolkata,FedEx,10/20/2025,10/22/2025,20.2,794.255,Delivered,289,2,FALSE
+SH11285,Delhi_Warehouse,Jaipur,FedEx,5/20/2025,5/24/2025,42.3,794.99,Delivered,1064,4,FALSE
+SH11286,Hyderabad_Warehouse,Bengaluru,Delhivery,1/18/2025,1/22/2025,21.6,766,Delivered,1197,4,FALSE
+SH11287,Ahmedabad_Warehouse,Mumbai,DHL,11/28/2025,11/30/2025,5.3,228.58,Delivered,371,2,FALSE
+SH11288,Hyderabad_Warehouse,Jaipur,BlueDart,3/27/2025,3/31/2025,22.7,442.27,Delivered,541,4,FALSE
+SH11289,Hyderabad_Warehouse,Delhi,FedEx,2/7/2025,2/8/2025,21.8,479.16,In Transit,475,1,FALSE
+SH11290,Delhi_Warehouse,Delhi,DHL,8/15/2025,8/18/2025,27.8,497.99,Delivered,504,3,FALSE
+SH11291,Mumbai_Warehouse,Surat,Ecom Express,3/27/2025,3/30/2025,21.4,631.36,Delivered,1039,3,FALSE
+SH11292,Bengaluru_Warehouse,Ahmedabad,DHL,11/10/2025,11/14/2025,8.5,723.21,Delivered,1186,4,FALSE
+SH11293,Mumbai_Warehouse,Pune,XpressBees,6/11/2025,6/13/2025,18.1,550.31,Delivered,633,2,FALSE
+SH11294,Bengaluru_Warehouse,Mumbai,DHL,1/2/2025,1/5/2025,14.3,414.05,Delivered,759,3,FALSE
+SH11295,Ahmedabad_Warehouse,Bengaluru,BlueDart,12/14/2025,12/17/2025,19.5,383.48,Delivered,521,3,FALSE
+SH11296,Mumbai_Warehouse,Mumbai,DHL,7/7/2025,7/14/2025,33.2,1235.26,Delivered,2001,7,FALSE
+SH11297,Ahmedabad_Warehouse,Hyderabad,BlueDart,4/6/2025,4/9/2025,10.7,394.26,Delivered,569,3,FALSE
+SH11298,Bengaluru_Warehouse,Bengaluru,Delhivery,9/5/2025,9/10/2025,50.6,1547.71,Delivered,2274,5,FALSE
+SH11299,Mumbai_Warehouse,Kolkata,DHL,7/13/2025,7/17/2025,22.6,881.4,Delivered,1370,4,FALSE
+SH11300,Hyderabad_Warehouse,Bengaluru,Delhivery,1/11/2025,1/18/2025,29.5,1194.36,Delivered,2017,7,FALSE
+SH11301,Mumbai_Warehouse,Delhi,Ecom Express,10/5/2025,10/9/2025,27,929.08,In Transit,1609,4,FALSE
+SH11302,Bengaluru_Warehouse,Jaipur,BlueDart,5/27/2025,5/30/2025,22,588.87,Delayed,702,3,FALSE
+SH11303,Bengaluru_Warehouse,Jaipur,DHL,9/13/2025,9/18/2025,24.7,859.44,Delivered,1523,5,FALSE
+SH11304,Hyderabad_Warehouse,Mumbai,Ecom Express,11/23/2025,11/26/2025,1.3,465.66,Delivered,721,3,FALSE
+SH11305,Delhi_Warehouse,Pune,FedEx,8/11/2025,8/16/2025,27,475.52,Delivered,340,5,FALSE
+SH11306,Mumbai_Warehouse,Nashik,DHL,9/3/2025,9/6/2025,9,394.21,Delayed,674,3,FALSE
+SH11307,Delhi_Warehouse,Chennai,BlueDart,4/3/2025,4/7/2025,16.6,569.86,In Transit,725,4,FALSE
+SH11308,Hyderabad_Warehouse,Nashik,FedEx,3/28/2025,3/30/2025,21.9,549.03,Delayed,380,2,FALSE
+SH11309,Ahmedabad_Warehouse,Surat,DHL,6/1/2025,6/3/2025,34.2,403.67,Delivered,107,2,FALSE
+SH11310,Pune_Warehouse,Hyderabad,Ecom Express,11/8/2025,11/15/2025,9,1179.23,Delivered,2363,7,FALSE
+SH11311,Delhi_Warehouse,Surat,Delhivery,7/11/2025,7/15/2025,12.6,712.71,Delayed,1308,4,FALSE
+SH11312,Ahmedabad_Warehouse,Nashik,XpressBees,5/8/2025,5/12/2025,13.8,794.255,Delivered,1035,4,FALSE
+SH11313,Pune_Warehouse,Hyderabad,BlueDart,10/12/2025,10/18/2025,19.7,1142.73,Delivered,2329,6,FALSE
+SH11314,Pune_Warehouse,Pune,BlueDart,11/8/2025,11/10/2025,14.4,454.37,Delivered,600,2,FALSE
+SH11315,Hyderabad_Warehouse,Kolkata,XpressBees,11/26/2025,12/1/2025,24.8,728.74,Delivered,1037,5,FALSE
+SH11316,Delhi_Warehouse,Jaipur,DHL,4/20/2025,4/25/2025,4.3,1107.99,Delivered,2125,5,FALSE
+SH11317,Bengaluru_Warehouse,Mumbai,BlueDart,9/17/2025,9/20/2025,15.7,786.3,Delivered,1599,3,FALSE
+SH11318,Delhi_Warehouse,Nagpur,Ecom Express,8/4/2025,8/9/2025,44.9,877.96,Delayed,1028,5,FALSE
+SH11319,Bengaluru_Warehouse,Kolkata,FedEx,6/13/2025,6/15/2025,14.5,558.44,In Transit,677,2,FALSE
+SH11320,Pune_Warehouse,Nagpur,XpressBees,5/25/2025,5/27/2025,22.7,316.77,Delayed,136,2,FALSE
+SH11321,Hyderabad_Warehouse,Chennai,FedEx,2/11/2025,2/15/2025,30.9,441.59,Delivered,258,4,FALSE
+SH11322,Delhi_Warehouse,Delhi,BlueDart,4/11/2025,4/13/2025,22.2,410.19,Delivered,446,2,FALSE
+SH11323,Bengaluru_Warehouse,Hyderabad,XpressBees,7/20/2025,7/26/2025,53.4,1313.37,Delivered,1978,6,FALSE
+SH11324,Pune_Warehouse,Kolkata,FedEx,11/20/2025,11/24/2025,18.3,813.85,Delayed,1616,4,FALSE
+SH11325,Mumbai_Warehouse,Jaipur,XpressBees,11/13/2025,11/15/2025,25.6,730.03,Delivered,1112,2,FALSE
+SH11326,Bengaluru_Warehouse,Jaipur,DHL,3/10/2025,3/15/2025,20.2,1023.85,In Transit,1968,5,FALSE
+SH11327,Mumbai_Warehouse,Chennai,FedEx,9/5/2025,9/8/2025,39.3,794.255,Delivered,444,3,FALSE
+SH11328,Ahmedabad_Warehouse,Jaipur,Delhivery,1/31/2025,2/3/2025,13,385.32,Delivered,567,3,FALSE
+SH11329,Ahmedabad_Warehouse,Pune,Delhivery,9/4/2025,9/7/2025,56.1,955.51,Delayed,1012,3,FALSE
+SH11330,Pune_Warehouse,Nashik,XpressBees,5/5/2025,5/11/2025,10.9,1112.94,Delivered,2298,6,FALSE
+SH11331,Pune_Warehouse,Chennai,XpressBees,6/14/2025,6/17/2025,47.6,1135.05,In Transit,1555,3,FALSE
+SH11332,Bengaluru_Warehouse,Nashik,Ecom Express,9/19/2025,9/25/2025,8.2,1017.33,Delivered,2135,6,FALSE
+SH11333,Pune_Warehouse,Jaipur,Delhivery,6/5/2025,6/8/2025,26.2,520.66,Delivered,658,3,FALSE
+SH11334,Ahmedabad_Warehouse,Hyderabad,FedEx,10/22/2025,10/30/2025,17.3,1125.95,Delivered,2129,8,FALSE
+SH11335,Mumbai_Warehouse,Jaipur,Ecom Express,7/14/2025,7/16/2025,30.5,493.3,Delayed,227,2,FALSE
+SH11336,Delhi_Warehouse,Nashik,Delhivery,12/31/2025,1/2/2026,23,537.51,Delivered,607,2,FALSE
+SH11337,Pune_Warehouse,Delhi,DHL,8/21/2025,8/25/2025,29.5,856.23,Delivered,1331,4,FALSE
+SH11338,Hyderabad_Warehouse,Nagpur,Ecom Express,4/19/2025,4/21/2025,8,213.89,Delayed,173,2,FALSE
+SH11339,Mumbai_Warehouse,Nashik,BlueDart,10/10/2025,10/16/2025,5,913.98,Delivered,2153,6,FALSE
+SH11340,Delhi_Warehouse,Delhi,BlueDart,5/29/2025,6/4/2025,7.1,1046.6,Delayed,2176,6,FALSE
+SH11341,Ahmedabad_Warehouse,Surat,BlueDart,7/14/2025,7/17/2025,6.9,694.97,In Transit,1377,3,FALSE
+SH11342,Delhi_Warehouse,Pune,Ecom Express,2/19/2025,2/21/2025,8,432.24,Delivered,799,2,FALSE
+SH11343,Pune_Warehouse,Ahmedabad,FedEx,2/13/2025,2/16/2025,11.4,258.17,Delivered,292,3,FALSE
+SH11344,Mumbai_Warehouse,Pune,BlueDart,7/29/2025,8/4/2025,11.3,811.21,Delivered,1566,6,FALSE
+SH11345,Bengaluru_Warehouse,Nagpur,DHL,3/10/2025,3/15/2025,17.6,858.33,Delivered,1367,5,FALSE
+SH11346,Mumbai_Warehouse,Pune,BlueDart,12/31/2025,1/6/2026,9.5,1023.85,Delivered,1912,6,FALSE
+SH11347,Delhi_Warehouse,Ahmedabad,DHL,11/9/2025,11/15/2025,10,754.87,Delayed,1526,6,FALSE
+SH11348,Bengaluru_Warehouse,Hyderabad,Delhivery,9/13/2025,9/16/2025,15.1,332.74,Delivered,364,3,FALSE
+SH11349,Delhi_Warehouse,Nagpur,XpressBees,9/26/2025,9/28/2025,33.2,481.27,Delivered,348,2,FALSE
+SH11350,Hyderabad_Warehouse,Mumbai,BlueDart,8/6/2025,8/12/2025,12.9,1058.64,Delivered,1963,6,FALSE
+SH11351,Hyderabad_Warehouse,Ahmedabad,XpressBees,1/23/2025,1/27/2025,16.8,415.18,Delivered,439,4,FALSE
+SH11352,Mumbai_Warehouse,Ahmedabad,XpressBees,5/24/2025,5/31/2025,18.7,1231.05,Delayed,2350,7,FALSE
+SH11353,Hyderabad_Warehouse,Nashik,DHL,6/30/2025,7/3/2025,8.7,313.22,In Transit,309,3,FALSE
+SH11354,Ahmedabad_Warehouse,Delhi,Delhivery,12/1/2025,12/6/2025,13.8,935.2,Delivered,1835,5,FALSE
+SH11355,Pune_Warehouse,Nagpur,Delhivery,3/22/2025,3/28/2025,10.6,1269.91,Delivered,2440,6,FALSE
+SH11356,Delhi_Warehouse,Ahmedabad,BlueDart,7/1/2025,7/5/2025,31.2,820.12,In Transit,1131,4,FALSE
+SH11357,Delhi_Warehouse,Ahmedabad,Ecom Express,5/6/2025,5/8/2025,29.6,363.9,Delivered,189,2,FALSE
+SH11358,Delhi_Warehouse,Surat,BlueDart,2/19/2025,2/26/2025,9.9,1074.68,Delivered,2198,7,FALSE
+SH11359,Delhi_Warehouse,Bengaluru,DHL,2/7/2025,2/8/2025,16.6,502.64,In Transit,509,1,FALSE
+SH11360,Ahmedabad_Warehouse,Kolkata,Delhivery,5/14/2025,5/18/2025,25.6,3500,Delayed,1342,4,FALSE
+SH11361,Bengaluru_Warehouse,Surat,FedEx,1/31/2025,2/7/2025,21.4,1348.59,Delivered,2463,7,FALSE
+SH11362,Ahmedabad_Warehouse,Ahmedabad,BlueDart,1/25/2025,1/29/2025,22.9,1027.76,Delivered,1875,4,FALSE
+SH11363,Delhi_Warehouse,Nashik,Delhivery,5/9/2025,5/12/2025,8.7,180.3,Delayed,163,3,FALSE
+SH11364,Bengaluru_Warehouse,Hyderabad,Ecom Express,3/15/2025,3/20/2025,46.5,1377.15,Delivered,2061,5,FALSE
+SH11365,Mumbai_Warehouse,Mumbai,FedEx,7/22/2025,7/24/2025,11.2,314.03,In Transit,445,2,FALSE
+SH11366,Pune_Warehouse,Nagpur,BlueDart,1/7/2025,1/14/2025,11,1010.86,Delayed,1886,7,FALSE
+SH11367,Bengaluru_Warehouse,Delhi,DHL,4/21/2025,4/27/2025,6.4,813.56,Delivered,1571,6,FALSE
+SH11368,Pune_Warehouse,Surat,BlueDart,6/15/2025,6/19/2025,15.5,480.8,Delivered,755,4,FALSE
+SH11369,Ahmedabad_Warehouse,Jaipur,Delhivery,12/18/2025,12/22/2025,35.4,833.93,Delivered,1088,4,FALSE
+SH11370,Pune_Warehouse,Hyderabad,Delhivery,8/20/2025,8/22/2025,21.3,372.83,Delivered,338,2,FALSE
+SH11371,Mumbai_Warehouse,Nashik,FedEx,11/18/2025,11/26/2025,16.4,1275.15,Delivered,2468,8,FALSE
+SH11372,Hyderabad_Warehouse,Pune,DHL,5/6/2025,5/10/2025,28.2,689.81,Delivered,634,4,FALSE
+SH11373,Mumbai_Warehouse,Nagpur,DHL,6/14/2025,6/17/2025,34.9,694.78,Delivered,806,3,FALSE
+SH11374,Pune_Warehouse,Chennai,Delhivery,6/3/2025,6/6/2025,29.6,899.4,Delayed,1282,3,FALSE
+SH11375,Pune_Warehouse,Delhi,DHL,11/20/2025,11/26/2025,3.9,827.65,Delivered,1698,6,FALSE
+SH11376,Hyderabad_Warehouse,Mumbai,Delhivery,12/17/2025,12/21/2025,28.4,794.255,Delivered,1288,4,FALSE
+SH11377,Ahmedabad_Warehouse,Delhi,DHL,12/18/2025,12/21/2025,23.5,811.62,Delivered,1288,3,FALSE
+SH11378,Pune_Warehouse,Chennai,BlueDart,10/2/2025,10/7/2025,9.7,736.05,Delivered,1478,5,FALSE
+SH11379,Delhi_Warehouse,Ahmedabad,Delhivery,7/3/2025,7/9/2025,23.6,1202.87,Delayed,2152,6,FALSE
+SH11380,Delhi_Warehouse,Pune,Ecom Express,7/17/2025,7/21/2025,35.5,793.43,Delivered,1018,4,FALSE
+SH11381,Hyderabad_Warehouse,Pune,Ecom Express,12/24/2025,12/30/2025,11.6,1006.22,Delivered,2089,6,FALSE
+SH11382,Delhi_Warehouse,Pune,Ecom Express,4/14/2025,4/19/2025,30.9,1229.19,Delayed,1978,5,FALSE
+SH11383,Bengaluru_Warehouse,Chennai,FedEx,5/7/2025,5/14/2025,21.6,1279.15,Delivered,2405,7,FALSE
+SH11384,Bengaluru_Warehouse,Chennai,XpressBees,11/24/2025,11/30/2025,1.6,1042.01,Delivered,2288,6,FALSE
+SH11385,Mumbai_Warehouse,Bengaluru,BlueDart,5/22/2025,5/27/2025,17.2,1142.42,Delayed,2006,5,FALSE
+SH11386,Bengaluru_Warehouse,Nagpur,BlueDart,3/27/2025,3/30/2025,21,432.2,Delivered,654,3,FALSE
+SH11387,Bengaluru_Warehouse,Mumbai,Ecom Express,7/24/2025,7/31/2025,14.1,1087.6,Delivered,1947,7,FALSE
+SH11388,Ahmedabad_Warehouse,Ahmedabad,FedEx,4/29/2025,5/4/2025,22.1,998.54,Delayed,1855,5,FALSE
+SH11389,Bengaluru_Warehouse,Delhi,DHL,11/22/2025,11/26/2025,16,546.41,In Transit,759,4,FALSE
+SH11390,Ahmedabad_Warehouse,Chennai,Ecom Express,11/28/2025,12/5/2025,63.2,1303.48,Delivered,1711,7,FALSE
+SH11391,Delhi_Warehouse,Hyderabad,Delhivery,4/22/2025,4/24/2025,13.5,425.38,Delayed,670,2,FALSE
+SH11392,Hyderabad_Warehouse,Kolkata,Delhivery,7/13/2025,7/15/2025,9.9,795.85,Delivered,1332,2,FALSE
+SH11393,Ahmedabad_Warehouse,Ahmedabad,DHL,12/26/2025,1/2/2026,29.9,1277.08,Delivered,2002,7,FALSE
+SH11394,Mumbai_Warehouse,Hyderabad,Delhivery,9/28/2025,9/30/2025,14.7,407.82,In Transit,512,2,FALSE
+SH11395,Bengaluru_Warehouse,Surat,FedEx,3/20/2025,3/23/2025,16.5,606.2,Delivered,875,3,FALSE
+SH11396,Ahmedabad_Warehouse,Surat,Delhivery,8/4/2025,8/9/2025,15.6,1055.31,Delayed,1999,5,FALSE
+SH11397,Bengaluru_Warehouse,Hyderabad,Delhivery,8/15/2025,8/19/2025,28.9,908.87,Delivered,1162,4,FALSE
+SH11398,Ahmedabad_Warehouse,Bengaluru,Ecom Express,8/27/2025,9/4/2025,7.9,1040.61,Delivered,2404,8,FALSE
+SH11399,Delhi_Warehouse,Jaipur,XpressBees,1/10/2025,1/12/2025,30.9,392.37,Delivered,69,2,FALSE
+SH11400,Ahmedabad_Warehouse,Nashik,FedEx,4/20/2025,4/26/2025,24.8,1014.79,Delayed,1819,6,FALSE
+SH11401,Bengaluru_Warehouse,Bengaluru,DHL,11/8/2025,11/14/2025,50.7,1240.27,Delivered,2045,6,FALSE
+SH11402,Delhi_Warehouse,Kolkata,Delhivery,3/30/2025,4/5/2025,20,1195.75,Delivered,2299,6,FALSE
+SH11403,Pune_Warehouse,Kolkata,XpressBees,4/20/2025,4/22/2025,8.4,435.32,Delivered,434,2,FALSE
+SH11404,Pune_Warehouse,Bengaluru,DHL,4/28/2025,5/5/2025,20.1,1248.81,Delivered,2462,7,FALSE
+SH11405,Pune_Warehouse,Bengaluru,BlueDart,3/6/2025,3/10/2025,21.8,733.41,Delivered,1011,4,FALSE
+SH11406,Hyderabad_Warehouse,Kolkata,BlueDart,2/26/2025,3/2/2025,37.4,846.87,Delivered,912,4,FALSE
+SH11407,Delhi_Warehouse,Nashik,FedEx,5/7/2025,5/10/2025,8.3,536.67,Delivered,921,3,FALSE
+SH11408,Delhi_Warehouse,Mumbai,Delhivery,11/16/2025,11/21/2025,5.3,809.56,Delivered,1614,5,FALSE
+SH11409,Delhi_Warehouse,Mumbai,FedEx,1/1/2025,1/7/2025,20.4,858.3,Delivered,1665,6,FALSE
+SH11410,Delhi_Warehouse,Pune,BlueDart,4/14/2025,4/18/2025,52.1,992.08,Delivered,1211,4,FALSE
+SH11411,Hyderabad_Warehouse,Kolkata,XpressBees,1/23/2025,1/24/2025,27.2,455.17,In Transit,224,1,FALSE
+SH11412,Delhi_Warehouse,Mumbai,BlueDart,7/24/2025,7/30/2025,28.2,1359.6,Delayed,2468,6,FALSE
+SH11413,Delhi_Warehouse,Delhi,DHL,4/2/2025,4/5/2025,6.3,403.23,Delivered,594,3,FALSE
+SH11414,Bengaluru_Warehouse,Jaipur,XpressBees,10/17/2025,10/20/2025,18.2,359.2,Delivered,279,3,FALSE
+SH11415,Bengaluru_Warehouse,Jaipur,FedEx,8/2/2025,8/8/2025,37.9,1158.59,Delivered,1514,6,FALSE
+SH11416,Delhi_Warehouse,Chennai,Ecom Express,10/14/2025,10/17/2025,22,688.52,In Transit,1060,3,FALSE
+SH11417,Mumbai_Warehouse,Surat,Ecom Express,8/20/2025,8/24/2025,5,865.16,Delivered,1558,4,FALSE
+SH11418,Hyderabad_Warehouse,Bengaluru,Delhivery,6/10/2025,6/16/2025,17.9,1161.39,Delivered,2195,6,FALSE
+SH11419,Bengaluru_Warehouse,Nashik,DHL,11/11/2025,11/14/2025,26,515.14,Delayed,288,3,FALSE
+SH11420,Bengaluru_Warehouse,Pune,XpressBees,6/23/2025,6/26/2025,16.6,467.05,Delivered,746,3,FALSE
+SH11421,Bengaluru_Warehouse,Kolkata,Ecom Express,12/13/2025,12/17/2025,9.1,720.23,Delivered,1316,4,FALSE
+SH11422,Bengaluru_Warehouse,Bengaluru,BlueDart,12/30/2025,1/3/2026,30.5,1149.2,Delivered,1980,4,FALSE
+SH11423,Ahmedabad_Warehouse,Kolkata,XpressBees,8/3/2025,8/8/2025,13.1,838.26,Delivered,1522,5,FALSE
+SH11424,Mumbai_Warehouse,Bengaluru,Ecom Express,9/4/2025,9/8/2025,23.3,760.24,Delivered,988,4,FALSE
+SH11425,Mumbai_Warehouse,Chennai,Ecom Express,4/4/2025,4/8/2025,17.6,899.33,In Transit,1545,4,FALSE
+SH11426,Ahmedabad_Warehouse,Jaipur,FedEx,10/25/2025,10/31/2025,12.7,1284.49,Delivered,2451,6,FALSE
+SH11427,Ahmedabad_Warehouse,Nagpur,Delhivery,9/3/2025,9/8/2025,55.7,1031.51,Delivered,1226,5,FALSE
+SH11428,Delhi_Warehouse,Jaipur,FedEx,11/26/2025,12/1/2025,11.7,1064.49,Delayed,2215,5,FALSE
+SH11429,Bengaluru_Warehouse,Delhi,DHL,4/8/2025,4/13/2025,18.6,1062.61,Delayed,1961,5,FALSE
+SH11430,Delhi_Warehouse,Pune,BlueDart,10/15/2025,10/19/2025,17.6,558.43,Delivered,788,4,FALSE
+SH11431,Ahmedabad_Warehouse,Mumbai,DHL,6/21/2025,6/24/2025,20,517.4,Delivered,661,3,FALSE
+SH11432,Delhi_Warehouse,Hyderabad,DHL,3/9/2025,3/15/2025,53.2,1293.02,Delivered,1937,6,FALSE
+SH11433,Hyderabad_Warehouse,Kolkata,Ecom Express,3/4/2025,3/7/2025,26,601.29,Delivered,558,3,FALSE
+SH11434,Delhi_Warehouse,Jaipur,Delhivery,7/25/2025,7/28/2025,12.6,534.64,Delivered,875,3,FALSE
+SH11435,Delhi_Warehouse,Nagpur,BlueDart,4/27/2025,4/30/2025,43.1,787.7,Delivered,626,3,FALSE
+SH11436,Hyderabad_Warehouse,Delhi,FedEx,2/7/2025,2/13/2025,29,972.32,In Transit,1536,6,FALSE
+SH11437,Delhi_Warehouse,Hyderabad,Ecom Express,6/5/2025,6/9/2025,12.8,547.86,Delivered,770,4,FALSE
+SH11438,Mumbai_Warehouse,Bengaluru,Delhivery,8/27/2025,9/2/2025,39,1140.63,Delivered,1663,6,FALSE
+SH11439,Pune_Warehouse,Pune,Delhivery,4/27/2025,5/2/2025,6.3,1071.43,Delivered,2341,5,FALSE
+SH11440,Ahmedabad_Warehouse,Jaipur,FedEx,12/15/2025,12/22/2025,7.7,1040.51,In Transit,2083,7,FALSE
+SH11441,Delhi_Warehouse,Bengaluru,DHL,10/12/2025,10/18/2025,4.7,1222.67,Delivered,2373,6,FALSE
+SH11442,Mumbai_Warehouse,Bengaluru,DHL,7/7/2025,7/8/2025,3.2,166.82,Delivered,109,1,FALSE
+SH11443,Ahmedabad_Warehouse,Jaipur,DHL,12/8/2025,12/12/2025,37.3,936.34,Delivered,1166,4,FALSE
+SH11444,Ahmedabad_Warehouse,Mumbai,XpressBees,6/8/2025,6/12/2025,20.2,537.21,Delivered,589,4,FALSE
+SH11445,Delhi_Warehouse,Surat,BlueDart,2/20/2025,2/27/2025,5.1,1105.82,Delivered,2299,7,FALSE
+SH11446,Bengaluru_Warehouse,Nashik,Delhivery,1/14/2025,1/19/2025,17.3,990.79,In Transit,1794,5,FALSE
+SH11447,Hyderabad_Warehouse,Nagpur,XpressBees,12/9/2025,12/13/2025,31.5,728.13,Delivered,834,4,FALSE
+SH11448,Mumbai_Warehouse,Chennai,XpressBees,12/17/2025,12/22/2025,10.3,810.55,Delivered,1431,5,FALSE
+SH11449,Pune_Warehouse,Pune,FedEx,9/27/2025,10/1/2025,14.2,770.19,Delivered,1533,4,FALSE
+SH11450,Bengaluru_Warehouse,Nashik,BlueDart,2/7/2025,2/11/2025,57.4,1112.38,Delivered,1264,4,FALSE
+SH11451,Bengaluru_Warehouse,Bengaluru,BlueDart,4/18/2025,4/22/2025,15.1,707.27,Delivered,1212,4,FALSE
+SH11452,Pune_Warehouse,Chennai,DHL,1/15/2025,1/17/2025,5.5,182.92,Delivered,185,2,FALSE
+SH11453,Mumbai_Warehouse,Jaipur,Ecom Express,1/19/2025,1/22/2025,12.1,740.49,Delivered,1158,3,FALSE
+SH11454,Ahmedabad_Warehouse,Hyderabad,Delhivery,3/31/2025,4/4/2025,4.8,459.74,Delivered,903,4,FALSE
+SH11455,Bengaluru_Warehouse,Kolkata,BlueDart,7/28/2025,8/2/2025,27.4,1099.29,Delayed,2055,5,FALSE
+SH11456,Hyderabad_Warehouse,Hyderabad,Delhivery,1/24/2025,1/31/2025,9.2,1113.36,Delivered,2170,7,FALSE
+SH11457,Delhi_Warehouse,Kolkata,Ecom Express,12/26/2025,12/30/2025,9,871.76,Delayed,1889,4,FALSE
+SH11458,Bengaluru_Warehouse,Chennai,DHL,6/16/2025,6/18/2025,60.6,541.56,Delivered,125,2,FALSE
+SH11459,Delhi_Warehouse,Nashik,Delhivery,4/7/2025,4/12/2025,7,1076.07,Delivered,2111,5,FALSE
+SH11460,Delhi_Warehouse,Bengaluru,XpressBees,7/8/2025,7/11/2025,6.1,569.4,Delivered,1021,3,FALSE
+SH11461,Hyderabad_Warehouse,Mumbai,Ecom Express,10/16/2025,10/19/2025,8,623.4,Delivered,1070,3,FALSE
+SH11462,Ahmedabad_Warehouse,Nashik,Delhivery,4/25/2025,5/3/2025,32.2,1323.09,Delayed,2366,8,FALSE
+SH11463,Hyderabad_Warehouse,Mumbai,DHL,1/18/2025,1/24/2025,25.1,1130.71,Delivered,2175,6,FALSE
+SH11464,Hyderabad_Warehouse,Pune,Ecom Express,1/19/2025,1/20/2025,12,189.86,Delivered,174,1,FALSE
+SH11465,Mumbai_Warehouse,Mumbai,Ecom Express,11/7/2025,11/9/2025,11.2,551.25,Delayed,931,2,FALSE
+SH11466,Bengaluru_Warehouse,Nagpur,BlueDart,2/10/2025,2/14/2025,23.8,1004.86,Delivered,1887,4,FALSE
+SH11467,Ahmedabad_Warehouse,Bengaluru,Delhivery,8/20/2025,8/24/2025,20.7,848.24,Delivered,1370,4,FALSE
+SH11468,Delhi_Warehouse,Hyderabad,Delhivery,5/21/2025,5/23/2025,15.8,474.88,Delivered,681,2,FALSE
+SH11469,Bengaluru_Warehouse,Chennai,DHL,10/11/2025,10/15/2025,25.7,869.75,Delayed,1336,4,FALSE
+SH11470,Pune_Warehouse,Chennai,FedEx,1/23/2025,1/27/2025,7.6,1066.21,Delivered,2174,4,FALSE
+SH11471,Pune_Warehouse,Ahmedabad,Ecom Express,11/24/2025,11/27/2025,9.3,431.06,Delivered,597,3,FALSE
+SH11472,Hyderabad_Warehouse,Hyderabad,XpressBees,9/12/2025,9/18/2025,26.5,1121.48,Delayed,1878,6,FALSE
+SH11473,Pune_Warehouse,Jaipur,FedEx,6/13/2025,6/20/2025,21.9,1024.24,Delivered,1850,7,FALSE
+SH11474,Bengaluru_Warehouse,Bengaluru,BlueDart,3/17/2025,3/21/2025,18.1,1176.37,In Transit,2220,4,FALSE
+SH11475,Bengaluru_Warehouse,Hyderabad,XpressBees,12/23/2025,12/26/2025,59.3,924.63,Delayed,780,3,FALSE
+SH11476,Ahmedabad_Warehouse,Delhi,DHL,4/21/2025,4/23/2025,29.4,439.49,Delivered,579,2,FALSE
+SH11477,Ahmedabad_Warehouse,Nashik,FedEx,6/29/2025,7/4/2025,12.2,803.9,In Transit,1392,5,FALSE
+SH11478,Bengaluru_Warehouse,Nashik,DHL,5/24/2025,5/27/2025,10,794.255,Delivered,1352,3,FALSE
+SH11479,Mumbai_Warehouse,Jaipur,FedEx,3/26/2025,3/31/2025,22.6,745.38,Delivered,1053,5,FALSE
+SH11480,Bengaluru_Warehouse,Chennai,Delhivery,6/2/2025,6/8/2025,37.2,1148.2,Delivered,1959,6,FALSE
+SH11481,Ahmedabad_Warehouse,Hyderabad,BlueDart,2/25/2025,3/3/2025,4.2,941.69,Delivered,2008,6,FALSE
+SH11482,Delhi_Warehouse,Pune,XpressBees,1/1/2025,1/5/2025,21.5,476.56,Delivered,652,4,FALSE
+SH11483,Bengaluru_Warehouse,Jaipur,XpressBees,4/16/2025,4/22/2025,14,1079.53,Delivered,1999,6,FALSE
+SH11484,Hyderabad_Warehouse,Kolkata,XpressBees,2/10/2025,2/13/2025,20.2,432.72,Delivered,615,3,FALSE
+SH11485,Delhi_Warehouse,Ahmedabad,Ecom Express,6/1/2025,6/4/2025,5.7,517.95,Delivered,1049,3,FALSE
+SH11486,Delhi_Warehouse,Mumbai,Ecom Express,11/11/2025,11/12/2025,37.2,474.31,Delivered,116,1,FALSE
+SH11487,Delhi_Warehouse,Mumbai,Delhivery,3/1/2025,3/4/2025,43.7,788.11,Delayed,884,3,FALSE
+SH11488,Ahmedabad_Warehouse,Ahmedabad,XpressBees,1/1/2025,1/9/2025,27.7,1271.97,Delivered,2399,8,FALSE
+SH11489,Delhi_Warehouse,Kolkata,DHL,2/10/2025,2/15/2025,49.4,1026.05,Delivered,1134,5,FALSE
+SH11490,Pune_Warehouse,Mumbai,Ecom Express,7/5/2025,7/11/2025,13.5,998.67,Delivered,1790,6,FALSE
+SH11491,Bengaluru_Warehouse,Chennai,DHL,4/11/2025,4/12/2025,21.2,431.79,Delivered,314,1,FALSE
+SH11492,Hyderabad_Warehouse,Chennai,BlueDart,6/28/2025,7/4/2025,28,1039.62,Delivered,1607,6,FALSE
+SH11493,Ahmedabad_Warehouse,Mumbai,FedEx,1/11/2025,1/13/2025,22.8,664.26,Delivered,960,2,FALSE
+SH11494,Ahmedabad_Warehouse,Nashik,Delhivery,5/2/2025,5/6/2025,14.8,981.21,Delivered,1873,4,FALSE
+SH11495,Hyderabad_Warehouse,Mumbai,Ecom Express,5/30/2025,6/5/2025,15.9,1155.59,Delayed,2324,6,FALSE
+SH11496,Hyderabad_Warehouse,Ahmedabad,DHL,6/7/2025,6/13/2025,41.2,794.255,Delivered,1352,6,FALSE
+SH11497,Delhi_Warehouse,Nashik,Delhivery,7/21/2025,7/25/2025,17.5,326.56,Delivered,302,4,FALSE
+SH11498,Delhi_Warehouse,Kolkata,FedEx,10/12/2025,10/16/2025,35.9,872.47,Delivered,1217,4,FALSE
+SH11499,Bengaluru_Warehouse,Pune,DHL,6/20/2025,6/22/2025,16.9,404.06,Delivered,351,2,FALSE
+SH11500,Hyderabad_Warehouse,Jaipur,BlueDart,11/4/2025,11/7/2025,35.7,932.02,Delivered,1151,3,FALSE
+SH11501,Bengaluru_Warehouse,Chennai,Delhivery,7/13/2025,7/15/2025,750,794.255,Delivered,199,2,FALSE
+SH11502,Pune_Warehouse,Nashik,FedEx,4/6/2025,4/11/2025,26.5,1083.92,Delivered,1619,5,FALSE
+SH11503,Mumbai_Warehouse,Delhi,BlueDart,3/25/2025,3/29/2025,10.9,474.05,Delivered,810,4,FALSE
+SH11504,Mumbai_Warehouse,Chennai,XpressBees,4/28/2025,5/2/2025,21.1,386.32,Delivered,543,4,FALSE
+SH11505,Delhi_Warehouse,Pune,BlueDart,8/7/2025,8/9/2025,11,251.44,Delivered,92,2,FALSE
+SH11506,Hyderabad_Warehouse,Hyderabad,XpressBees,3/30/2025,4/6/2025,13.3,1085.52,In Transit,2226,7,FALSE
+SH11507,Hyderabad_Warehouse,Delhi,XpressBees,11/30/2025,12/5/2025,14,1066.37,Delivered,2101,5,FALSE
+SH11508,Hyderabad_Warehouse,Mumbai,BlueDart,6/25/2025,7/1/2025,15.7,972.49,Delivered,2039,6,FALSE
+SH11509,Hyderabad_Warehouse,Hyderabad,Delhivery,11/12/2025,11/14/2025,33.1,392.53,Delivered,192,2,FALSE
+SH11510,Mumbai_Warehouse,Hyderabad,Ecom Express,9/7/2025,9/11/2025,12.9,487.55,Delivered,906,4,FALSE
+SH11511,Ahmedabad_Warehouse,Bengaluru,BlueDart,5/2/2025,5/9/2025,19.7,1244.16,Delivered,2430,7,FALSE
+SH11512,Ahmedabad_Warehouse,Chennai,BlueDart,3/25/2025,3/30/2025,35.8,979.16,Delivered,1468,5,FALSE
+SH11513,Ahmedabad_Warehouse,Pune,FedEx,9/29/2025,10/2/2025,26.1,459.68,Delivered,364,3,FALSE
+SH11514,Delhi_Warehouse,Hyderabad,DHL,5/1/2025,5/2/2025,4.3,350.63,Delivered,395,1,FALSE
+SH11515,Pune_Warehouse,Nashik,DHL,4/1/2025,4/3/2025,5.6,456.31,Delivered,694,2,FALSE
+SH11516,Ahmedabad_Warehouse,Chennai,BlueDart,12/6/2025,12/12/2025,23.1,1208.99,Delivered,2433,6,FALSE
+SH11517,Pune_Warehouse,Ahmedabad,Ecom Express,6/26/2025,6/27/2025,12.4,414.14,Delivered,465,1,FALSE
+SH11518,Hyderabad_Warehouse,Nagpur,FedEx,1/18/2025,1/24/2025,5,1078.69,Delivered,2262,6,FALSE
+SH11519,Ahmedabad_Warehouse,Pune,FedEx,6/30/2025,7/5/2025,11.8,893.54,Delivered,1711,5,FALSE
+SH11520,Ahmedabad_Warehouse,Hyderabad,FedEx,6/18/2025,6/25/2025,23.6,1249.13,Delivered,2309,7,FALSE
+SH11521,Bengaluru_Warehouse,Mumbai,Delhivery,11/12/2025,11/18/2025,13.9,1080.48,Delivered,2074,6,FALSE
+SH11522,Ahmedabad_Warehouse,Delhi,FedEx,9/17/2025,9/21/2025,18.4,561.23,Delivered,864,4,FALSE
+SH11523,Hyderabad_Warehouse,Surat,FedEx,3/11/2025,3/17/2025,14.8,1068.95,In Transit,2079,6,FALSE
+SH11524,Ahmedabad_Warehouse,Nagpur,DHL,2/24/2025,2/26/2025,10.6,430.1,Delivered,464,2,FALSE
+SH11525,Delhi_Warehouse,Mumbai,FedEx,8/9/2025,8/12/2025,20.9,539.4,Delivered,763,3,FALSE
+SH11526,Bengaluru_Warehouse,Bengaluru,FedEx,1/18/2025,1/21/2025,4.6,301.44,Delivered,569,3,FALSE
+SH11527,Hyderabad_Warehouse,Kolkata,Ecom Express,4/27/2025,5/1/2025,9.6,316.13,Delivered,376,4,FALSE
+SH11528,Pune_Warehouse,Nashik,XpressBees,2/20/2025,2/22/2025,29.3,380.27,Delivered,270,2,FALSE
+SH11529,Pune_Warehouse,Chennai,BlueDart,1/8/2025,1/9/2025,5.7,247.48,Delivered,509,1,FALSE
+SH11530,Delhi_Warehouse,Delhi,DHL,12/2/2025,12/3/2025,17.8,356.83,Delayed,344,1,FALSE
+SH11531,Delhi_Warehouse,Hyderabad,DHL,2/2/2025,2/5/2025,13.2,684.31,Delivered,982,3,FALSE
+SH11532,Hyderabad_Warehouse,Kolkata,FedEx,1/4/2025,1/5/2025,12.3,276.51,Delayed,224,1,FALSE
+SH11533,Ahmedabad_Warehouse,Nagpur,BlueDart,12/7/2025,12/11/2025,31.2,439.02,Delivered,200,4,FALSE
+SH11534,Mumbai_Warehouse,Delhi,Delhivery,3/10/2025,3/17/2025,35.2,1301.96,Delivered,2476,7,FALSE
+SH11535,Pune_Warehouse,Mumbai,FedEx,10/26/2025,10/28/2025,8,282.98,Delivered,264,2,FALSE
+SH11536,Ahmedabad_Warehouse,Nashik,BlueDart,1/12/2025,1/13/2025,15.8,316.46,Delivered,231,1,FALSE
+SH11537,Bengaluru_Warehouse,Hyderabad,FedEx,2/26/2025,3/1/2025,3.6,125.69,Delivered,123,3,FALSE
+SH11538,Pune_Warehouse,Pune,Delhivery,2/10/2025,2/11/2025,30,501.98,Delivered,374,1,FALSE
+SH11539,Bengaluru_Warehouse,Kolkata,Ecom Express,9/15/2025,9/18/2025,17.2,799.62,Delivered,1343,3,FALSE
+SH11540,Ahmedabad_Warehouse,Mumbai,DHL,8/15/2025,8/20/2025,5.4,939.97,Delivered,2077,5,FALSE
+SH11541,Delhi_Warehouse,Ahmedabad,BlueDart,6/23/2025,6/29/2025,10,960.67,Delivered,1851,6,FALSE
+SH11542,Delhi_Warehouse,Surat,Delhivery,3/30/2025,4/4/2025,7.4,826.98,Delivered,1472,5,FALSE
+SH11543,Bengaluru_Warehouse,Bengaluru,Ecom Express,2/2/2025,2/5/2025,9.6,257.42,Delivered,258,3,FALSE
+SH11544,Ahmedabad_Warehouse,Ahmedabad,Delhivery,7/27/2025,8/3/2025,3.9,883.59,In Transit,1948,7,FALSE
+SH11545,Bengaluru_Warehouse,Mumbai,Delhivery,3/26/2025,3/28/2025,41,477.95,Delivered,141,2,FALSE
+SH11546,Ahmedabad_Warehouse,Nagpur,Ecom Express,8/4/2025,8/10/2025,8.2,867.02,Delivered,1596,6,FALSE
+SH11547,Hyderabad_Warehouse,Surat,BlueDart,9/8/2025,9/11/2025,17.8,606.11,Delivered,1053,3,FALSE
+SH11548,Delhi_Warehouse,Chennai,Delhivery,11/7/2025,11/11/2025,23.5,794.255,Delivered,2212,4,FALSE
+SH11549,Delhi_Warehouse,Pune,FedEx,6/30/2025,7/3/2025,35.2,679.17,Delivered,803,3,FALSE
+SH11550,Hyderabad_Warehouse,Bengaluru,BlueDart,1/2/2025,1/6/2025,18.2,925.89,Delivered,1614,4,FALSE
+SH11551,Mumbai_Warehouse,Nagpur,DHL,4/13/2025,4/16/2025,14.7,647.67,Delivered,1128,3,FALSE
+SH11552,Pune_Warehouse,Chennai,BlueDart,11/8/2025,11/11/2025,18.7,765.94,Delivered,1329,3,FALSE
+SH11553,Pune_Warehouse,Bengaluru,DHL,7/14/2025,7/20/2025,7.9,1217.92,Delivered,2350,6,FALSE
+SH11554,Hyderabad_Warehouse,Surat,FedEx,8/14/2025,8/20/2025,8.4,828.22,In Transit,1796,6,FALSE
+SH11555,Hyderabad_Warehouse,Nashik,BlueDart,6/17/2025,6/22/2025,14.4,676.82,In Transit,1066,5,FALSE
+SH11556,Hyderabad_Warehouse,Nagpur,Delhivery,3/1/2025,3/3/2025,2.9,681.19,Delivered,1146,2,FALSE
+SH11557,Mumbai_Warehouse,Hyderabad,XpressBees,11/24/2025,11/28/2025,10.8,955.42,Delivered,1776,4,FALSE
+SH11558,Pune_Warehouse,Nagpur,DHL,10/10/2025,10/13/2025,12.6,491.05,Delivered,898,3,FALSE
+SH11559,Pune_Warehouse,Jaipur,XpressBees,12/30/2025,1/2/2026,54,662.13,Delivered,461,3,FALSE
+SH11560,Mumbai_Warehouse,Hyderabad,FedEx,11/9/2025,11/13/2025,38.1,864.83,Delivered,1196,4,FALSE
+SH11561,Pune_Warehouse,Chennai,Ecom Express,4/17/2025,4/18/2025,23.4,378.72,Delivered,217,1,FALSE
+SH11562,Delhi_Warehouse,Kolkata,Ecom Express,4/3/2025,4/6/2025,30.5,546.98,Delivered,465,3,FALSE
+SH11563,Ahmedabad_Warehouse,Chennai,XpressBees,4/1/2025,4/6/2025,8.4,535.48,Delivered,1081,5,FALSE
+SH11564,Pune_Warehouse,Pune,DHL,12/2/2025,12/8/2025,19.1,1035.19,Delivered,2002,6,FALSE
+SH11565,Ahmedabad_Warehouse,Hyderabad,XpressBees,7/23/2025,7/28/2025,28.1,1099.52,In Transit,1965,5,FALSE
+SH11566,Hyderabad_Warehouse,Nagpur,DHL,6/15/2025,6/18/2025,8.4,430.42,Delayed,688,3,FALSE
+SH11567,Mumbai_Warehouse,Kolkata,XpressBees,12/20/2025,12/24/2025,5.6,692.04,Delivered,1084,4,FALSE
+SH11568,Pune_Warehouse,Bengaluru,Delhivery,8/9/2025,8/11/2025,21.8,392.89,Delivered,426,2,FALSE
+SH11569,Delhi_Warehouse,Nagpur,BlueDart,11/28/2025,12/3/2025,6.1,876.54,Delivered,1901,5,FALSE
+SH11570,Ahmedabad_Warehouse,Ahmedabad,BlueDart,12/26/2025,12/30/2025,24.9,503.59,Delivered,653,4,FALSE
+SH11571,Hyderabad_Warehouse,Nashik,DHL,1/29/2025,2/4/2025,34.8,1254.53,Delivered,2009,6,FALSE
+SH11572,Ahmedabad_Warehouse,Kolkata,Ecom Express,5/12/2025,5/19/2025,8.6,1038.29,Delayed,2113,7,FALSE
+SH11573,Pune_Warehouse,Hyderabad,Ecom Express,9/25/2025,10/1/2025,9.2,838.87,Delivered,1738,6,FALSE
+SH11574,Ahmedabad_Warehouse,Jaipur,XpressBees,10/24/2025,10/28/2025,34.2,711.53,Delivered,859,4,FALSE
+SH11575,Ahmedabad_Warehouse,Delhi,Ecom Express,2/24/2025,3/2/2025,18.3,1193.72,In Transit,2385,6,FALSE
+SH11576,Bengaluru_Warehouse,Mumbai,XpressBees,4/27/2025,5/3/2025,31.3,1089.34,Delivered,1731,6,FALSE
+SH11577,Mumbai_Warehouse,Hyderabad,XpressBees,7/20/2025,7/25/2025,14.8,1038.88,Delivered,1632,5,FALSE
+SH11578,Pune_Warehouse,Nagpur,BlueDart,10/19/2025,10/27/2025,15.6,1145.48,Delivered,2149,8,FALSE
+SH11579,Mumbai_Warehouse,Delhi,Ecom Express,2/11/2025,2/17/2025,17.9,1155.24,Delivered,2210,6,FALSE
+SH11580,Hyderabad_Warehouse,Surat,FedEx,8/8/2025,8/11/2025,47.3,546.28,Delivered,240,3,FALSE
+SH11581,Pune_Warehouse,Chennai,Ecom Express,4/19/2025,4/25/2025,29.7,1186.76,Delivered,2210,6,FALSE
+SH11582,Hyderabad_Warehouse,Jaipur,Delhivery,3/20/2025,3/25/2025,10.5,1018.1,Delivered,1925,5,FALSE
+SH11583,Pune_Warehouse,Chennai,BlueDart,7/8/2025,7/11/2025,20,520.88,Delivered,556,3,FALSE
+SH11584,Ahmedabad_Warehouse,Kolkata,Delhivery,6/1/2025,6/5/2025,14.1,511.89,Delivered,804,4,FALSE
+SH11585,Hyderabad_Warehouse,Nagpur,FedEx,8/21/2025,8/27/2025,12.3,1046.76,Delivered,1894,6,FALSE
+SH11586,Delhi_Warehouse,Chennai,Delhivery,4/26/2025,4/30/2025,24.4,532.16,Delayed,580,4,FALSE
+SH11587,Delhi_Warehouse,Nagpur,BlueDart,10/28/2025,11/1/2025,21.3,790.02,Delivered,1158,4,FALSE
+SH11588,Mumbai_Warehouse,Kolkata,FedEx,1/29/2025,2/3/2025,8.7,900.2,Delivered,1738,5,FALSE
+SH11589,Mumbai_Warehouse,Pune,XpressBees,11/11/2025,11/16/2025,18,913.74,Delayed,1644,5,FALSE
+SH11590,Ahmedabad_Warehouse,Bengaluru,DHL,1/11/2025,1/16/2025,12,1086.66,Delivered,2279,5,FALSE
+SH11591,Hyderabad_Warehouse,Kolkata,Ecom Express,9/26/2025,9/30/2025,23.4,406.56,Delivered,323,4,FALSE
+SH11592,Ahmedabad_Warehouse,Hyderabad,FedEx,5/7/2025,5/10/2025,11.6,549.57,Delayed,773,3,FALSE
+SH11593,Bengaluru_Warehouse,Mumbai,FedEx,5/20/2025,5/27/2025,15.7,1219.96,Delivered,2463,7,FALSE
+SH11594,Pune_Warehouse,Kolkata,DHL,1/7/2025,1/12/2025,12.5,816.92,Delivered,1444,5,FALSE
+SH11595,Mumbai_Warehouse,Jaipur,DHL,9/14/2025,9/17/2025,4.4,334.63,Delivered,659,3,FALSE
+SH11596,Hyderabad_Warehouse,Kolkata,DHL,3/2/2025,3/5/2025,45.8,831.4,Delivered,760,3,FALSE
+SH11597,Pune_Warehouse,Mumbai,Ecom Express,8/29/2025,9/1/2025,17.8,618.53,Delayed,881,3,FALSE
+SH11598,Mumbai_Warehouse,Pune,XpressBees,9/22/2025,9/26/2025,46.8,1003.04,Delivered,1408,4,FALSE
+SH11599,Mumbai_Warehouse,Ahmedabad,Delhivery,11/5/2025,11/10/2025,18.4,537.82,Delivered,747,5,FALSE
+SH11600,Bengaluru_Warehouse,Nashik,DHL,9/16/2025,9/21/2025,27.3,1024.36,Delivered,1574,5,FALSE
+SH11601,Ahmedabad_Warehouse,Ahmedabad,XpressBees,4/21/2025,4/26/2025,11,583.47,Delivered,1141,5,FALSE
+SH11602,Delhi_Warehouse,Bengaluru,Delhivery,9/27/2025,10/3/2025,11.2,765.2,Delivered,1545,6,FALSE
+SH11603,Ahmedabad_Warehouse,Nashik,Delhivery,10/29/2025,10/31/2025,17.2,402.98,Delivered,430,2,FALSE
+SH11604,Delhi_Warehouse,Chennai,XpressBees,4/26/2025,5/1/2025,46.5,1255.34,Delivered,1578,5,FALSE
+SH11605,Hyderabad_Warehouse,Mumbai,BlueDart,2/15/2025,2/21/2025,8.9,1091.38,Delivered,2316,6,FALSE
+SH11606,Pune_Warehouse,Kolkata,BlueDart,11/21/2025,11/22/2025,3.6,297.86,Delivered,381,1,FALSE
+SH11607,Bengaluru_Warehouse,Pune,Ecom Express,2/23/2025,2/26/2025,33.7,738.6,Delivered,852,3,FALSE
+SH11608,Pune_Warehouse,Ahmedabad,Delhivery,8/5/2025,8/11/2025,28.4,1023.56,Delivered,1749,6,FALSE
+SH11609,Hyderabad_Warehouse,Surat,Ecom Express,3/28/2025,4/1/2025,13,855.82,Delivered,1563,4,FALSE
+SH11610,Delhi_Warehouse,Pune,Ecom Express,2/15/2025,2/20/2025,58,1263.63,Delivered,1703,5,FALSE
+SH11611,Mumbai_Warehouse,Surat,XpressBees,10/11/2025,10/15/2025,59.6,1163.74,Delivered,1421,4,FALSE
+SH11612,Pune_Warehouse,Delhi,FedEx,2/22/2025,3/1/2025,4.2,747.99,Delivered,1723,7,FALSE
+SH11613,Delhi_Warehouse,Nagpur,DHL,9/2/2025,9/5/2025,10.8,818.52,Delivered,1543,3,FALSE
+SH11614,Delhi_Warehouse,Kolkata,BlueDart,9/10/2025,9/13/2025,17.1,371.82,Delivered,231,3,FALSE
+SH11615,Pune_Warehouse,Nashik,Delhivery,1/22/2025,1/27/2025,23,1072.88,Delayed,1891,5,FALSE
+SH11616,Bengaluru_Warehouse,Bengaluru,Ecom Express,3/5/2025,3/8/2025,20.8,797.68,Delivered,1145,3,FALSE
+SH11617,Ahmedabad_Warehouse,Kolkata,FedEx,10/17/2025,10/19/2025,17.8,337.14,Delivered,176,2,FALSE
+SH11618,Hyderabad_Warehouse,Pune,Ecom Express,7/5/2025,7/9/2025,7.9,585.72,Delivered,1052,4,FALSE
+SH11619,Pune_Warehouse,Pune,Ecom Express,2/14/2025,2/19/2025,24.9,725.83,Delivered,1116,5,FALSE
+SH11620,Hyderabad_Warehouse,Delhi,Ecom Express,12/28/2025,12/30/2025,25.8,382.6,Delivered,262,2,FALSE
+SH11621,Ahmedabad_Warehouse,Jaipur,Ecom Express,4/7/2025,4/15/2025,32.2,1319.04,Delivered,2491,8,FALSE
+SH11622,Pune_Warehouse,Chennai,XpressBees,1/2/2025,1/6/2025,7.1,375.56,Delivered,595,4,FALSE
+SH11623,Pune_Warehouse,Ahmedabad,Delhivery,12/4/2025,12/8/2025,15.2,578.43,Delayed,860,4,FALSE
+SH11624,Mumbai_Warehouse,Hyderabad,BlueDart,1/7/2025,1/10/2025,12.6,756.05,Delivered,1130,3,FALSE
+SH11625,Ahmedabad_Warehouse,Kolkata,BlueDart,7/21/2025,7/27/2025,7,1046.36,Delivered,2090,6,FALSE
+SH11626,Hyderabad_Warehouse,Nashik,DHL,12/29/2025,1/4/2026,15.1,946.18,Delivered,1870,6,FALSE
+SH11627,Delhi_Warehouse,Kolkata,FedEx,7/30/2025,8/4/2025,8.3,885.76,Delivered,1939,5,FALSE
+SH11628,Ahmedabad_Warehouse,Delhi,Delhivery,8/2/2025,8/4/2025,6.1,385.51,Delayed,631,2,FALSE
+SH11629,Bengaluru_Warehouse,Delhi,Delhivery,5/22/2025,5/26/2025,28.6,1258.99,In Transit,2122,4,FALSE
+SH11630,Ahmedabad_Warehouse,Surat,Delhivery,2/16/2025,2/22/2025,13,794.255,Delivered,2083,6,FALSE
+SH11631,Ahmedabad_Warehouse,Jaipur,BlueDart,7/29/2025,8/2/2025,10.5,697.18,Delivered,1186,4,FALSE
+SH11632,Ahmedabad_Warehouse,Hyderabad,Ecom Express,11/24/2025,11/27/2025,37.2,968.78,Delivered,1387,3,FALSE
+SH11633,Delhi_Warehouse,Delhi,DHL,2/3/2025,2/6/2025,26.3,402.21,Delivered,141,3,FALSE
+SH11634,Bengaluru_Warehouse,Hyderabad,Ecom Express,11/18/2025,11/24/2025,3.3,823.66,Delivered,1913,6,FALSE
+SH11635,Pune_Warehouse,Chennai,Ecom Express,6/1/2025,6/9/2025,23.1,1374.68,Delivered,2405,8,FALSE
+SH11636,Ahmedabad_Warehouse,Pune,XpressBees,7/15/2025,7/19/2025,23,721.67,Delivered,1208,4,FALSE
+SH11637,Pune_Warehouse,Nashik,XpressBees,3/2/2025,3/5/2025,14.6,824.84,Delivered,1374,3,FALSE
+SH11638,Delhi_Warehouse,Delhi,BlueDart,8/15/2025,8/20/2025,14.3,721.24,Delivered,1273,5,FALSE
+SH11639,Bengaluru_Warehouse,Hyderabad,DHL,3/8/2025,3/11/2025,4.9,221.12,Delivered,252,3,FALSE
+SH11640,Hyderabad_Warehouse,Chennai,Delhivery,4/10/2025,4/14/2025,57.6,1214.9,Delivered,1568,4,FALSE
+SH11641,Hyderabad_Warehouse,Nashik,DHL,9/21/2025,9/25/2025,15,985.12,Delayed,1818,4,FALSE
+SH11642,Ahmedabad_Warehouse,Chennai,FedEx,1/19/2025,1/25/2025,22.3,1270.79,Delivered,2324,6,FALSE
+SH11643,Hyderabad_Warehouse,Kolkata,Ecom Express,6/13/2025,6/18/2025,15.6,1248.57,Delivered,2328,5,FALSE
+SH11644,Hyderabad_Warehouse,Hyderabad,Delhivery,8/6/2025,8/11/2025,10.6,774.64,Delivered,1255,5,FALSE
+SH11645,Bengaluru_Warehouse,Surat,Delhivery,2/18/2025,2/24/2025,30.1,1362.1,Delivered,2400,6,FALSE
+SH11646,Delhi_Warehouse,Kolkata,Ecom Express,4/18/2025,4/24/2025,19.6,905.75,Delivered,1345,6,FALSE
+SH11647,Ahmedabad_Warehouse,Chennai,DHL,5/6/2025,5/9/2025,15.1,895.12,Delivered,1623,3,FALSE
+SH11648,Delhi_Warehouse,Bengaluru,Ecom Express,8/31/2025,9/5/2025,22.1,967.61,Delivered,1525,5,FALSE
+SH11649,Bengaluru_Warehouse,Delhi,Delhivery,12/23/2025,12/31/2025,16.6,1293.42,Delivered,2497,8,FALSE
+SH11650,Pune_Warehouse,Kolkata,BlueDart,11/2/2025,11/7/2025,48.8,1244.53,Delayed,1857,5,FALSE
+SH11651,Delhi_Warehouse,Hyderabad,BlueDart,3/11/2025,3/13/2025,29.4,484.35,Delivered,344,2,FALSE
+SH11652,Delhi_Warehouse,Mumbai,Delhivery,1/7/2025,1/9/2025,24.5,410.84,Delivered,226,2,FALSE
+SH11653,Pune_Warehouse,Nagpur,Delhivery,1/19/2025,1/22/2025,5.3,794.255,Delivered,1054,3,FALSE
+SH11654,Hyderabad_Warehouse,Bengaluru,BlueDart,8/6/2025,8/11/2025,25.1,867.52,Delivered,1313,5,FALSE
+SH11655,Hyderabad_Warehouse,Surat,FedEx,2/27/2025,3/3/2025,24.7,1046.5,Delayed,1688,4,FALSE
+SH11656,Hyderabad_Warehouse,Kolkata,FedEx,3/26/2025,3/30/2025,8.4,666.71,Delayed,1230,4,FALSE
+SH11657,Mumbai_Warehouse,Pune,BlueDart,11/6/2025,11/11/2025,5.2,512.91,Delivered,1311,5,FALSE
+SH11658,Pune_Warehouse,Kolkata,FedEx,11/15/2025,11/21/2025,28.7,1386.03,Delivered,2309,6,FALSE
+SH11659,Pune_Warehouse,Surat,Delhivery,11/3/2025,11/6/2025,31,692.53,Delivered,870,3,FALSE
+SH11660,Hyderabad_Warehouse,Chennai,XpressBees,4/3/2025,4/8/2025,11.3,659.55,Delivered,1259,5,FALSE
+SH11661,Ahmedabad_Warehouse,Delhi,DHL,8/15/2025,8/20/2025,10.9,794.255,Delivered,1416,5,FALSE
+SH11662,Delhi_Warehouse,Nagpur,FedEx,8/11/2025,8/14/2025,19.4,729.14,Delivered,1197,3,FALSE
+SH11663,Pune_Warehouse,Kolkata,DHL,3/9/2025,3/14/2025,12.9,1175.94,Delivered,2422,5,FALSE
+SH11664,Bengaluru_Warehouse,Chennai,XpressBees,7/22/2025,7/28/2025,5.2,1095.02,Delivered,2408,6,FALSE
+SH11665,Ahmedabad_Warehouse,Hyderabad,Ecom Express,7/11/2025,7/16/2025,8.3,661.97,Delivered,1307,5,FALSE
+SH11666,Delhi_Warehouse,Nagpur,FedEx,5/25/2025,5/29/2025,21.7,778.27,Delivered,1154,4,FALSE
+SH11667,Pune_Warehouse,Bengaluru,BlueDart,10/2/2025,10/7/2025,8.7,892.68,Delivered,1493,5,FALSE
+SH11668,Bengaluru_Warehouse,Delhi,Ecom Express,9/5/2025,9/7/2025,32,604.19,Delivered,493,2,FALSE
+SH11669,Ahmedabad_Warehouse,Nagpur,XpressBees,7/14/2025,7/17/2025,24.4,808.62,Delayed,1094,3,FALSE
+SH11670,Hyderabad_Warehouse,Hyderabad,Delhivery,9/22/2025,9/26/2025,22.3,492.81,In Transit,581,4,FALSE
+SH11671,Bengaluru_Warehouse,Nashik,FedEx,10/6/2025,10/8/2025,19.1,417.37,Delivered,403,2,FALSE
+SH11672,Hyderabad_Warehouse,Jaipur,Ecom Express,7/26/2025,7/28/2025,10.2,309.02,Delivered,283,2,FALSE
+SH11673,Mumbai_Warehouse,Delhi,Ecom Express,4/8/2025,4/11/2025,26.6,894.78,Delivered,1488,3,FALSE
+SH11674,Hyderabad_Warehouse,Jaipur,Delhivery,10/4/2025,10/5/2025,10,163,In Transit,51,1,FALSE
+SH11675,Mumbai_Warehouse,Bengaluru,DHL,9/19/2025,9/25/2025,33.1,1094.21,Delivered,1633,6,FALSE
+SH11676,Delhi_Warehouse,Kolkata,Ecom Express,12/25/2025,12/28/2025,44.1,980.18,Delivered,1108,3,FALSE
+SH11677,Delhi_Warehouse,Kolkata,DHL,2/24/2025,2/28/2025,19.5,647.62,Delivered,948,4,FALSE
+SH11678,Hyderabad_Warehouse,Hyderabad,XpressBees,6/3/2025,6/6/2025,40.5,1171.22,Delivered,1935,3,FALSE
+SH11679,Pune_Warehouse,Nagpur,XpressBees,12/4/2025,12/8/2025,8.4,710.54,Delivered,1370,4,FALSE
+SH11680,Pune_Warehouse,Nashik,Delhivery,7/7/2025,7/12/2025,24.6,985.57,Delayed,1847,5,FALSE
+SH11681,Ahmedabad_Warehouse,Surat,Delhivery,12/11/2025,12/18/2025,17.5,983.85,Delayed,1788,7,FALSE
+SH11682,Delhi_Warehouse,Nashik,DHL,1/5/2025,1/6/2025,29,394.31,Delivered,128,1,FALSE
+SH11683,Hyderabad_Warehouse,Kolkata,XpressBees,1/13/2025,1/16/2025,3.5,337.62,Delivered,578,3,FALSE
+SH11684,Bengaluru_Warehouse,Kolkata,FedEx,10/18/2025,10/24/2025,27.9,938.18,Delivered,1447,6,FALSE
+SH11685,Bengaluru_Warehouse,Nashik,FedEx,5/11/2025,5/17/2025,11,1221.65,In Transit,2441,6,FALSE
+SH11686,Hyderabad_Warehouse,Mumbai,Ecom Express,7/9/2025,7/11/2025,18.1,427.74,Delivered,428,2,FALSE
+SH11687,Hyderabad_Warehouse,Nagpur,XpressBees,6/6/2025,6/8/2025,57,627.78,Delivered,308,2,FALSE
+SH11688,Ahmedabad_Warehouse,Kolkata,BlueDart,5/29/2025,6/3/2025,25.1,1268.94,Delivered,2356,5,FALSE
+SH11689,Hyderabad_Warehouse,Nagpur,Delhivery,12/9/2025,12/15/2025,23,1314.02,Delivered,2419,6,FALSE
+SH11690,Pune_Warehouse,Mumbai,Delhivery,2/4/2025,2/8/2025,21.8,545.33,Delivered,460,4,FALSE
+SH11691,Pune_Warehouse,Jaipur,FedEx,10/9/2025,10/13/2025,35.3,799.37,Delivered,1034,4,FALSE
+SH11692,Ahmedabad_Warehouse,Bengaluru,Delhivery,11/21/2025,11/26/2025,29.6,1027.6,Delayed,1585,5,FALSE
+SH11693,Delhi_Warehouse,Kolkata,XpressBees,8/28/2025,8/31/2025,22,537.06,Delayed,528,3,FALSE
+SH11694,Pune_Warehouse,Chennai,BlueDart,5/25/2025,5/29/2025,20.2,597.47,Delayed,849,4,FALSE
+SH11695,Mumbai_Warehouse,Chennai,Ecom Express,2/28/2025,3/4/2025,19.3,734.77,Delivered,1018,4,FALSE
+SH11696,Bengaluru_Warehouse,Bengaluru,Ecom Express,9/7/2025,9/11/2025,16.8,970.16,Delivered,1622,4,FALSE
+SH11697,Bengaluru_Warehouse,Delhi,XpressBees,6/21/2025,6/26/2025,7,553.52,Delivered,805,5,FALSE
+SH11698,Hyderabad_Warehouse,Chennai,Ecom Express,2/24/2025,3/1/2025,24.8,761.21,Delivered,1060,5,FALSE
+SH11699,Hyderabad_Warehouse,Pune,XpressBees,5/12/2025,5/16/2025,11.8,628.89,Delivered,759,4,FALSE
+SH11700,Hyderabad_Warehouse,Pune,Ecom Express,12/17/2025,12/22/2025,15.5,980.53,Delivered,1911,5,FALSE
+SH11701,Bengaluru_Warehouse,Mumbai,XpressBees,4/7/2025,4/9/2025,30.9,637.97,Delivered,425,2,FALSE
+SH11702,Ahmedabad_Warehouse,Ahmedabad,Ecom Express,3/7/2025,3/10/2025,17.1,525.91,Delivered,615,3,FALSE
+SH11703,Ahmedabad_Warehouse,Mumbai,XpressBees,9/6/2025,9/9/2025,16.2,569.46,Delivered,662,3,FALSE
+SH11704,Hyderabad_Warehouse,Ahmedabad,XpressBees,3/14/2025,3/19/2025,19.5,1181.55,Delivered,2270,5,FALSE
+SH11705,Delhi_Warehouse,Nashik,XpressBees,12/2/2025,12/9/2025,14.1,1239.18,Delivered,2364,7,FALSE
+SH11706,Pune_Warehouse,Kolkata,Delhivery,11/10/2025,11/15/2025,56.2,1172.1,Delivered,1276,5,FALSE
+SH11707,Mumbai_Warehouse,Hyderabad,Ecom Express,12/25/2025,12/28/2025,51.5,794.255,Delayed,433,3,FALSE
+SH11708,Ahmedabad_Warehouse,Pune,XpressBees,11/30/2025,12/5/2025,50.6,1300.38,Delivered,1903,5,FALSE
+SH11709,Hyderabad_Warehouse,Nagpur,BlueDart,3/30/2025,4/2/2025,21.9,675.9,Delivered,1256,3,FALSE
+SH11710,Ahmedabad_Warehouse,Bengaluru,DHL,3/19/2025,3/25/2025,11.2,1060.83,Delayed,2132,6,FALSE
+SH11711,Hyderabad_Warehouse,Delhi,XpressBees,5/6/2025,5/9/2025,31.4,794.255,Delayed,932,3,FALSE
+SH11712,Delhi_Warehouse,Jaipur,Delhivery,6/21/2025,6/28/2025,14.2,1237.88,Delayed,2498,7,FALSE
+SH11713,Mumbai_Warehouse,Surat,BlueDart,11/18/2025,11/24/2025,33.2,1374.34,Delayed,2027,6,FALSE
+SH11714,Mumbai_Warehouse,Surat,Ecom Express,9/25/2025,9/29/2025,10.9,518.29,In Transit,598,4,FALSE
+SH11715,Hyderabad_Warehouse,Hyderabad,DHL,8/24/2025,8/28/2025,22.9,963.24,Delivered,1828,4,FALSE
+SH11716,Pune_Warehouse,Kolkata,BlueDart,11/17/2025,11/20/2025,36.2,734.53,In Transit,753,3,FALSE
+SH11717,Delhi_Warehouse,Nashik,FedEx,8/24/2025,8/27/2025,14.8,630.68,In Transit,907,3,FALSE
+SH11718,Ahmedabad_Warehouse,Kolkata,FedEx,5/19/2025,5/22/2025,14.7,464.83,Delivered,663,3,FALSE
+SH11719,Delhi_Warehouse,Surat,XpressBees,5/31/2025,6/6/2025,5.7,861.5,Delayed,1722,6,FALSE
+SH11720,Ahmedabad_Warehouse,Ahmedabad,Delhivery,7/8/2025,7/12/2025,11.1,481.01,Delayed,694,4,FALSE
+SH11721,Bengaluru_Warehouse,Ahmedabad,DHL,2/2/2025,2/8/2025,21.6,867.84,Delivered,1615,6,FALSE
+SH11722,Hyderabad_Warehouse,Ahmedabad,BlueDart,9/28/2025,10/3/2025,23.8,845.92,Delayed,1477,5,FALSE
+SH11723,Mumbai_Warehouse,Mumbai,FedEx,8/27/2025,9/1/2025,26.1,1105.13,Delivered,1890,5,FALSE
+SH11724,Delhi_Warehouse,Kolkata,XpressBees,9/24/2025,9/30/2025,4.1,1164.02,Delivered,2485,6,FALSE
+SH11725,Pune_Warehouse,Nagpur,FedEx,7/14/2025,7/15/2025,14.2,191.55,Delivered,71,1,FALSE
+SH11726,Mumbai_Warehouse,Kolkata,BlueDart,10/13/2025,10/21/2025,6.2,1129.35,Delivered,2477,8,FALSE
+SH11727,Ahmedabad_Warehouse,Pune,BlueDart,12/13/2025,12/15/2025,20.9,386.27,Delayed,318,2,FALSE
+SH11728,Bengaluru_Warehouse,Chennai,FedEx,7/28/2025,8/2/2025,4.9,733.61,Delayed,1341,5,FALSE
+SH11729,Delhi_Warehouse,Bengaluru,Ecom Express,6/12/2025,6/16/2025,7.7,512.94,Delivered,885,4,FALSE
+SH11730,Delhi_Warehouse,Chennai,Delhivery,2/8/2025,2/12/2025,29.3,1097.02,In Transit,1616,4,FALSE
+SH11731,Pune_Warehouse,Surat,BlueDart,10/12/2025,10/17/2025,12,907.29,Delivered,1818,5,FALSE
+SH11732,Mumbai_Warehouse,Kolkata,BlueDart,11/26/2025,12/3/2025,40.7,1342.51,In Transit,2157,7,FALSE
+SH11733,Ahmedabad_Warehouse,Kolkata,Ecom Express,9/13/2025,9/17/2025,26.5,720.46,Delivered,1035,4,FALSE
+SH11734,Mumbai_Warehouse,Pune,DHL,11/12/2025,11/18/2025,14.8,1219.26,Delivered,2336,6,FALSE
+SH11735,Delhi_Warehouse,Delhi,XpressBees,11/11/2025,11/14/2025,32.3,664.36,Delivered,840,3,FALSE
+SH11736,Mumbai_Warehouse,Delhi,Delhivery,10/19/2025,10/23/2025,15.7,550.04,Delivered,549,4,FALSE
+SH11737,Ahmedabad_Warehouse,Ahmedabad,FedEx,7/3/2025,7/7/2025,28.2,637.9,Delivered,979,4,FALSE
+SH11738,Pune_Warehouse,Surat,Delhivery,2/6/2025,2/9/2025,10.7,830.2,Delivered,1345,3,FALSE
+SH11739,Delhi_Warehouse,Nagpur,XpressBees,1/2/2025,1/9/2025,33.5,1078.24,Delivered,1687,7,FALSE
+SH11740,Hyderabad_Warehouse,Ahmedabad,FedEx,3/16/2025,3/23/2025,5.2,1032.8,Delivered,2091,7,FALSE
+SH11741,Bengaluru_Warehouse,Chennai,Delhivery,6/7/2025,6/10/2025,7.7,471.27,Delivered,601,3,FALSE
+SH11742,Delhi_Warehouse,Nashik,Delhivery,9/29/2025,10/1/2025,8.7,534.18,Delivered,793,2,FALSE
+SH11743,Bengaluru_Warehouse,Jaipur,Ecom Express,6/16/2025,6/23/2025,11.5,1124.6,Delivered,2350,7,FALSE
+SH11744,Delhi_Warehouse,Ahmedabad,Delhivery,1/9/2025,1/13/2025,22.1,774.19,Delivered,1127,4,FALSE
+SH11745,Pune_Warehouse,Nashik,Ecom Express,3/18/2025,3/20/2025,17.7,602.8,Delivered,642,2,FALSE
+SH11746,Bengaluru_Warehouse,Jaipur,Ecom Express,12/24/2025,12/30/2025,28.4,1307.9,Delivered,2465,6,FALSE
+SH11747,Delhi_Warehouse,Kolkata,XpressBees,12/27/2025,1/3/2026,36.5,989.76,Delivered,1150,7,FALSE
+SH11748,Ahmedabad_Warehouse,Chennai,BlueDart,5/18/2025,5/25/2025,4.8,1176.89,Delivered,2464,7,FALSE
+SH11749,Delhi_Warehouse,Kolkata,Ecom Express,10/21/2025,10/27/2025,39.3,1357.48,Delayed,2303,6,FALSE
+SH11750,Hyderabad_Warehouse,Chennai,FedEx,9/20/2025,9/25/2025,15.5,5000,Delivered,2270,5,FALSE
+SH11751,Pune_Warehouse,Hyderabad,XpressBees,12/6/2025,12/12/2025,50,1112.64,Delayed,1476,6,FALSE
+SH11752,Bengaluru_Warehouse,Mumbai,XpressBees,11/20/2025,11/26/2025,10.4,903.38,In Transit,2006,6,FALSE
+SH11753,Bengaluru_Warehouse,Surat,FedEx,8/18/2025,8/26/2025,3.8,1099.14,Delivered,2404,8,FALSE
+SH11754,Hyderabad_Warehouse,Hyderabad,Delhivery,5/25/2025,5/28/2025,26.7,590.27,Delivered,709,3,FALSE
+SH11755,Delhi_Warehouse,Jaipur,Ecom Express,8/17/2025,8/20/2025,25.6,298.15,Delivered,142,3,FALSE
+SH11756,Hyderabad_Warehouse,Mumbai,DHL,4/27/2025,4/30/2025,7.8,538.55,Delivered,836,3,FALSE
+SH11757,Mumbai_Warehouse,Kolkata,Ecom Express,5/8/2025,5/13/2025,8.4,815.99,Delivered,1611,5,FALSE
+SH11758,Hyderabad_Warehouse,Kolkata,Ecom Express,8/11/2025,8/16/2025,29.8,882.55,Delivered,1391,5,FALSE
+SH11759,Hyderabad_Warehouse,Surat,XpressBees,7/28/2025,7/31/2025,22.8,359.65,Delayed,247,3,FALSE
+SH11760,Delhi_Warehouse,Nashik,FedEx,8/1/2025,8/6/2025,14.4,820.01,In Transit,1424,5,FALSE
+SH11761,Mumbai_Warehouse,Kolkata,Ecom Express,5/21/2025,5/23/2025,24.3,490.92,Delivered,477,2,FALSE
+SH11762,Bengaluru_Warehouse,Jaipur,Ecom Express,5/30/2025,6/3/2025,21.3,763.46,Delivered,1288,4,FALSE
+SH11763,Hyderabad_Warehouse,Pune,DHL,1/4/2025,1/7/2025,9.1,777.88,Delivered,1461,3,FALSE
+SH11764,Delhi_Warehouse,Ahmedabad,Ecom Express,8/8/2025,8/11/2025,31.2,1018.61,Delivered,1610,3,FALSE
+SH11765,Mumbai_Warehouse,Hyderabad,Delhivery,7/30/2025,8/4/2025,27.5,696.7,Delayed,1061,5,FALSE
+SH11766,Delhi_Warehouse,Jaipur,XpressBees,12/8/2025,12/11/2025,18,658.13,Delivered,1050,3,FALSE
+SH11767,Ahmedabad_Warehouse,Pune,DHL,7/4/2025,7/9/2025,29.8,1084.62,Delivered,1713,5,FALSE
+SH11768,Pune_Warehouse,Ahmedabad,XpressBees,6/20/2025,6/26/2025,53.9,1361.74,Delivered,1886,6,FALSE
+SH11769,Bengaluru_Warehouse,Nagpur,Delhivery,1/25/2025,2/1/2025,8.4,990.93,Delivered,2029,7,FALSE
+SH11770,Delhi_Warehouse,Nagpur,FedEx,3/13/2025,3/17/2025,14.9,608.01,Delivered,867,4,FALSE
+SH11771,Hyderabad_Warehouse,Chennai,BlueDart,5/4/2025,5/10/2025,15.4,4200,Delivered,1089,6,FALSE
+SH11772,Delhi_Warehouse,Jaipur,Ecom Express,5/18/2025,5/22/2025,29.4,638.91,Delivered,860,4,FALSE
+SH11773,Delhi_Warehouse,Nagpur,XpressBees,5/13/2025,5/18/2025,11.4,727.14,Delivered,1343,5,FALSE
+SH11774,Bengaluru_Warehouse,Pune,FedEx,5/24/2025,5/27/2025,28.4,555.39,Delayed,361,3,FALSE
+SH11775,Bengaluru_Warehouse,Chennai,XpressBees,10/8/2025,10/11/2025,12.4,658.06,Delivered,1104,3,FALSE
+SH11776,Delhi_Warehouse,Bengaluru,Delhivery,2/17/2025,2/21/2025,7.6,344.49,Delivered,512,4,FALSE
+SH11777,Pune_Warehouse,Ahmedabad,FedEx,5/2/2025,5/4/2025,18.7,892.56,Delivered,1354,2,FALSE
+SH11778,Mumbai_Warehouse,Ahmedabad,Delhivery,3/1/2025,3/6/2025,12.2,1064.2,Delivered,2134,5,FALSE
+SH11779,Hyderabad_Warehouse,Surat,Ecom Express,4/23/2025,4/30/2025,20,1408.21,Delayed,2465,7,FALSE
+SH11780,Delhi_Warehouse,Delhi,DHL,9/7/2025,9/10/2025,23.2,729.14,Delivered,1143,3,FALSE
+SH11781,Bengaluru_Warehouse,Bengaluru,DHL,1/18/2025,1/20/2025,5.1,146.66,Delivered,188,2,FALSE
+SH11782,Delhi_Warehouse,Chennai,DHL,5/4/2025,5/9/2025,13.3,439.26,Delivered,608,5,FALSE
+SH11783,Ahmedabad_Warehouse,Jaipur,Delhivery,1/9/2025,1/12/2025,18.7,353.77,Delivered,306,3,FALSE
+SH11784,Hyderabad_Warehouse,Delhi,DHL,12/15/2025,12/20/2025,29.9,1092.35,In Transit,1911,5,FALSE
+SH11785,Delhi_Warehouse,Bengaluru,XpressBees,9/23/2025,9/29/2025,27.6,1492.17,Delivered,2463,6,FALSE
+SH11786,Pune_Warehouse,Chennai,DHL,3/30/2025,4/2/2025,9.7,770.91,Delivered,1407,3,FALSE
+SH11787,Hyderabad_Warehouse,Kolkata,DHL,3/14/2025,3/17/2025,15.9,443.54,Delivered,483,3,FALSE
+SH11788,Mumbai_Warehouse,Pune,FedEx,2/6/2025,2/8/2025,24,301.02,Delivered,101,2,FALSE
+SH11789,Mumbai_Warehouse,Bengaluru,Ecom Express,6/22/2025,6/27/2025,15.2,1203.07,Delivered,2442,5,FALSE
+SH11790,Mumbai_Warehouse,Chennai,XpressBees,10/3/2025,10/6/2025,10.4,571.31,Delivered,825,3,FALSE
+SH11791,Delhi_Warehouse,Pune,FedEx,8/2/2025,8/5/2025,17.3,270.96,Delivered,324,3,FALSE
+SH11792,Delhi_Warehouse,Nashik,Delhivery,11/18/2025,11/22/2025,22.6,412.1,Delivered,483,4,FALSE
+SH11793,Pune_Warehouse,Pune,Ecom Express,5/6/2025,5/9/2025,9,426.4,Delayed,675,3,FALSE
+SH11794,Pune_Warehouse,Ahmedabad,Ecom Express,4/12/2025,4/17/2025,25.7,1068.7,Delivered,1657,5,FALSE
+SH11795,Pune_Warehouse,Hyderabad,DHL,6/24/2025,7/2/2025,19.5,1163.85,Delivered,2235,8,FALSE
+SH11796,Delhi_Warehouse,Delhi,XpressBees,3/15/2025,3/18/2025,26.3,630.52,Delivered,724,3,FALSE
+SH11797,Pune_Warehouse,Pune,XpressBees,12/23/2025,12/29/2025,17,954.31,Delivered,1734,6,FALSE
+SH11798,Bengaluru_Warehouse,Jaipur,Ecom Express,3/9/2025,3/11/2025,48.9,654.72,Delivered,209,2,FALSE
+SH11799,Delhi_Warehouse,Chennai,Delhivery,6/24/2025,6/26/2025,22.3,213.47,Delivered,74,2,FALSE
+SH11800,Ahmedabad_Warehouse,Nashik,BlueDart,7/10/2025,7/11/2025,28.3,438.31,Delivered,184,1,FALSE
+SH11801,Ahmedabad_Warehouse,Jaipur,XpressBees,1/21/2025,1/27/2025,25.7,1258.55,Delivered,2312,6,FALSE
+SH11802,Bengaluru_Warehouse,Chennai,XpressBees,6/20/2025,6/24/2025,15.8,884.67,Delivered,1475,4,FALSE
+SH11803,Bengaluru_Warehouse,Ahmedabad,Delhivery,6/15/2025,6/20/2025,21,1063.1,Delivered,2023,5,FALSE
+SH11804,Mumbai_Warehouse,Ahmedabad,Ecom Express,4/5/2025,4/8/2025,11.6,223.2,In Transit,103,3,FALSE
+SH11805,Bengaluru_Warehouse,Nashik,BlueDart,2/16/2025,2/17/2025,46.7,514.99,Delayed,104,1,FALSE
+SH11806,Delhi_Warehouse,Surat,Ecom Express,1/17/2025,1/24/2025,23.9,1122.62,Delivered,2130,7,FALSE
+SH11807,Pune_Warehouse,Surat,DHL,1/4/2025,1/8/2025,10,221,In Transit,301,4,FALSE
+SH11808,Hyderabad_Warehouse,Nagpur,XpressBees,6/25/2025,6/28/2025,40.3,571.23,Delivered,430,3,FALSE
+SH11809,Mumbai_Warehouse,Kolkata,Delhivery,2/2/2025,2/7/2025,16.3,780.52,Delivered,1321,5,FALSE
+SH11810,Pune_Warehouse,Jaipur,Delhivery,12/17/2025,12/22/2025,30.8,945.29,Delayed,1536,5,FALSE
+SH11811,Hyderabad_Warehouse,Jaipur,FedEx,3/31/2025,4/3/2025,5,360.55,Delivered,610,3,FALSE
+SH11812,Ahmedabad_Warehouse,Chennai,Delhivery,8/27/2025,9/1/2025,35.8,758.96,Delivered,1139,5,FALSE
+SH11813,Bengaluru_Warehouse,Mumbai,DHL,9/3/2025,9/10/2025,23.3,973.34,Delivered,1704,7,FALSE
+SH11814,Bengaluru_Warehouse,Nashik,XpressBees,6/30/2025,7/3/2025,9.4,692.9,Delivered,1135,3,FALSE
+SH11815,Ahmedabad_Warehouse,Nashik,Ecom Express,11/19/2025,11/22/2025,23,728.82,Delivered,987,3,FALSE
+SH11816,Mumbai_Warehouse,Jaipur,BlueDart,2/10/2025,2/11/2025,43.9,542.87,Delivered,225,1,FALSE
+SH11817,Delhi_Warehouse,Nashik,XpressBees,3/27/2025,4/1/2025,11.9,680.49,Delivered,1157,5,FALSE
+SH11818,Pune_Warehouse,Bengaluru,Ecom Express,4/3/2025,4/10/2025,11.8,981.89,Delivered,2017,7,FALSE
+SH11819,Delhi_Warehouse,Hyderabad,DHL,2/19/2025,2/23/2025,15.6,968.06,Delivered,1586,4,FALSE
+SH11820,Ahmedabad_Warehouse,Nagpur,DHL,4/18/2025,4/22/2025,18.6,1291.79,Delivered,2238,4,FALSE
+SH11821,Bengaluru_Warehouse,Ahmedabad,FedEx,4/25/2025,4/27/2025,32.1,512.7,Delayed,359,2,FALSE
+SH11822,Ahmedabad_Warehouse,Mumbai,DHL,10/7/2025,10/9/2025,24.1,459.68,Delivered,77,2,FALSE
+SH11823,Bengaluru_Warehouse,Nagpur,Delhivery,4/21/2025,4/25/2025,15.6,760.25,Delivered,1393,4,FALSE
+SH11824,Ahmedabad_Warehouse,Hyderabad,Delhivery,11/16/2025,11/19/2025,21.6,399.33,Delivered,487,3,FALSE
+SH11825,Pune_Warehouse,Pune,Delhivery,10/10/2025,10/14/2025,48.3,1083.62,Delivered,1505,4,FALSE
+SH11826,Pune_Warehouse,Jaipur,DHL,11/26/2025,12/3/2025,26.8,1247.03,Delivered,2265,7,FALSE
+SH11827,Pune_Warehouse,Delhi,XpressBees,2/8/2025,2/12/2025,16.7,717.03,Delivered,876,4,FALSE
+SH11828,Hyderabad_Warehouse,Hyderabad,XpressBees,12/26/2025,12/31/2025,15.3,780.91,Delivered,1396,5,FALSE
+SH11829,Bengaluru_Warehouse,Surat,Delhivery,8/13/2025,8/18/2025,20.8,931.92,Delivered,1720,5,FALSE
+SH11830,Pune_Warehouse,Nashik,DHL,12/25/2025,12/28/2025,31.9,476.87,In Transit,417,3,FALSE
+SH11831,Pune_Warehouse,Kolkata,BlueDart,5/10/2025,5/17/2025,10.7,1178.23,Delivered,2249,7,FALSE
+SH11832,Delhi_Warehouse,Hyderabad,Ecom Express,12/14/2025,12/16/2025,29.2,612.79,Delivered,547,2,FALSE
+SH11833,Mumbai_Warehouse,Surat,Ecom Express,8/3/2025,8/9/2025,16.5,1046.57,Delivered,2031,6,FALSE
+SH11834,Hyderabad_Warehouse,Kolkata,FedEx,1/27/2025,2/2/2025,18.2,831.67,Delivered,1667,6,FALSE
+SH11835,Ahmedabad_Warehouse,Chennai,Ecom Express,5/30/2025,6/3/2025,72.2,797.53,Delivered,395,4,FALSE
+SH11836,Ahmedabad_Warehouse,Nashik,XpressBees,2/20/2025,2/26/2025,27.3,1173.64,In Transit,1826,6,FALSE
+SH11837,Pune_Warehouse,Chennai,Delhivery,12/10/2025,12/12/2025,12.5,447.15,Delayed,531,2,FALSE
+SH11838,Delhi_Warehouse,Bengaluru,BlueDart,4/22/2025,4/26/2025,23.2,918.78,In Transit,1519,4,FALSE
+SH11839,Bengaluru_Warehouse,Kolkata,Delhivery,3/23/2025,3/29/2025,32.9,1471.28,Delivered,2402,6,FALSE
+SH11840,Delhi_Warehouse,Surat,DHL,7/21/2025,7/28/2025,27.5,1423.58,Delivered,2386,7,FALSE
+SH11841,Delhi_Warehouse,Jaipur,Delhivery,6/5/2025,6/11/2025,3.3,1023.77,Delivered,2185,6,FALSE
+SH11842,Pune_Warehouse,Kolkata,DHL,2/5/2025,2/8/2025,17.7,758.68,In Transit,1260,3,FALSE
+SH11843,Mumbai_Warehouse,Ahmedabad,DHL,10/26/2025,10/30/2025,23.9,847.96,Delivered,1421,4,FALSE
+SH11844,Delhi_Warehouse,Mumbai,Delhivery,11/5/2025,11/6/2025,22.7,587,Delivered,785,1,FALSE
+SH11845,Mumbai_Warehouse,Kolkata,Delhivery,9/29/2025,10/3/2025,13.2,1079.39,Delivered,2307,4,FALSE
+SH11846,Mumbai_Warehouse,Ahmedabad,XpressBees,8/14/2025,8/18/2025,27.8,794.255,Delivered,1219,4,FALSE
+SH11847,Bengaluru_Warehouse,Mumbai,Delhivery,5/27/2025,6/4/2025,35.9,1105.62,Delayed,1941,8,FALSE
+SH11848,Ahmedabad_Warehouse,Mumbai,XpressBees,7/17/2025,7/22/2025,5.2,574.86,Delivered,931,5,FALSE
+SH11849,Bengaluru_Warehouse,Nagpur,Ecom Express,7/10/2025,7/15/2025,4.8,817.8,Delivered,1864,5,FALSE
+SH11850,Mumbai_Warehouse,Surat,BlueDart,3/2/2025,3/5/2025,23.1,635.6,Delivered,600,3,FALSE
+SH11851,Ahmedabad_Warehouse,Nagpur,XpressBees,1/30/2025,2/3/2025,29.3,1065.04,Delivered,1848,4,FALSE
+SH11852,Hyderabad_Warehouse,Hyderabad,BlueDart,4/3/2025,4/4/2025,11.9,344.74,Delivered,162,1,FALSE
+SH11853,Pune_Warehouse,Delhi,Delhivery,6/15/2025,6/16/2025,3.4,217.34,Delivered,306,1,FALSE
+SH11854,Pune_Warehouse,Hyderabad,DHL,2/28/2025,3/3/2025,17.9,529.47,Delivered,913,3,FALSE
+SH11855,Ahmedabad_Warehouse,Delhi,FedEx,2/8/2025,2/12/2025,22.9,862.28,Delivered,1231,4,FALSE
+SH11856,Delhi_Warehouse,Delhi,Delhivery,11/7/2025,11/13/2025,14.8,1035.96,In Transit,1793,6,FALSE
+SH11857,Mumbai_Warehouse,Pune,FedEx,5/17/2025,5/21/2025,33.4,704.67,Delivered,930,4,FALSE
+SH11858,Pune_Warehouse,Ahmedabad,Delhivery,8/2/2025,8/4/2025,22,288.66,Delivered,95,2,FALSE
+SH11859,Pune_Warehouse,Nashik,DHL,7/11/2025,7/14/2025,11,479.42,Delivered,847,3,FALSE
+SH11860,Delhi_Warehouse,Pune,FedEx,9/26/2025,9/29/2025,11.9,647.44,Delivered,1126,3,FALSE
+SH11861,Delhi_Warehouse,Delhi,Delhivery,9/28/2025,10/1/2025,18.1,820.22,Delivered,1382,3,FALSE
+SH11862,Bengaluru_Warehouse,Chennai,Delhivery,4/19/2025,4/23/2025,14.1,864.28,Delivered,1628,4,FALSE
+SH11863,Pune_Warehouse,Ahmedabad,XpressBees,11/6/2025,11/10/2025,4.6,295,Delivered,657,4,FALSE
+SH11864,Bengaluru_Warehouse,Hyderabad,XpressBees,5/16/2025,5/20/2025,20.8,874.17,Delivered,1546,4,FALSE
+SH11865,Delhi_Warehouse,Jaipur,Ecom Express,11/1/2025,11/4/2025,12.1,892.7,Delivered,1598,3,FALSE
+SH11866,Ahmedabad_Warehouse,Ahmedabad,DHL,5/28/2025,6/3/2025,13.5,1003.52,Delivered,1953,6,FALSE
+SH11867,Hyderabad_Warehouse,Hyderabad,Delhivery,2/10/2025,2/13/2025,8.3,690.72,Delivered,1329,3,FALSE
+SH11868,Pune_Warehouse,Kolkata,FedEx,10/5/2025,10/12/2025,44.6,1263.03,Delivered,2036,7,FALSE
+SH11869,Mumbai_Warehouse,Nagpur,FedEx,1/12/2025,1/14/2025,26.3,519.06,Delivered,593,2,FALSE
+SH11870,Bengaluru_Warehouse,Nashik,FedEx,10/9/2025,10/15/2025,51.4,1347.87,Delivered,1794,6,FALSE
+SH11871,Delhi_Warehouse,Chennai,BlueDart,1/16/2025,1/19/2025,14.7,210.3,Delayed,162,3,FALSE
+SH11872,Ahmedabad_Warehouse,Nashik,DHL,3/17/2025,3/18/2025,27.3,478.12,Delivered,301,1,FALSE
+SH11873,Delhi_Warehouse,Mumbai,Delhivery,8/9/2025,8/15/2025,21,1172.07,Delayed,2169,6,FALSE
+SH11874,Pune_Warehouse,Hyderabad,DHL,12/10/2025,12/15/2025,11.3,699.39,Delivered,1214,5,FALSE
+SH11875,Delhi_Warehouse,Bengaluru,Delhivery,5/30/2025,6/4/2025,14.6,794.255,Delayed,1571,5,FALSE
+SH11876,Ahmedabad_Warehouse,Chennai,Delhivery,2/14/2025,2/19/2025,26.3,925.96,Delivered,1528,5,FALSE
+SH11877,Mumbai_Warehouse,Nagpur,FedEx,3/27/2025,3/31/2025,8.3,886.5,Delivered,1753,4,FALSE
+SH11878,Ahmedabad_Warehouse,Mumbai,DHL,11/24/2025,11/28/2025,33.6,610.38,Delivered,651,4,FALSE
+SH11879,Pune_Warehouse,Hyderabad,Ecom Express,9/23/2025,9/25/2025,19.9,471.5,Delivered,486,2,FALSE
+SH11880,Ahmedabad_Warehouse,Chennai,Ecom Express,2/6/2025,2/8/2025,30.9,432.49,Delayed,154,2,FALSE
+SH11881,Bengaluru_Warehouse,Nagpur,FedEx,5/21/2025,5/28/2025,23,1305.98,Delivered,2169,7,FALSE
+SH11882,Bengaluru_Warehouse,Ahmedabad,XpressBees,4/7/2025,4/10/2025,5.2,390.66,Delivered,598,3,FALSE
+SH11883,Pune_Warehouse,Jaipur,FedEx,3/6/2025,3/11/2025,17.7,738.06,Delivered,1459,5,FALSE
+SH11884,Hyderabad_Warehouse,Ahmedabad,XpressBees,11/5/2025,11/10/2025,34,921.85,Delivered,1164,5,FALSE
+SH11885,Bengaluru_Warehouse,Nashik,DHL,8/14/2025,8/17/2025,19.7,423.98,Delivered,447,3,FALSE
+SH11886,Delhi_Warehouse,Ahmedabad,Delhivery,3/7/2025,3/12/2025,18,790.54,Delayed,1064,5,FALSE
+SH11887,Delhi_Warehouse,Nagpur,DHL,8/26/2025,8/28/2025,19.7,434.61,Delivered,253,2,FALSE
+SH11888,Bengaluru_Warehouse,Mumbai,FedEx,5/31/2025,6/3/2025,4.3,291.62,Delivered,483,3,FALSE
+SH11889,Delhi_Warehouse,Nagpur,BlueDart,1/23/2025,1/26/2025,36.2,592.04,Delivered,392,3,FALSE
+SH11890,Ahmedabad_Warehouse,Nashik,DHL,6/14/2025,6/19/2025,2.8,940.53,In Transit,2070,5,FALSE
+SH11891,Mumbai_Warehouse,Mumbai,BlueDart,3/9/2025,3/12/2025,40.9,1032.6,Delivered,1440,3,FALSE
+SH11892,Pune_Warehouse,Chennai,FedEx,3/31/2025,4/7/2025,14,1209.74,Delivered,2318,7,FALSE
+SH11893,Ahmedabad_Warehouse,Bengaluru,DHL,11/17/2025,11/21/2025,24,814.78,Delayed,1118,4,FALSE
+SH11894,Hyderabad_Warehouse,Bengaluru,XpressBees,9/17/2025,9/19/2025,4,391.3,Delivered,543,2,FALSE
+SH11895,Delhi_Warehouse,Jaipur,XpressBees,2/18/2025,2/23/2025,29.1,978.69,Delivered,1541,5,FALSE
+SH11896,Bengaluru_Warehouse,Ahmedabad,XpressBees,11/7/2025,11/15/2025,26,1415.35,Delivered,2328,8,FALSE
+SH11897,Mumbai_Warehouse,Jaipur,DHL,7/29/2025,8/1/2025,25.1,842.37,Delivered,1355,3,FALSE
+SH11898,Pune_Warehouse,Surat,BlueDart,11/16/2025,11/19/2025,3.9,63.81,In Transit,93,3,FALSE
+SH11899,Ahmedabad_Warehouse,Jaipur,FedEx,9/30/2025,10/1/2025,10.3,423.22,Delayed,794,1,FALSE
+SH11900,Bengaluru_Warehouse,Mumbai,FedEx,5/4/2025,5/10/2025,23,1329.71,Delivered,2317,6,FALSE
+SH11901,Mumbai_Warehouse,Nashik,BlueDart,7/15/2025,7/21/2025,35.6,932.78,In Transit,1320,6,FALSE
+SH11902,Hyderabad_Warehouse,Hyderabad,Delhivery,7/13/2025,7/19/2025,9.2,1167.81,Delivered,2383,6,FALSE
+SH11903,Delhi_Warehouse,Hyderabad,BlueDart,9/20/2025,9/24/2025,9.4,675.22,Delayed,1298,4,FALSE
+SH11904,Bengaluru_Warehouse,Bengaluru,FedEx,4/1/2025,4/4/2025,22.1,276.13,Delivered,79,3,FALSE
+SH11905,Ahmedabad_Warehouse,Nashik,XpressBees,5/2/2025,5/7/2025,68.3,1536.64,Delivered,2189,5,FALSE
+SH11906,Ahmedabad_Warehouse,Pune,XpressBees,3/31/2025,4/6/2025,11.5,1010.06,Delivered,1920,6,FALSE
+SH11907,Mumbai_Warehouse,Pune,FedEx,4/19/2025,4/24/2025,13.9,794.255,Delivered,1803,5,FALSE
+SH11908,Delhi_Warehouse,Surat,FedEx,2/28/2025,3/8/2025,12.5,1229.52,Delivered,2427,8,FALSE
+SH11909,Pune_Warehouse,Bengaluru,Delhivery,1/14/2025,1/16/2025,16.5,461.52,Delivered,530,2,FALSE
+SH11910,Ahmedabad_Warehouse,Surat,BlueDart,12/10/2025,12/16/2025,37.4,1327.88,Delivered,2270,6,FALSE
+SH11911,Hyderabad_Warehouse,Bengaluru,XpressBees,1/28/2025,1/30/2025,17.1,405.52,Delivered,620,2,FALSE
+SH11912,Bengaluru_Warehouse,Delhi,BlueDart,11/21/2025,11/27/2025,72.3,1629.71,Delivered,2429,6,FALSE
+SH11913,Mumbai_Warehouse,Hyderabad,DHL,1/2/2025,1/6/2025,19.3,628.5,Delivered,519,4,FALSE
+SH11914,Hyderabad_Warehouse,Surat,DHL,10/11/2025,10/16/2025,39.6,1085.06,Delivered,1398,5,FALSE
+SH11915,Bengaluru_Warehouse,Ahmedabad,DHL,4/30/2025,5/5/2025,14.6,1111.09,Delayed,1984,5,FALSE
+SH11916,Pune_Warehouse,Mumbai,BlueDart,7/8/2025,7/10/2025,7,203.62,Delivered,241,2,FALSE
+SH11917,Delhi_Warehouse,Delhi,FedEx,4/14/2025,4/16/2025,17.1,315.33,In Transit,213,2,FALSE
+SH11918,Delhi_Warehouse,Surat,XpressBees,6/29/2025,7/5/2025,25.3,1145.65,Delayed,2132,6,FALSE
+SH11919,Pune_Warehouse,Pune,XpressBees,6/14/2025,6/15/2025,10.3,178.55,Delivered,198,1,FALSE
+SH11920,Ahmedabad_Warehouse,Kolkata,DHL,7/13/2025,7/18/2025,35.8,1004.6,Delivered,1554,5,FALSE
+SH11921,Ahmedabad_Warehouse,Surat,XpressBees,5/24/2025,5/30/2025,12.9,1249.17,Delivered,2349,6,FALSE
+SH11922,Mumbai_Warehouse,Nashik,Delhivery,7/15/2025,7/19/2025,8.3,850.31,Delayed,1556,4,FALSE
+SH11923,Ahmedabad_Warehouse,Ahmedabad,FedEx,10/29/2025,11/2/2025,64.1,1087.26,Delivered,1228,4,FALSE
+SH11924,Delhi_Warehouse,Jaipur,BlueDart,6/8/2025,6/12/2025,10,597.93,In Transit,1072,4,FALSE
+SH11925,Hyderabad_Warehouse,Chennai,BlueDart,5/12/2025,5/16/2025,12.7,907.03,Delayed,1614,4,FALSE
+SH11926,Hyderabad_Warehouse,Chennai,FedEx,2/18/2025,2/22/2025,28,896.02,Delivered,1451,4,FALSE
+SH11927,Bengaluru_Warehouse,Mumbai,XpressBees,5/12/2025,5/18/2025,14.3,743.11,Delivered,1279,6,FALSE
+SH11928,Hyderabad_Warehouse,Delhi,DHL,2/15/2025,2/19/2025,8.5,353.27,Delivered,426,4,FALSE
+SH11929,Hyderabad_Warehouse,Surat,DHL,3/8/2025,3/12/2025,11.8,904.88,Delivered,1674,4,FALSE
+SH11930,Ahmedabad_Warehouse,Bengaluru,FedEx,12/14/2025,12/19/2025,53.5,1331.19,Delayed,1863,5,FALSE
+SH11931,Delhi_Warehouse,Nashik,DHL,2/2/2025,2/6/2025,25.9,1014.74,Delivered,1787,4,FALSE
+SH11932,Hyderabad_Warehouse,Jaipur,DHL,6/25/2025,6/28/2025,29.2,395.76,Delivered,233,3,FALSE
+SH11933,Ahmedabad_Warehouse,Nashik,BlueDart,11/1/2025,11/6/2025,21.4,943.79,Delivered,1772,5,FALSE
+SH11934,Ahmedabad_Warehouse,Pune,BlueDart,12/14/2025,12/20/2025,23.8,968.39,Delayed,1838,6,FALSE
+SH11935,Mumbai_Warehouse,Chennai,DHL,2/23/2025,2/27/2025,13.5,398.02,Delivered,499,4,FALSE
+SH11936,Delhi_Warehouse,Pune,Ecom Express,3/1/2025,3/7/2025,19.7,1186.94,Delayed,2130,6,FALSE
+SH11937,Bengaluru_Warehouse,Kolkata,XpressBees,5/16/2025,5/21/2025,3.6,594.54,Delivered,1333,5,FALSE
+SH11938,Bengaluru_Warehouse,Nashik,Ecom Express,7/22/2025,7/27/2025,32.7,880.32,Delivered,1208,5,FALSE
+SH11939,Bengaluru_Warehouse,Pune,Delhivery,12/17/2025,12/22/2025,13.4,1001.87,Delayed,1821,5,FALSE
+SH11940,Ahmedabad_Warehouse,Nagpur,XpressBees,3/17/2025,3/22/2025,7.5,588.31,Delivered,1299,5,FALSE
+SH11941,Bengaluru_Warehouse,Nashik,BlueDart,3/2/2025,3/6/2025,20.4,820.22,Delivered,1385,4,FALSE
+SH11942,Hyderabad_Warehouse,Bengaluru,BlueDart,4/3/2025,4/8/2025,15.7,646.29,Delivered,815,5,FALSE
+SH11943,Ahmedabad_Warehouse,Bengaluru,DHL,11/16/2025,11/22/2025,32,1358.44,Delivered,2324,6,FALSE
+SH11944,Mumbai_Warehouse,Ahmedabad,Ecom Express,1/11/2025,1/17/2025,17.4,1143.94,Delivered,2426,6,FALSE
+SH11945,Bengaluru_Warehouse,Hyderabad,DHL,5/19/2025,5/20/2025,11.6,369.79,Delivered,369,1,FALSE
+SH11946,Delhi_Warehouse,Nashik,Delhivery,2/13/2025,2/18/2025,17.7,964.64,Delivered,1846,5,FALSE
+SH11947,Ahmedabad_Warehouse,Nashik,Ecom Express,2/27/2025,3/1/2025,42.4,523.36,Delivered,107,2,FALSE
+SH11948,Bengaluru_Warehouse,Nashik,FedEx,12/1/2025,12/2/2025,32.6,719.83,Delivered,954,1,FALSE
+SH11949,Bengaluru_Warehouse,Mumbai,Delhivery,1/1/2025,1/7/2025,25.8,1315.72,Delivered,2427,6,FALSE
+SH11950,Hyderabad_Warehouse,Jaipur,FedEx,4/28/2025,4/30/2025,33.5,535.95,Delivered,478,2,FALSE
+SH11951,Pune_Warehouse,Hyderabad,BlueDart,12/1/2025,12/5/2025,27.1,719.6,In Transit,974,4,FALSE
+SH11952,Bengaluru_Warehouse,Pune,Delhivery,8/10/2025,8/13/2025,9.4,375.66,Delivered,588,3,FALSE
+SH11953,Hyderabad_Warehouse,Delhi,FedEx,1/27/2025,2/1/2025,29.3,1087.04,Delivered,1834,5,FALSE
+SH11954,Hyderabad_Warehouse,Nagpur,Ecom Express,6/19/2025,6/23/2025,36,819.88,Delivered,1187,4,FALSE
+SH11955,Pune_Warehouse,Delhi,BlueDart,12/21/2025,12/25/2025,37.3,1055.3,Delayed,1503,4,FALSE
+SH11956,Ahmedabad_Warehouse,Bengaluru,BlueDart,5/27/2025,6/4/2025,8,1148.84,Delayed,2360,8,FALSE
+SH11957,Mumbai_Warehouse,Nagpur,Ecom Express,7/12/2025,7/16/2025,12.7,656.38,Delayed,1327,4,FALSE
+SH11958,Pune_Warehouse,Nagpur,FedEx,7/14/2025,7/19/2025,11.4,1008.09,Delayed,1849,5,FALSE
+SH11959,Ahmedabad_Warehouse,Nagpur,BlueDart,8/30/2025,8/31/2025,14.5,314.93,Delivered,289,1,FALSE
+SH11960,Bengaluru_Warehouse,Bengaluru,XpressBees,3/10/2025,3/12/2025,24.1,536.09,In Transit,577,2,FALSE
+SH11961,Bengaluru_Warehouse,Hyderabad,BlueDart,11/3/2025,11/10/2025,900,1288.3,Delivered,2370,7,FALSE
+SH11962,Bengaluru_Warehouse,Kolkata,DHL,12/27/2025,1/2/2026,20.1,1174.42,Delayed,2156,6,FALSE
+SH11963,Ahmedabad_Warehouse,Kolkata,FedEx,2/22/2025,2/28/2025,6.5,896.12,Delayed,1659,6,FALSE
+SH11964,Pune_Warehouse,Mumbai,XpressBees,10/26/2025,10/31/2025,12.4,579.19,Delayed,976,5,FALSE
+SH11965,Pune_Warehouse,Kolkata,Ecom Express,10/26/2025,10/31/2025,39,694.77,Delivered,539,5,FALSE
+SH11966,Delhi_Warehouse,Kolkata,Ecom Express,9/28/2025,10/4/2025,35.9,1289.45,Delayed,2137,6,FALSE
+SH11967,Ahmedabad_Warehouse,Surat,FedEx,5/16/2025,5/21/2025,17.2,1083.2,Delivered,1974,5,FALSE
+SH11968,Bengaluru_Warehouse,Delhi,XpressBees,6/21/2025,6/23/2025,29.4,621.74,Delivered,642,2,FALSE
+SH11969,Hyderabad_Warehouse,Ahmedabad,BlueDart,11/3/2025,11/8/2025,22.7,969.09,Delivered,1495,5,FALSE
+SH11970,Hyderabad_Warehouse,Mumbai,Ecom Express,2/25/2025,3/2/2025,31.4,1044.3,Delivered,1566,5,FALSE
+SH11971,Ahmedabad_Warehouse,Pune,XpressBees,10/30/2025,11/4/2025,30.2,824.74,Delivered,1220,5,FALSE
+SH11972,Delhi_Warehouse,Ahmedabad,FedEx,12/3/2025,12/8/2025,18.1,1173.4,Delivered,2321,5,FALSE
+SH11973,Delhi_Warehouse,Nashik,XpressBees,9/6/2025,9/9/2025,25.9,446.09,Delivered,354,3,FALSE
+SH11974,Mumbai_Warehouse,Nashik,Delhivery,5/5/2025,5/8/2025,23.7,526.08,Delivered,682,3,FALSE
+SH11975,Mumbai_Warehouse,Delhi,Ecom Express,7/24/2025,7/26/2025,18.4,296.97,Delivered,282,2,FALSE
+SH11976,Delhi_Warehouse,Hyderabad,Ecom Express,1/19/2025,1/24/2025,15.9,832.27,Delivered,1748,5,FALSE
+SH11977,Hyderabad_Warehouse,Pune,FedEx,12/7/2025,12/13/2025,49,1095.05,Delivered,1628,6,FALSE
+SH11978,Ahmedabad_Warehouse,Chennai,Ecom Express,5/5/2025,5/13/2025,18.5,1383.43,Delivered,2469,8,FALSE
+SH11979,Delhi_Warehouse,Nagpur,FedEx,1/21/2025,1/24/2025,28.2,794.255,Delayed,1379,3,FALSE
+SH11980,Bengaluru_Warehouse,Chennai,FedEx,10/17/2025,10/20/2025,46.7,757.62,Delivered,419,3,FALSE
+SH11981,Hyderabad_Warehouse,Surat,DHL,8/29/2025,8/30/2025,25.9,807.42,Delivered,1155,1,FALSE
+SH11982,Pune_Warehouse,Jaipur,FedEx,8/16/2025,8/19/2025,25.2,403.18,Delivered,266,3,FALSE
+SH11983,Mumbai_Warehouse,Bengaluru,XpressBees,1/20/2025,1/23/2025,18.5,866.2,Delivered,1694,3,FALSE
+SH11984,Ahmedabad_Warehouse,Surat,FedEx,10/2/2025,10/7/2025,24,999.1,Delivered,1702,5,FALSE
+SH11985,Bengaluru_Warehouse,Ahmedabad,BlueDart,8/21/2025,8/26/2025,15,1215.41,Delivered,2152,5,FALSE
+SH11986,Mumbai_Warehouse,Hyderabad,BlueDart,10/17/2025,10/20/2025,78,1199.11,Delivered,882,3,FALSE
+SH11987,Pune_Warehouse,Bengaluru,Ecom Express,10/29/2025,11/2/2025,6.6,491.38,Delivered,810,4,FALSE
+SH11988,Pune_Warehouse,Mumbai,Delhivery,3/19/2025,3/20/2025,16.6,252,Delivered,224,1,FALSE
+SH11989,Pune_Warehouse,Surat,Delhivery,3/18/2025,3/22/2025,26.2,698.2,Delivered,1067,4,FALSE
+SH11990,Delhi_Warehouse,Chennai,XpressBees,12/4/2025,12/8/2025,25.2,757.19,Delayed,1214,4,FALSE
+SH11991,Hyderabad_Warehouse,Nagpur,BlueDart,7/13/2025,7/20/2025,15,1075.38,Delivered,1899,7,FALSE
+SH11992,Hyderabad_Warehouse,Nashik,Ecom Express,6/9/2025,6/15/2025,4.9,1008.13,Delivered,1897,6,FALSE
+SH11993,Ahmedabad_Warehouse,Surat,XpressBees,4/15/2025,4/16/2025,7.4,318.73,Delivered,393,1,FALSE
+SH11994,Ahmedabad_Warehouse,Nashik,Ecom Express,8/22/2025,8/25/2025,21,555.99,Delivered,748,3,FALSE
+SH11995,Pune_Warehouse,Nashik,DHL,10/3/2025,10/9/2025,3.8,744.74,Delivered,1303,6,FALSE
+SH11996,Mumbai_Warehouse,Mumbai,FedEx,1/1/2025,1/5/2025,27.3,624.05,Delivered,871,4,FALSE
+SH11997,Mumbai_Warehouse,Delhi,Delhivery,7/21/2025,7/22/2025,37.8,451.19,Delivered,112,1,FALSE
+SH11998,Hyderabad_Warehouse,Delhi,BlueDart,12/29/2025,1/4/2026,30.5,1255.95,Delivered,2122,6,FALSE
+SH11999,Delhi_Warehouse,Chennai,FedEx,4/13/2025,4/18/2025,34.3,1097.74,Delivered,1842,5,FALSE
+SH12000,Hyderabad_Warehouse,Delhi,BlueDart,4/13/2025,4/17/2025,3.9,634.25,Delivered,1324,4,FALSE
