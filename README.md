@@ -23,9 +23,7 @@ The internship focuses on applying data analytics and data science techniques to
 | Week 1 | Strategic Planning | Logistics scenario, KPIs, data strategy and methodology | ✅ Completed |
 | Week 2 | Data Collection, Cleaning & Preprocessing | Missing values, duplicates, outliers and normalization | ✅ Completed |
 | Week 3 | Advanced Data Analysis & Visualization | EDA, correlations, distributions and logistics insights | ✅ Completed |
-| Week 4 | Predictive Modeling & Optimization | Prediction, model evaluation and optimization | 🔄 Upcoming |
-
----
+| Week 4 | Predictive Modeling & Optimization | Predictive modeling, model evaluation and logistics optimization | ✅ Completed |---
 
 ## 📂 Repository Structure
 
